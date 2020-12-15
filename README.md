@@ -1,4 +1,9 @@
 # It's a repository of Java language programming 📕☕🔢
+<p>I created this repository for my JavaScript Full-Stack Development learning.</p>
+<blockquote><b>Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in JavaScript development, if you want to learn about HTML5, CSS3 or JS Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
+
+
+
 <img src="https://training.infnet.edu.br/wp-content/uploads/sites/18/2019/02/desenvolvedor-java.jpg"/>
 
 ## Introduction - Overview Java language ☕:
