@@ -1,14 +1,14 @@
 # It's a repository of Java language programming 📕☕🔢
 <p>I created this repository for my Java Development learning.</p>
+
+<img src="https://training.infnet.edu.br/wp-content/uploads/sites/18/2019/02/desenvolvedor-java.jpg"/>
+
 <blockquote><b>Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in Java development, if you want to learn about HTML5, CSS3 or Java Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
 
 [![Web](https://img.shields.io/badge/-HTML5‍‍and‍‍css3‍‍development-6DB33F?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![Oracle](https://img.shields.io/badge/-OracleDB-6DB33F?style=for-the-badge&logo=Oracle&logoColor=white)](https://github.com/IsaacAlves7/sql-language)
 [![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)](https://www.artstation.com/isaacalves7)
 [![Android](https://img.shields.io/badge/-Android-6DB33F?style=for-the-badge&logo=Android&logoColor=white)](https://www.artstation.com/isaacalves7)
-
-
-<img src="https://training.infnet.edu.br/wp-content/uploads/sites/18/2019/02/desenvolvedor-java.jpg"/>
 
 ## ☕ Main menu - Overview about Java language ☕:
 
