@@ -7,9 +7,9 @@
 <blockquote>⚠️ <b>Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in Java development, if you want to learn about HTML5, CSS3 or Java Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
 
 [![Web](https://img.shields.io/badge/-HTML5‍‍and‍‍css3‍‍development-8D6748?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
-[![Oracle](https://img.shields.io/badge/-OracleDB-8D6748?style=for-the-badge&logo=Oracle&logoColor=white)](https://github.com/IsaacAlves7/sql-language)
+[![Oracle](https://img.shields.io/badge/-OracleDB-372213?style=for-the-badge&logo=Oracle&logoColor=white)](https://github.com/IsaacAlves7/sql-language)
 [![Spring](https://img.shields.io/badge/-Spring-8D6748?style=for-the-badge&logo=Spring&logoColor=white)](https://www.artstation.com/isaacalves7)
-[![Android](https://img.shields.io/badge/-Android-8D6748?style=for-the-badge&logo=Android&logoColor=white)](https://www.artstation.com/isaacalves7)
+[![Android](https://img.shields.io/badge/-Android-372213?style=for-the-badge&logo=Android&logoColor=white)](https://www.artstation.com/isaacalves7)
 
 ## ☕ Main menu - Overview about Java language ☕:
 
