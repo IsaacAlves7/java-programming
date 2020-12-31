@@ -1,4 +1,4 @@
-# It's a repository of Java language programming 📕☕🔢
+# It's a repository of Java language programming 📔☕🔢
 <p>I created this repository for my Java Development learning.</p>
 
 <img src="https://training.infnet.edu.br/wp-content/uploads/sites/18/2019/02/desenvolvedor-java.jpg"/>
