@@ -1,5 +1,7 @@
 # It's a repository of Java language programming 📔☕🔢
 [![.JAR](https://img.shields.io/badge/-script.jar-000000?style=social&logo=Java&logoColor=372213)](#)
+[![.JAR](https://img.shields.io/badge/-db.sql-000000?style=social&logo=Oracle&logoColor=372213)](#)
+
 <p>I created this repository for my Java Development learning.</p>
 
 <img src="https://training.infnet.edu.br/wp-content/uploads/sites/18/2019/02/desenvolvedor-java.jpg"/>
