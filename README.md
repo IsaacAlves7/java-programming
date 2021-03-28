@@ -149,7 +149,9 @@ Kit com todos os programas necessários para executar aplicações Java. Faz par
 ## ☕ Fases de um programa em linguagem Java 🆙
 ![img01](https://user-images.githubusercontent.com/61624336/112771689-6c3a6500-9003-11eb-8436-1bda07a25ea3.jpg)
 
+O código de um programa Java é compilado apenas uma vez, gerando um código intermediário, o **bytecode**, que pode ser executado quantas vezes forem necessárias em qualquer ambiente que possua uma máquina virtual Java (JVM) disponível.
 
+Inicialmente a tecnologia Java realizava uma interpretação completa do bytecode, mas atualmente o interpretador realiza uma compilação **just-in-time** (compila o bytecode para o ambiente onde ocorrerá a execução), permitindo aumentar o desempenho da aplicação.
 <hr>
 
 <div align="left"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"><div>
