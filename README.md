@@ -42,7 +42,11 @@ https://arquivo.devmedia.com.br/cursos/imagem/curso_o-que-e-java_2028.png
 -->
 
 <h1 align="center">Cap 01: ☕ Tecnologia Java ♨️</div>
-<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-1.svg" height="170"></div>
+
+## ☕ Paradigmas de desenvolvimento de software 🔢
+
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/tic-computer.svg" height="170"></div>
+
 Hoje em dia, o desenvolvimento de sistemas se baseia em vários e diferentes paradigmas, tais como os listados a seguir:
 
 - **Imperativo (Procedural)**: Segue sequências de comandos ordenados segundo uma lógica.
@@ -50,8 +54,6 @@ Hoje em dia, o desenvolvimento de sistemas se baseia em vários e diferentes par
 - **Lógico**: Voltado ao desenvolvimento de problemas de lógica e usado em sistemas de inteligência computacional.
 - **Orientado a Objetos (OO)**: Define um conjunto de classes para dividir o problema e realiza a interação entre as diferentes classes para também resolver o problema como um todo.
 
-
-
-
-
+## Histórico da Linguagem Java
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-duke.svg" height="170"><img src="https://cdn.worldvectorlogo.com/logos/java-1.svg" height="170"></div>
 
