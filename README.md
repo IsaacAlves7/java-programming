@@ -101,7 +101,7 @@ A tecnologia Java foi totalmente gratuita por muito tempo, mas recentemente a Or
 - Hoje, os problemas de desempenho são resolvidos com compilação just-in-time.
 
 ## ☕ Plataforma Java 🚧
-<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/jee-2.svg" height="177"></div>
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/jee-2.svg" height="177"></div><br \>
 
 De forma geral, entendemos que plataforma (ambiente de execução) é composta por hardware + software básico (sistema operacional).
 
