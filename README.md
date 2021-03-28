@@ -109,6 +109,8 @@ A plataforma Java é definida apenas em software e possui dois componentes:
 
 
 ### ☕ API Java 🌳
+[![.JAR](https://img.shields.io/badge/-script.jar-000000?style=social&logo=Java&logoColor=brown)](#)
+[![.JAR](https://img.shields.io/badge/-script.class-000000?style=social&logo=Java&logoColor=brown)](#)
 
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/112760358-0b903580-8fcd-11eb-9e08-46f78186e835.png" height="170"><img src="https://user-images.githubusercontent.com/61624336/112760365-164aca80-8fcd-11eb-9d83-4b7ee0043b5f.jpg" height="170"></div>
 
