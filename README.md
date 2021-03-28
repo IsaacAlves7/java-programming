@@ -21,8 +21,6 @@
 [![Android](https://img.shields.io/badge/-Android-372213?style=for-the-badge&logo=Android&logoColor=white)](https://www.artstation.com/isaacalves7)
 [![Git](https://img.shields.io/badge/-GitHub-8D6748?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/IsaacAlves7/git-and-github)
 
-## ☕ Main menu - Fundamentals about Java language ☕:
-
 <hr>
 <!--
 https://miro.medium.com/max/1200/1*GCu4cNWIU1ElDbY7d4ycZw.png
