@@ -112,7 +112,7 @@ A plataforma Java é definida apenas em software e possui dois componentes:
 - **Conjunto de bibliotecas que disponibilizam classes comuns**.
 
 
-## ☕ API Java 🌳
+### ☕ API Java 🌳
 [![.JAR](https://img.shields.io/badge/-script.jar-000000?style=social&logo=Java&logoColor=brown)](#)
 [![.JAR](https://img.shields.io/badge/-script.class-000000?style=social&logo=Java&logoColor=brown)](#)
 
@@ -131,9 +131,10 @@ A tecnologia Java é composta por três plataformas:
 - **J2EE** ou **Java EE (Java Enterprise Edition)**: versão voltada para o desenvolvimento de aplicações corporativas e aplicações web;
 - **J2ME** ou **Java ME (Java Micro Edition)**: versão voltada para o desenvolvimento de aplicações móveis ou embarcadas.
 
-## ☕ Ambiente de desenvolvimento 🖥️
+### ☕ Ambiente de desenvolvimento 🖥️
+Existem os ambientes JDK e JRE para construir e executar uma aplicação Java.
 
-### ☕ Java Development Kit (JDK) 🧰
+#### ☕ Java Development Kit (JDK) 🧰
 Coleção de programas para, dentre outras tarefas, compilar e executar aplicações Java. Este é o kit necessário para o desenvolvedor, pois contém todo o suporte para a criação de aplicações em Java.
 
 Exemplo:
@@ -142,7 +143,7 @@ Exemplo:
 - Java;
 - Outros.
 
-### ☕ Java Runtime Environment (JRE) 🛠️
+#### ☕ Java Runtime Environment (JRE) 🛠️
 Kit com todos os programas necessários para executar aplicações Java. Faz parte do JDK, mas pode ser instalado separadamente para execução em máquinas clientes, uma vez que o JDK é voltado para os desenvolvedores. O JRE pode ser instalado separadamente e dá suporte somente a execução de aplicações, por isso é a versão mais indicada para instalação nas máquinas clientes que apenas executarão aplicações, não sendo responsáveis pelo seu desenvolvimento.
 <hr>
 
