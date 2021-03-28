@@ -119,5 +119,6 @@ A plataforma Java é definida apenas em software e possui dois componentes:
 
 O modelo inicial era interpretado. Já o atual trocou a etapa do interpretador por uma 2ª compilação (compilador JIT, isto é, just-in-time).
 
+<hr>
 
 <div align="left"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"><div>
