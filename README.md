@@ -104,3 +104,7 @@ A tecnologia Java foi totalmente gratuita por muito tempo, mas recentemente a Or
 De forma geral, entendemos que plataforma (ambiente de execução) é composta por hardware + software básico (sistema operacional).
 
 A plataforma Java é definida apenas em software e possui dois componentes:
+
+- **Máquina Virtual Java** (JVM - Java Virtual Machine);
+- **Conjunto de bibliotecas que disponibilizam classes comuns**.
+
