@@ -99,3 +99,6 @@ A tecnologia Java foi totalmente gratuita por muito tempo, mas recentemente a Or
 - Desempenho;
 - Mais rápida que linguagens de script, porém mais lenta que as linguagens compiladas puras;
 - Hoje, os problemas de desempenho são resolvidos com compilação just-in-time.
+
+## ☕ Plataforma Java
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-100-pure.svg" height="170"></div>
