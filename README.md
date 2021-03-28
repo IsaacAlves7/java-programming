@@ -155,14 +155,14 @@ Inicialmente a tecnologia Java realizava uma interpretação completa do bytecod
 
 <div align="center"><img src="https://aprendafazer.net/wp-content/uploads/2019/10/NetBeans-1.png" height="170"></div>
 
-<blockquote>Para o desenvolvimento de aplicações em Java é comum o uso de ferramentas IDEs (Integrated Development Environment), que facilitam a codificação e a realização de testes, sendo as mais conhecidas:
+Para o desenvolvimento de aplicações em Java é comum o uso de ferramentas IDEs (Integrated Development Environment), que facilitam a codificação e a realização de testes, sendo as mais conhecidas:
   
 - Eclipse;
 - NetBeans;
 - IntelliJ;
 - BlueJ.
 
-A que irei utilizar no momento é o NetBeans IDE.</blockquote>
+A que irei utilizar no momento é o NetBeans IDE.
 <hr>
 
 <div align="left"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"><div>
