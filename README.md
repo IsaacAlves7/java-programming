@@ -154,6 +154,7 @@ O código de um programa Java é compilado apenas uma vez, gerando um código in
 Inicialmente a tecnologia Java realizava uma interpretação completa do bytecode, mas atualmente o interpretador realiza uma compilação **just-in-time** (compila o bytecode para o ambiente onde ocorrerá a execução), permitindo aumentar o desempenho da aplicação.
 
 <blockquote>Para o desenvolvimento de aplicações em Java é comum o uso de ferramentas IDEs (Integrated Development Environment), que facilitam a codificação e a realização de testes, sendo as mais conhecidas:
+  
 - Eclipse;
 - NetBeans;
 - IntelliJ;
