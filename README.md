@@ -127,9 +127,9 @@ A tecnologia Java é composta por três plataformas:
 
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/jee-2.svg" height="177"></div><br \>
 
-- J2SE ou Java SE (Java Standard Edition): base da plataforma, inclui o ambiente de execução e as bibliotecas comuns;
-- J2EE ou Java EE (Java Enterprise Edition): versão voltada para o desenvolvimento de aplicações corporativas e aplicações web;
-- J2ME ou Java ME (Java Micro Edition): versão voltada para o desenvolvimento de aplicações móveis ou embarcadas.
+- **J2SE** ou **Java SE (Java Standard Edition)**: base da plataforma, inclui o ambiente de execução e as bibliotecas comuns;
+- **J2EE** ou **Java EE (Java Enterprise Edition)**: versão voltada para o desenvolvimento de aplicações corporativas e aplicações web;
+- **J2ME** ou **Java ME (Java Micro Edition)**: versão voltada para o desenvolvimento de aplicações móveis ou embarcadas.
 
 <hr>
 
