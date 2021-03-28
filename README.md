@@ -48,6 +48,7 @@ https://arquivo.devmedia.com.br/cursos/imagem/curso_o-que-e-java_2028.png
 
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/tic-computer.svg" height="170"></div>
 
+
 Hoje em dia, o desenvolvimento de sistemas se baseia em vários e diferentes paradigmas, tais como os listados a seguir:
 
 - **Imperativo (Procedural)**: Segue sequências de comandos ordenados segundo uma lógica.
