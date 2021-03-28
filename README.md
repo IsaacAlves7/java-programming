@@ -42,6 +42,7 @@ https://arquivo.devmedia.com.br/cursos/imagem/curso_o-que-e-java_2028.png
 -->
 
 <h1 align="center">Cap 01: ☕ Tecnologia Java ♨️</div>
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-1.svg" height="170"></div>
 Hoje em dia, o desenvolvimento de sistemas se baseia em vários e diferentes paradigmas, tais como os listados a seguir:
 
 - **Imperativo**: Segue sequências de comandos ordenados segundo uma lógica.
