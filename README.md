@@ -40,6 +40,7 @@ https://arquivo.devmedia.com.br/cursos/imagem/curso_o-que-e-java_2028.png
 -->
 
 <h1 align="center">Cap 01: ☕ Tecnologia Java ♨️</div>
+Java é o ambiente computacional, ou plataforma, criada pela empresa estadunidense Sun Microsystems, e vendida para a Oracle depois de alguns anos. A plataforma permite desenvolver programas utilizando a linguagem de programação Java.
 
 ## ☕ Paradigmas de desenvolvimento de software 🔢
 
