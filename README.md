@@ -78,25 +78,25 @@ A linguagem Java teve início ao incorporar a tecnologia Java ao navegador de in
 A tecnologia Java foi totalmente gratuita por muito tempo, mas recentemente a Oracle, que passou a deter os direitos da linguagem após adquirir a Sun Microsystems, está licenciando o uso para empresas com custos. A empresa deve permitir o licenciamento gratuito somente para desenvolvedores avulsos que criam aplicações pessoais sem custo ou para simples aprendizado.
 
 ## ☕ Principais características e vantagens da tecnologia Java 🤩
-• Orientada a objetos, com uma grande diversidade de bibliotecas de classes disponível;
-• Independe de plataforma: write once, run everywhere ;
-• Segurança - Mecanismos para sistemas livres de vírus, pacotes para criptografia;
-• Simplicidade;
-• Sintaxe dos comandos básicos segue o padrão do C;
-• Sintaxe da parte OO bem mais simples que o C++;
-• Internacionalização;
-• Unicode: padrão que permite manipular textos de qualquer sistema de escrita;
-• Robustez;
-• Tratamento de exceções;
-• JVM impede que uma aplicação mal comportada paralise o sistema;
-• Distribuída e multitarefa;
-•  Em inglês: escreva uma vez, rode em qualquer lugar.
-• Os programas podem utilizar recursos da rede com a mesma facilidade que acessam arquivos locais;
-• Trabalha com diversos protocolos (TCP/IP, HTTP, FTP);
-• Execução simultânea de múltiplas threads;
-• Gerenciamento de memória;
-• Memória virtual gerenciada pela JVM;
-• Garbage collection (limpeza de memória);
-• Desempenho;
-• Mais rápida que linguagens de script, porém mais lenta que as linguagens compiladas puras;
-• Hoje, os problemas de desempenho são resolvidos com compilação just-in-time.
+- Orientada a objetos, com uma grande diversidade de bibliotecas de classes disponível;
+- Independe de plataforma: write once, run everywhere ;
+- Segurança - Mecanismos para sistemas livres de vírus, pacotes para criptografia;
+- Simplicidade;
+- Sintaxe dos comandos básicos segue o padrão do C;
+- Sintaxe da parte OO bem mais simples que o C++;
+- Internacionalização;
+- Unicode: padrão que permite manipular textos de qualquer sistema de escrita;
+- Robustez;
+- Tratamento de exceções;
+- JVM (Java Virtual Machine) impede que uma aplicação mal comportada paralise o sistema;
+- Distribuída e multitarefa;
+-  Em inglês: escreva uma vez, rode em qualquer lugar.
+- Os programas podem utilizar recursos da rede com a mesma facilidade que acessam arquivos locais;
+- Trabalha com diversos protocolos (TCP/IP, HTTP, FTP);
+- Execução simultânea de múltiplas threads;
+- Gerenciamento de memória;
+- Memória virtual gerenciada pela JVM (Java Virtual Machine);
+- Garbage collection (limpeza de memória);
+- Desempenho;
+- Mais rápida que linguagens de script, porém mais lenta que as linguagens compiladas puras;
+- Hoje, os problemas de desempenho são resolvidos com compilação just-in-time.
