@@ -163,6 +163,12 @@ Para o desenvolvimento de aplicações em Java é comum o uso de ferramentas IDE
 - BlueJ.
 
 A que irei utilizar no momento é o <a href="https://netbeans.apache.org/download/index.html">NetBeans IDE</a>.
+
+## ☕ Ambiente de programação 🖥️
+Existem várias ferramentas para o desenvolvimento de sistemas utilizando a linguagem Java, mas os desenvolvedores têm preferência pelos IDEs **Netbeans** e Eclipse. Ambos são gratuitos e podem ser adquiridos pela internet através de download.
+
+É importante que você já tenha instalado o JDK antes de instalar o seu IDE escolhido (Netbeans ou Eclipse).
+
 <hr>
 
 <div align="left"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"><div>
