@@ -55,5 +55,5 @@ Hoje em dia, o desenvolvimento de sistemas se baseia em vários e diferentes par
 - **Orientado a Objetos (OO)**: Define um conjunto de classes para dividir o problema e realiza a interação entre as diferentes classes para também resolver o problema como um todo.
 
 ## Histórico da Linguagem Java
-<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-duke.svg" height="170"><img src="https://cdn.worldvectorlogo.com/logos/java-1.svg" height="170"></div>
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-duke.svg" height="170"><img src="https://cdn.worldvectorlogo.com/logos/java-1.svg" height="170"><img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="170"></div>
 
