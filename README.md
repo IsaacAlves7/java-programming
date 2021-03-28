@@ -56,7 +56,7 @@ Hoje em dia, o desenvolvimento de sistemas se baseia em vários e diferentes par
 - **Lógico**: Voltado ao desenvolvimento de problemas de lógica e usado em sistemas de inteligência computacional.
 - **Orientado a Objetos (OO)**: Define um conjunto de classes para dividir o problema e realiza a interação entre as diferentes classes para também resolver o problema como um todo.
 
-## Histórico da Linguagem Java
+## ☕ Histórico da Linguagem Java ☕
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-duke.svg" height="170"><img src="https://cdn.worldvectorlogo.com/logos/java-1.svg" height="170"><img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="170"></div>
 
 A tecnologia Java foi desenvolvida na década de 1990, a partir de um projeto pessoal de um funcionário da Sun Microsystems. A ideia inicial estava ligada à criação de uma linguagem de programação que pudesse ser utilizada em diferentes sistemas, alterando o paradigma de que uma aplicação só poderia ser desenvolvida para uso em um único ambiente de hardware e sistema operacional, como era bastante comum na época.
