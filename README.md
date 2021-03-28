@@ -44,5 +44,9 @@ https://arquivo.devmedia.com.br/cursos/imagem/curso_o-que-e-java_2028.png
 <h1 align="center">Cap 01: ☕ Tecnologia Java ♨️</div>
 Hoje em dia, o desenvolvimento de sistemas se baseia em vários e diferentes paradigmas, tais como os listados a seguir:
 
+- **Imperativo**: Segue sequências de comandos ordenados segundo uma lógica.
+- **Funcional**: Trabalha com a divisão de problemas através de funções, que resolvem separadamente problemas menores e que, ao serem organizados, resolvem o problema como um todo.
+
+
 
 
