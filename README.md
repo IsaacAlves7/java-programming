@@ -90,7 +90,6 @@ A tecnologia Java foi totalmente gratuita por muito tempo, mas recentemente a Or
 - Tratamento de exceções;
 - JVM (Java Virtual Machine) impede que uma aplicação mal comportada paralise o sistema;
 - Distribuída e multitarefa;
--  Em inglês: escreva uma vez, rode em qualquer lugar.
 - Os programas podem utilizar recursos da rede com a mesma facilidade que acessam arquivos locais;
 - Trabalha com diversos protocolos (TCP/IP, HTTP, FTP);
 - Execução simultânea de múltiplas threads;
