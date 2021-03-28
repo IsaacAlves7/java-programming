@@ -152,6 +152,12 @@ Kit com todos os programas necessários para executar aplicações Java. Faz par
 O código de um programa Java é compilado apenas uma vez, gerando um código intermediário, o **bytecode**, que pode ser executado quantas vezes forem necessárias em qualquer ambiente que possua uma máquina virtual Java (JVM) disponível.
 
 Inicialmente a tecnologia Java realizava uma interpretação completa do bytecode, mas atualmente o interpretador realiza uma compilação **just-in-time** (compila o bytecode para o ambiente onde ocorrerá a execução), permitindo aumentar o desempenho da aplicação.
+
+<blockquote>Para o desenvolvimento de aplicações em Java é comum o uso de ferramentas IDEs (Integrated Development Environment), que facilitam a codificação e a realização de testes, sendo as mais conhecidas:
+- Eclipse;
+- NetBeans;
+- IntelliJ;
+- BlueJ.</blockquote>
 <hr>
 
 <div align="left"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"><div>
