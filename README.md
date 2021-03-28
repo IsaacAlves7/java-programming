@@ -6,7 +6,6 @@
 -->
 <p>I created this repository for my Java Development learning.</p>
 
-<div align="left"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"><div>
 <a href="https://github.com/IsaacAlves7/java-programming"><img src="https://training.infnet.edu.br/wp-content/uploads/sites/18/2019/02/desenvolvedor-java.jpg"/></a>
 
 ## 🎒 Prerequisites and repositories 📚:
@@ -117,3 +116,6 @@ A plataforma Java é definida apenas em software e possui dois componentes:
 "Diferentemente das linguagens convencionais, que são compiladas para código nativo, a linguagem Java é compilada para "bytecode" (gerando o .class ou .jar), que é executado por uma máquina virtual Java (JVM - Java Virtual Machine)."
 
 O modelo inicial era interpretado. Já o atual trocou a etapa do interpretador por uma 2ª compilação (compilador JIT, isto é, just-in-time).
+
+
+<div align="left"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"><div>
