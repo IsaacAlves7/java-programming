@@ -108,3 +108,8 @@ A plataforma Java é definida apenas em software e possui dois componentes:
 - **Máquina Virtual Java** (JVM - Java Virtual Machine);
 - **Conjunto de bibliotecas que disponibilizam classes comuns**.
 
+
+### ☕ API Java 🌳
+"Diferentemente das linguagens convencionais, que são compiladas para código nativo, a linguagem Java é compilada para "bytecode" (gerando o .class ou .jar), que é executado por uma máquina virtual Java (JVM - Java Virtual Machine)."
+
+O modelo inicial era interpretado. Já o atual trocou a etapa do interpretador por uma 2ª compilação (compilador JIT, isto é, just-in-time).
