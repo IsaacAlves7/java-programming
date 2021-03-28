@@ -23,6 +23,7 @@
 
 ## ☕ Main menu - Fundamentals about Java language ☕:
 
+<hr>
 <!--
 https://miro.medium.com/max/1200/1*GCu4cNWIU1ElDbY7d4ycZw.png
 https://refactoring.guru/images/patterns/languages/java.png
