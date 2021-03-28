@@ -162,7 +162,7 @@ Para o desenvolvimento de aplicações em Java é comum o uso de ferramentas IDE
 - IntelliJ;
 - BlueJ.
 
-A que irei utilizar no momento é o NetBeans IDE.
+A que irei utilizar no momento é o <a href="https://netbeans.apache.org/download/index.html">NetBeans IDE</a>.
 <hr>
 
 <div align="left"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"><div>
