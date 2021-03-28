@@ -131,6 +131,16 @@ A tecnologia Java é composta por três plataformas:
 - **J2EE** ou **Java EE (Java Enterprise Edition)**: versão voltada para o desenvolvimento de aplicações corporativas e aplicações web;
 - **J2ME** ou **Java ME (Java Micro Edition)**: versão voltada para o desenvolvimento de aplicações móveis ou embarcadas.
 
+## ☕ Ambiente de desenvolvimento 🖥️
+
+### ☕ Java Development Kit (JDK) 🧰
+Coleção de programas para, dentre outras tarefas, compilar e executar aplicações Java. Este é o kit necessário para o desenvolvedor, pois contém todo o suporte para a criação de aplicações em Java.
+
+Exemplo:
+- Javac (compilador Java);
+- Javadoc (utilitário para documentação);
+- Java;
+- Outros.
 <hr>
 
 <div align="left"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"><div>
