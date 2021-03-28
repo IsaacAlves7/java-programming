@@ -98,7 +98,7 @@ A tecnologia Java foi totalmente gratuita por muito tempo, mas recentemente a Or
 - Hoje, os problemas de desempenho são resolvidos com compilação just-in-time.
 
 ## ☕ Plataforma Java 🚧
-<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/jee-2.svg" height="177"></div><br \>
+<div align="center"><img src="https://www.intexsoft.com/images/intexsoft/blog/JVM/jvm1.png"></div><br \>
 
 De forma geral, entendemos que plataforma (ambiente de execução) é composta por hardware + software básico (sistema operacional).
 
@@ -118,6 +118,8 @@ A plataforma Java é definida apenas em software e possui dois componentes:
 "Diferentemente das linguagens convencionais, que são compiladas para código nativo, a linguagem Java é compilada para "bytecode" (gerando o .class ou .jar), que é executado por uma máquina virtual Java (JVM - Java Virtual Machine)."
 
 O modelo inicial era interpretado. Já o atual trocou a etapa do interpretador por uma 2ª compilação (compilador JIT, isto é, just-in-time).
+
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/jee-2.svg" height="177"></div><br \>
 
 <hr>
 
