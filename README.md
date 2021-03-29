@@ -178,6 +178,9 @@ Existem dois arquivos diferentes: o primeiro, com o source, contém os códigos 
 
 Em suas últimas versões, o Netbeans não usa instalador, mas você deve descompactar o arquivo do Netbeans (Bin - executável) em uma pasta em seu computador. Uma vez o Java JDK instalado, você poderá executar o Netbeans tranquilamente.
 
+### Eclipse
+<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" height="170"></div>
+
 <hr>
 
 <div align="left"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"><div>
