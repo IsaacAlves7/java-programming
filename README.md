@@ -178,6 +178,7 @@ Existem dois arquivos diferentes: o primeiro, com o source, contém os códigos 
 
 ### Eclipse
 <div align="center"><a href="https://www.eclipse.org/downloads/"><img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" height="170" title="Click to install!"></a></div>
+
 Você não precisa instalar as duas, pois ambas são concorrentes e desempenham as mesmas funcionalidades. A preferência é a critério do programador.
 
 A linguagem Java possui uma base de construção semelhante à linguagem C e, por isso, boa parte de sua estrutura e sintaxe se assemelha a ela. Desta forma, programadores com conhecimento nesta linguagem tem grande facilidade com a sintaxe da linguagem Java. Outra importante semelhança está nas estruturas de controle de fluxo, que são construídas da mesma forma em ambas as linguagens.
