@@ -194,7 +194,7 @@ A linguagem Java possui uma base de construção semelhante à linguagem C e, po
 ![img05](https://user-images.githubusercontent.com/61624336/112783460-be8c7d80-9025-11eb-9d0e-38d8ce22f537.jpg)
 ![img06](https://user-images.githubusercontent.com/61624336/112783560-f7c4ed80-9025-11eb-9aa5-db63dc209059.jpg)
 
-
+O projeto **Exemplo** foi criado e automaticamente teremos uma **classe inicial** para execução da aplicação.
 
 
 <hr>
