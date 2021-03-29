@@ -210,6 +210,10 @@ Após o código estar pronto e sem erros, podemos executar a aplicação clicand
 
 ![img10](https://user-images.githubusercontent.com/61624336/112784797-e7624200-9028-11eb-8739-7c214e90e4f0.jpg)
 
+A aplicação executará na parte inferior do Netbeans:
+
+![img11](https://user-images.githubusercontent.com/61624336/112784856-03fe7a00-9029-11eb-93f7-7da23c1e5735.jpg)
+
 <hr>
 
 <div align="left"><a href="https://github.com/IsaacAlves7/java-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"></a></div>
