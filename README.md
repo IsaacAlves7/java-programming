@@ -198,6 +198,10 @@ O projeto **Exemplo** foi criado e automaticamente teremos uma **classe inicial*
 
 ![img07](https://user-images.githubusercontent.com/61624336/112783806-89ccf600-9026-11eb-9a35-7d2d9b04774e.jpg)
 
+O ambiente está pronto para digitarmos o código da aplicação: preencha o código conforme o exemplo a seguir.
+
+![img08](https://user-images.githubusercontent.com/61624336/112783867-ac5f0f00-9026-11eb-824b-76e8d7f981c5.jpg)
+
 <hr>
 
 <div align="left"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"><div>
