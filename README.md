@@ -166,6 +166,7 @@ A que irei utilizar no momento é o <a href="https://netbeans.apache.org/downloa
 
 ## ☕ Ambiente de programação 🖥️
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="170"></div>
+
 Existem várias ferramentas para o desenvolvimento de sistemas utilizando a linguagem Java, mas os desenvolvedores têm preferência pelos IDEs **Netbeans** e Eclipse. Ambos são gratuitos e podem ser adquiridos pela internet através de download.
 
 É importante que você já tenha instalado o JDK antes de instalar o seu IDE escolhido (Netbeans ou Eclipse).
