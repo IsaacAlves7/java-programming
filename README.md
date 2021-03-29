@@ -217,9 +217,11 @@ A aplicação executará na parte inferior do Netbeans:
 <hr>
 
 <h1 align="center">Cap 02: ☕ Características da linguagem Java 🔍</h1>
+A linguagem Java tem boa parte de suas características herdadas da linguagem C. Muitos dos seus operadores, formação de identificadores, comandos de controle de fluxo e várias outras características são compartilhados entre estas duas linguagens.
 
+Todas as instruções da linguagem Java devem terminar por um símbolo de ponto e vírgula “;”. Você não usará o ponto e vírgula quando a instrução for uma codificação que irá continuar com um bloco de comandos.
 
-
+Vejamos um exemplo:
 
 
 
