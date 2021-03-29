@@ -162,6 +162,8 @@ Para o desenvolvimento de aplicações em Java é comum o uso de ferramentas IDE
 - IntelliJ;
 - BlueJ.
 
+[![.JAR](https://img.shields.io/badge/-script.java-000000?style=social&logo=Java&logoColor=brown)](#)
+
 Você pode usar qualquer tipo de ambiente, se preferir um editor de texto como um bloco de notas ou um VSCode você precisa usar a extensão **.java**.
 
 ## ☕ Ambiente de programação 🖥️
