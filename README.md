@@ -187,7 +187,7 @@ A linguagem Java possui uma base de construção semelhante à linguagem C e, po
 
 <blockquote>Cuidado com as diferenças de versões no sistema operacional: se instalar o Java para 64 bits, você deverá usar um IDE (Netbeans ou Eclipse) de 64 bits. O mesmo para a versão de 32 bits: tanto o Java quanto o IDE deverão ser para 32 bits.</blockquote>
 
-## Criando o primeiro projeto com o NetBeans
+## ☕ Criando o primeiro projeto com o NetBeans 📔
 ![img02](https://user-images.githubusercontent.com/61624336/112783447-ba606000-9025-11eb-99c1-9849bac132dd.jpg)
 ![img03](https://user-images.githubusercontent.com/61624336/112783450-bc2a2380-9025-11eb-9ad8-b3425b12416e.jpg)
 ![img04](https://user-images.githubusercontent.com/61624336/112783457-bd5b5080-9025-11eb-9ed8-7834c9429c27.jpg)
