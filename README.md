@@ -206,6 +206,9 @@ O ambiente está pronto para digitarmos o código da aplicação: preencha o có
 
 ![img09](https://user-images.githubusercontent.com/61624336/112783960-dca6ad80-9026-11eb-8f34-d32ee5ec1380.jpg)
 
+Após o código estar pronto e sem erros, podemos executar a aplicação clicando sobre o “arquivo da classe” com o botão direito, e em seguida clicar sobre a opção **Run file**.
+
+
 <hr>
 
 <div align="left"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"><div>
