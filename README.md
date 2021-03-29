@@ -216,4 +216,15 @@ A aplicação executará na parte inferior do Netbeans:
 
 <hr>
 
+<h1 align="center">Cap 02: ☕ Características da linguagem Java 🔍</h1>
+
+
+
+
+
+
+
+
+
+<hr>
 <div align="left"><a href="https://github.com/IsaacAlves7/java-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"></a></div>
