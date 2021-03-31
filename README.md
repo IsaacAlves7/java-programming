@@ -174,12 +174,12 @@ Existem várias ferramentas para o desenvolvimento de sistemas utilizando a ling
 
 É importante que você já tenha instalado o JDK antes de instalar o seu IDE escolhido (Netbeans ou Eclipse).
 
-### NetBeans 
+### ♨️ NetBeans 
 <div align="center"><a href="https://netbeans.apache.org/download/index.html"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="170" title="Click to install!"></a></div>
 
 Existem dois arquivos diferentes: o primeiro, com o source, contém os códigos fonte no Netbeans e não é o ideal para trabalharmos o desenvolvimento. A versão adequada para nós é a versão bin, que contém todos os códigos já compilados e prontos para a execução e desenvolvimento de projetos e aplicações Java.
 
-### Eclipse
+### ♨️ Eclipse
 <div align="center"><a href="https://www.eclipse.org/downloads/"><img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" height="170" title="Click to install!"></a></div>
 
 Você não precisa instalar as duas, pois ambas são concorrentes e desempenham as mesmas funcionalidades. A preferência é a critério do programador.
