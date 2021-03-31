@@ -118,6 +118,7 @@ A plataforma Java é definida apenas em software e possui dois componentes:
 
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/112760358-0b903580-8fcd-11eb-9e08-46f78186e835.png" height="170"><img src="https://user-images.githubusercontent.com/61624336/112760365-164aca80-8fcd-11eb-9d83-4b7ee0043b5f.jpg" height="170"></div>
 
+![Linguagem-Java-esquema-bytecode](https://user-images.githubusercontent.com/61624336/113073382-5e214b80-919f-11eb-8141-93ea67a402dc.png)
 
 "Diferentemente das linguagens convencionais, que são compiladas para código nativo, a linguagem Java é compilada para "bytecode" (gerando o .class ou .jar), que é executado por uma máquina virtual Java (JVM - Java Virtual Machine)."
 
