@@ -101,7 +101,7 @@ A tecnologia Java foi totalmente gratuita por muito tempo, mas recentemente a Or
 - Mais rápida que linguagens de script, porém mais lenta que as linguagens compiladas puras;
 - Hoje, os problemas de desempenho são resolvidos com compilação just-in-time.
 
-## ☕ Plataforma Java 🚧
+# ☕ Plataforma Java 🚧
 <div align="center"><img src="https://www.intexsoft.com/images/intexsoft/blog/JVM/jvm1.png"></div>
 
 De forma geral, entendemos que plataforma (ambiente de execução) é composta por hardware + software básico (sistema operacional).
@@ -112,7 +112,7 @@ A plataforma Java é definida apenas em software e possui dois componentes:
 - **Conjunto de bibliotecas que disponibilizam classes comuns**.
 
 
-### ☕ API Java 🌳
+## ☕ API Java 🌳
 [![.JAR](https://img.shields.io/badge/-script.jar-000000?style=social&logo=Java&logoColor=brown)](#)
 [![.JAR](https://img.shields.io/badge/-script.class-000000?style=social&logo=Java&logoColor=brown)](#)
 
@@ -132,7 +132,7 @@ A tecnologia Java é composta por três plataformas:
 - **J2EE** ou **Java EE (Java Enterprise Edition)**: versão voltada para o desenvolvimento de aplicações corporativas e aplicações web;
 - **J2ME** ou **Java ME (Java Micro Edition)**: versão voltada para o desenvolvimento de aplicações móveis ou embarcadas.
 
-# ☕ Ambiente de desenvolvimento 🖥️
+## ☕ Ambiente de desenvolvimento 🖥️
 Existem os ambientes JDK e JRE para construir e executar uma aplicação Java.
 
 ## ☕ Java Development Kit (JDK) 🧰
