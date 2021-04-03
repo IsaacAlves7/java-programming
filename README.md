@@ -220,7 +220,7 @@ A aplicação executará na parte inferior do Netbeans:
 ## ☕ Acessando o Java pelo terminal 🖥️
 Crie um programa em java e execute os seguintes comandos para abri-lo.
 
-![image](https://user-images.githubusercontent.com/61624336/113492444-bf9e2e80-94ad-11eb-945a-c14fb57aa8e8.png)
+![image](https://user-images.githubusercontent.com/61624336/113492455-d47ac200-94ad-11eb-99a2-946ea9250590.png)
 ![VirtualBox_Hadoop_ubuntu_SN_07_02_2017_03_37_06](https://user-images.githubusercontent.com/61624336/113488537-2d8a2c00-9495-11eb-9c21-876304e8d4cf.png)
 
 <hr>
