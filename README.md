@@ -233,6 +233,12 @@ Os blocos de comandos em Java são delimitados por <code>{</code> (abrir) e <cod
 
 Exemplo:
 
+<pre>if(nota>10.0) {
+
+System.out.println(“Nota inválida”);
+
+}</pre>
+
 <hr>
 
 # ☕ Dia do Programador 🎂
