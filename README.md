@@ -217,12 +217,12 @@ A aplicação executará na parte inferior do Netbeans:
 
 ![img11](https://user-images.githubusercontent.com/61624336/112784856-03fe7a00-9029-11eb-93f7-7da23c1e5735.jpg)
 
-<hr>
-
 ## ☕ Acessando o Java pelo terminal 🖥️
 Crie um programa em java e execute os seguintes comandos para abri-lo.
 
 ![VirtualBox_Hadoop_ubuntu_SN_07_02_2017_03_37_06](https://user-images.githubusercontent.com/61624336/113488537-2d8a2c00-9495-11eb-9c21-876304e8d4cf.png)
+
+<hr>
 
 <h1 align="center">Cap 02: ☕ Características da linguagem Java 🔍</h1>
 
