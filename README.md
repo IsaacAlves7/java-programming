@@ -219,6 +219,9 @@ A aplicação executará na parte inferior do Netbeans:
 
 <hr>
 
+## ☕ Acessando o Java pelo terminal 🖥️
+
+
 <h1 align="center">Cap 02: ☕ Características da linguagem Java 🔍</h1>
 
 A linguagem **Java** tem boa parte de suas características herdadas da linguagem **C**. Muitos dos seus operadores, formação de identificadores, comandos de controle de fluxo e várias outras características são compartilhados entre estas duas linguagens.
