@@ -174,7 +174,7 @@ Você pode usar qualquer tipo de ambiente, se preferir um editor de texto como u
 
 Existem várias ferramentas para o desenvolvimento de sistemas utilizando a linguagem Java, mas os desenvolvedores têm preferência pelos IDEs **Netbeans** e **Eclipse**. Ambos são gratuitos e podem ser adquiridos pela internet através de download.
 
-É importante que você já tenha instalado o JDK antes de instalar o seu IDE escolhido (Netbeans ou Eclipse).
+É importante que você já tenha instalado o JDK antes de instalar o seu IDE escolhido (Netbeans ou Eclipse). Assista o vídeo: 
 
 ### ♨️ NetBeans ♨️
 <div align="center"><a href="https://netbeans.apache.org/download/index.html"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="170" title="Click to install!"></a></div>
