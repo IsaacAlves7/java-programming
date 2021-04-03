@@ -229,7 +229,7 @@ Vejamos um exemplo:
 
 <hr>
 
-# Dia do Programador
+# ☕ Dia do Programador 🎂
 
 ![java](https://user-images.githubusercontent.com/61624336/112900782-4c19ad00-90ba-11eb-8b07-93435e038b53.jpg)
 
