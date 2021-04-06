@@ -323,6 +323,16 @@ Palavras reservadas da linguagem Java (não podem ser usadas como identificadore
 - instanceof
 - int
 - interface
+- long
+- native
+- new
+- null
+- private
+- protected
+- public
+- return
+- short
+- static
 
 <hr>
 
