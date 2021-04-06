@@ -352,5 +352,9 @@ O uso de comentários em Java é semelhante ao usado na linguagem C, mas apenas 
 
 Vejamos:
 
+### <code>//</code> comentário de linha  
+
+Quando usamos duas barras em uma linha de código, todo o seu conteúdo, após as duas barras, é desconsiderado pelo compilador, o que quer dizer que podemos escrever qualquer conteúdo que o mesmo não será compilado. É muito usado para deixar informações e avisos do programador no código.
+
 <hr>
 <div align="left"><a href="https://github.com/IsaacAlves7/java-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"></a></div>
