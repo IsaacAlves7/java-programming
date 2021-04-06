@@ -362,5 +362,11 @@ Quando usamos duas barras em uma linha de código, todo o seu conteúdo, após a
 
 Ao usarmos o comentário de bloco, podemos comentar não apenas um trecho de uma linha, mas todo um conjunto de linhas. É utilizado quando temos longos trechos de textos com avisos e informações, ou para a depuração do código. Para a depuração do código, podemos comentar um conjunto de linhas para realizar um conjunto de testes. Neste caso, podemos comentar um conjunto de instruções ou porque estas instruções estão com problemas e queremos verificar as demais. Ou, ao contrário, onde temos um conjunto de instruções já testadas e corretas e queremos apenas testar as demais. Seja como for, o uso do comentário de bloco é muito usual e comum entre os programadores.
 
+### <code>/***/</code> comentário de documentação
+
+O comentário de documentação se difere do comentário de bloco por possuir um asterisco a mais no início, mas ambos encerram da mesma forma. Existe uma ferramenta na linguagem Java responsável por extrair de um projeto (com várias classes) todos os comentários de documentação e montar um documento com todo este conteúdo.  
+
+Neste caso, usamos este tipo de comentário apenas para descrever avisos e informações das classes, de forma a realizar a documentação do sistema ainda durante sua fase de criação. Isto permite que o desenvolvedor descreva todo a documentação no próprio projeto, facilitando a descrição e a manutenção do sistema. Assim, ao terminar um projeto ou realizar algum tipo de modificação, basta gerar novamente a documentação do sistema que tudo estará atualizado.
+
 <hr>
 <div align="left"><a href="https://github.com/IsaacAlves7/java-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"></a></div>
