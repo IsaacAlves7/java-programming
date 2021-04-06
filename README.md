@@ -348,9 +348,9 @@ Palavras reservadas da linguagem Java (não podem ser usadas como identificadore
 <blockquote><b>OBS:</b> Todas as palavras reservadas começam por letras minúsculas e são palavras do idioma inglês.</blockquote>
 
 ## ☕ Comentários 📝
+O uso de comentários em Java é semelhante ao usado na linguagem C, mas apenas dois destes tipos são iguais nas duas linguagens, sendo o terceiro tipo somente disponibilizado na linguagem Java.
 
-<hr>
-
+Vejamos:
 
 <hr>
 <div align="left"><a href="https://github.com/IsaacAlves7/java-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"></a></div>
