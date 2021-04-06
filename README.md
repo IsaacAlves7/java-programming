@@ -333,6 +333,17 @@ Palavras reservadas da linguagem Java (não podem ser usadas como identificadore
 - return
 - short
 - static
+- super
+- switch
+- synchronized
+- tdrow
+- throws
+- transient
+- true
+- try
+- void
+- volatile
+- while
 
 <hr>
 
