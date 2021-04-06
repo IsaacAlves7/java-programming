@@ -250,12 +250,40 @@ Quando desenvolvemos um programa em qualquer linguagem, é comum que utilizemos 
 
 Exemplo:
 
+<pre>import java.util.Scanner;
+
+public class Exemplo {
+
+// identação do bloco da classe Exemplo
+
+public static void main(String[] args) {
+
+// identação do bloco do método main
+
+// TODO Auto-generated method stub
+
+Scanner sc = new Scanner(System.in);
+
+double media, nota1, nota2;
+
+System.out.println("Digite a nota 1:");
+
+nota1 = Double.parseDouble(sc.nextLine());
+
+System.out.println("Digite a nota 2:");
+
+nota2 = Double.parseDouble(sc.nextLine());
+
+media = (nota1 + nota2) /2.0;
+
+System.out.println("A sua média é:" + media);
+
+sc.close();
+
+} // encerramento da identação do bloco do método main
+
+} // encerramento da identação da classe Exemplo</pre>
 <hr>
-
-# ☕ Dia do Programador 🎂
-
-![java](https://user-images.githubusercontent.com/61624336/112900782-4c19ad00-90ba-11eb-8b07-93435e038b53.jpg)
-
 
 
 <hr>
