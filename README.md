@@ -306,6 +306,10 @@ Palavras reservadas da linguagem Java (não podem ser usadas como identificadore
 - byte
 - case
 - catch
+- char
+- class
+- continue
+- do
 
 <hr>
 
