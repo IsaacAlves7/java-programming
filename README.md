@@ -345,6 +345,8 @@ Palavras reservadas da linguagem Java (não podem ser usadas como identificadore
 - volatile
 - while
 
+<blockquote><b>OBS:</b> Todas as palavras reservadas começam por letras minúsculas e são palavras do idioma inglês.</blockquote>
+
 <hr>
 
 
