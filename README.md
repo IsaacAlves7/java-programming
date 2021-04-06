@@ -295,6 +295,18 @@ Exemplos de identificadores válidos em Java:
 - nota1
 - _sys_path
 - $user
+
+Observe que os exemplos 2 e 3 possuem a mesma grafia, mas, como existe mudança entre caixa alta e baixa, para a linguagem Java são dois diferentes identificadores. 
+
+Palavras reservadas da linguagem Java (não podem ser usadas como identificadores); dentre elas podemos destacar:
+
+- abstract
+- boolean
+- break
+- byte
+- case
+- catch
+
 <hr>
 
 
