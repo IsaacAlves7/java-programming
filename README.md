@@ -320,6 +320,9 @@ Palavras reservadas da linguagem Java (não podem ser usadas como identificadore
 - for
 - implements
 - import
+- instanceof
+- int
+- interface
 
 <hr>
 
