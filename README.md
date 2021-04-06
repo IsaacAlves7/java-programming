@@ -310,6 +310,13 @@ Palavras reservadas da linguagem Java (não podem ser usadas como identificadore
 - class
 - continue
 - do
+- double
+- else
+- extends
+- false
+- final
+- finally
+
 
 <hr>
 
