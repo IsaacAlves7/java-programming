@@ -286,6 +286,15 @@ sc.close();
 
 Em todas as linguagens de programação, devemos identificar variáveis, programas, funções, métodos, parâmetros etc. O ato de nomear algo em uma linguagem de programação é uma forma de identificação da linguagem. Em Java são permitidos identificadores que comecem com letras (maiúsculas ou minúsculas), ou um símbolo de “<code>$</code>” (dólar) ou “<code>_</code>” (underscore <code>/</code>underline). Números podem ser usados, mas não para iniciar um identificador.
 
+**Java** é uma linguagem de programação sensível à caixa (alta ou baixa ou **case sensitive**). Desta forma, a linguagem faz distinção entre letras maiúsculas e minúsculas. Mas isso não quer dizer que podemos utilizar qualquer nome como um identificador, pois existem algumas palavras reservadas que não podem ser utilizadas para tal. 
+
+Exemplos de identificadores válidos em Java:
+- identificador
+- nomeCompleto
+- NomeCompleto
+- nota1
+- _sys_path
+- $user
 <hr>
 
 
