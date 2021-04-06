@@ -352,9 +352,15 @@ O uso de comentários em Java é semelhante ao usado na linguagem C, mas apenas 
 
 Vejamos:
 
-### <code>//</code> comentário de linha  
+### <code>//</code> comentário de uma linha  
 
 Quando usamos duas barras em uma linha de código, todo o seu conteúdo, após as duas barras, é desconsiderado pelo compilador, o que quer dizer que podemos escrever qualquer conteúdo que o mesmo não será compilado. É muito usado para deixar informações e avisos do programador no código.
+
+<pre>// TODO Auto-generated method stub</pre>
+
+### <code>/**/</code> comentário de duas ou mais linhas (bloco)
+
+Ao usarmos o comentário de bloco, podemos comentar não apenas um trecho de uma linha, mas todo um conjunto de linhas. É utilizado quando temos longos trechos de textos com avisos e informações, ou para a depuração do código. Para a depuração do código, podemos comentar um conjunto de linhas para realizar um conjunto de testes. Neste caso, podemos comentar um conjunto de instruções ou porque estas instruções estão com problemas e queremos verificar as demais. Ou, ao contrário, onde temos um conjunto de instruções já testadas e corretas e queremos apenas testar as demais. Seja como for, o uso do comentário de bloco é muito usual e comum entre os programadores.
 
 <hr>
 <div align="left"><a href="https://github.com/IsaacAlves7/java-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"></a></div>
