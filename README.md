@@ -252,11 +252,11 @@ Exemplo:
 
 <pre>import java.util.Scanner;
 
-public class Exemplo {
+<b>public class Exemplo</b> {
 
 // identação do bloco da classe Exemplo
 
-public static void main(String[] args) {
+<b>public static void main(String[] args)</b> {
 
 // identação do bloco do método main
 
