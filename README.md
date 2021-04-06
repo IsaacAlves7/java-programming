@@ -283,6 +283,9 @@ sc.close();
 } // encerramento da identação do bloco do método main
 
 } // encerramento da identação da classe Exemplo</pre>
+
+Em todas as linguagens de programação, devemos identificar variáveis, programas, funções, métodos, parâmetros etc. O ato de nomear algo em uma linguagem de programação é uma forma de identificação da linguagem. Em Java são permitidos identificadores que comecem com letras (maiúsculas ou minúsculas), ou um símbolo de “<code>$</code>” (dólar) ou “<code>_</code>” (underscore <code>/</code>underline). Números podem ser usados, mas não para iniciar um identificador.
+
 <hr>
 
 
