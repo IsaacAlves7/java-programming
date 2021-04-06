@@ -254,7 +254,7 @@ Exemplo:
 
 <b>public class Exemplo</b> {
 
-// identação do bloco da classe Exemplo
+// identação do bloco da classe Exemplo (a classe sempre possui o nome do arquivo, os dois andam bem alinhados!)
 
 <b>public static void main(String[] args)</b> {
 
