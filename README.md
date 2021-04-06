@@ -368,5 +368,8 @@ O comentário de documentação se difere do comentário de bloco por possuir um
 
 Neste caso, usamos este tipo de comentário apenas para descrever avisos e informações das classes, de forma a realizar a documentação do sistema ainda durante sua fase de criação. Isto permite que o desenvolvedor descreva todo a documentação no próprio projeto, facilitando a descrição e a manutenção do sistema. Assim, ao terminar um projeto ou realizar algum tipo de modificação, basta gerar novamente a documentação do sistema que tudo estará atualizado.
 
+## ☕ Tipos de dados 🔣
+A linguagem Java possui nove tipos de dados básicos, sendo oito deles primitivos e um tipo especial.
+
 <hr>
 <div align="left"><a href="https://github.com/IsaacAlves7/java-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"></a></div>
