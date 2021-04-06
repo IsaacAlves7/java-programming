@@ -316,7 +316,10 @@ Palavras reservadas da linguagem Java (não podem ser usadas como identificadore
 - false
 - final
 - finally
-
+- float
+- for
+- implements
+- import
 
 <hr>
 
