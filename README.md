@@ -472,5 +472,8 @@ São dois diferentes tipos de valores reais, sendo um de precisão simples (<cod
     <td>8</td>
   </tr>
 </table>    
+
+## Tipo especial
+### Tipo texto (String)
 <hr>
 <div align="left"><a href="https://github.com/IsaacAlves7/java-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"></a></div>
