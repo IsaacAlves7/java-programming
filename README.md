@@ -548,8 +548,7 @@ final NOMEEMPRESA = “Super Empreendimentos”;
 
 Exemplos:
 
-<pre>int v = 7 / 2; // o valor atribuído será 3 e não 3.5, porque ambos os operandos são
-// inteiros
+<pre>int v = 7 / 2; // o valor atribuído será 3 e não 3.5, porque ambos os operandos são inteiros
 double v = 7.0 / 2; // o valor atribuído será 3.5, porque o primeiro operando é real.</pre>
 <hr>
 <div align="left"><a href="https://github.com/IsaacAlves7/java-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"></a></div>
