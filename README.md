@@ -420,5 +420,7 @@ Também é possível armazenar caracteres de controle:
       <td>representa um caractere <code>“</code> (aspas)</td>
   </tr>
 </table>
+
+<blockquote><b>OBS:</b> A barra invertida na frente indica que é um caractere especial.</blockquote>
 <hr>
 <div align="left"><a href="https://github.com/IsaacAlves7/java-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"></a></div>
