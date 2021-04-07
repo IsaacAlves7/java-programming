@@ -743,8 +743,17 @@ Ordem de precedência: &, ^, |
 ##  Comandos de controle de fluxo
 ### Estruturas Condicionais
 
+<h4 align="center">Primeira estrutura</h4>
 
+<pre>Se (if):
 
+if (condição) {
+
+// instruções;
+
+}
+
+// A cláusula else é opcional.</pre>
 
 
 
