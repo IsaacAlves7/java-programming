@@ -371,6 +371,18 @@ Neste caso, usamos este tipo de comentário apenas para descrever avisos e infor
 ## ☕ Tipos de dados 🔣
 A linguagem Java possui nove tipos de dados básicos, sendo oito deles primitivos e um tipo especial.
 
-#### Primitivos (armazenam apenas valores)
+### Primitivos (armazenam apenas valores)
+
+### Tipo lógico (boolean)
+O tipo lógico só permite dois estados, verdadeiro (<code>true</code>) ou falso (<code>false</code>); em Java ainda é permitido o uso de <code>on</code> e <code>off</code>, ou <code>yes</code> e <code>no</code>. 
+
+Exemplo:
+
+<pre>boolean status = true;</pre>
+
+### Tipo caractere (char)
+O tipo char permite que seja armazenado na memória apenas um caractere e se difere do texto (String) por ser definido entre ‘e’. Quando usamos aspas simples ou plica determinamos apenas um caractere.
+
+Exemplo:
 <hr>
 <div align="left"><a href="https://github.com/IsaacAlves7/java-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"></a></div>
