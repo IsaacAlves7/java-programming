@@ -562,7 +562,9 @@ double a, b=7.0, c=2.0;
 
 a = b / c; // será armazenado 3.5 em a.</pre>
 
+Podemos alterar o tipo de um operando em uma expressão utilizando o cast, que nada mais é do que informar que o valor armazenado na variável terá o seu valor em função do tipo alterado. 
 
+Exemplo:
 
 
 
