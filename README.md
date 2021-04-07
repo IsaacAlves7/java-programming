@@ -426,6 +426,11 @@ Também é possível armazenar caracteres de controle:
 ### Tipos inteiros (byte, short, int e long)
 São quatro diferentes tipos de inteiros, que se diferenciam pela quantidade de bits que cada um ocupa em memória para armazenar um valor. Isto faz com que, quanto menor a quantidade de bits, maior seja a limitação do valor a ser armazenado. Entretanto, em ocasiões onde a memória é pouca, devemos trabalhar muito bem com estas diferenças para reduzir o espaço de memória necessário. O uso mais comum é do <code>int</code>, mas, para números muito grandes ou muito pequenos, devemos usar o <code>long</code>. Já para economizar memória podemos usar <code>byte</code> ou <code>short</code>, de acordo com o valor que será armazenado.
 
-
+<table>
+  <tr>
+    <td>Tipo de dado</td>
+    <td>Quantidade de bits</td>
+  </tr>
+</table>
 <hr>
 <div align="left"><a href="https://github.com/IsaacAlves7/java-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"></a></div>
