@@ -368,10 +368,10 @@ O comentário de documentação se difere do comentário de bloco por possuir um
 
 Neste caso, usamos este tipo de comentário apenas para descrever avisos e informações das classes, de forma a realizar a documentação do sistema ainda durante sua fase de criação. Isto permite que o desenvolvedor descreva todo a documentação no próprio projeto, facilitando a descrição e a manutenção do sistema. Assim, ao terminar um projeto ou realizar algum tipo de modificação, basta gerar novamente a documentação do sistema que tudo estará atualizado.
 
-## ☕ Tipos de dados 🔣
+## ☕ Tipos de dados 🔣🔢
 A linguagem Java possui nove tipos de dados básicos, sendo oito deles primitivos e um tipo especial.
 
-### Primitivos (armazenam apenas valores)
+### ☕ Primitivos (armazenam apenas valores) 🔢
 
 ### Tipo lógico (boolean)
 O tipo lógico só permite dois estados, verdadeiro (<code>true</code>) ou falso (<code>false</code>); em Java ainda é permitido o uso de <code>on</code> e <code>off</code>, ou <code>yes</code> e <code>no</code>. 
@@ -473,7 +473,7 @@ São dois diferentes tipos de valores reais, sendo um de precisão simples (<cod
   </tr>
 </table>    
 
-## Tipo especial
+## ☕ Tipo especial 🔣
 ### Tipo texto (String)
 O tipo texto (<code>String</code>) não é um tipo primitivo, mas um tipo especial. Na verdade, o tipo String é uma classe e por isso começa com letra maiúscula, ao contrário dos tipos primitivos, que sempre começam por minúsculas. Este tipo de dado armazena um conjunto de caracteres, formando palavras ou frases de tamanhos variados. Como classe, veremos mais tarde que elementos do tipo String possuem métodos que podem realizar ações específicas sobre o seu conteúdo. 
 
@@ -481,7 +481,7 @@ Exemplo:
 
 <pre>String nome = “João da Silva”;</pre>
 
-## Constantes e variáveis
+## ☕ Constantes e variáveis 📥
 Variáveis e constantes em Java devem **obrigatoriamente possuir um tipo**. Isso ocorre porque **Java é uma linguagem de programação fortemente tipada**.
 
 
