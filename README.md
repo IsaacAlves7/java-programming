@@ -799,7 +799,7 @@ instruções;
 
 }</pre>
 
-
+<blockquote>A cláusula if deve ocorrer apenas uma vez; As cláusulas else if podem ocorrer: nenhuma, uma ou várias vezes; A cláusula else só pode ocorrer uma única vez.</blockquote>
 
 
 
