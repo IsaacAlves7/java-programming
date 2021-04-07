@@ -455,6 +455,12 @@ São quatro diferentes tipos de inteiros, que se diferenciam pela quantidade de 
 ### Tipos reais (float e double)
 São dois diferentes tipos de valores reais, sendo um de precisão simples (<code>float</code>), que ocupa menos espaço de memória, e o de dupla precisão, que ocupa mais memória. Quanto maior o número de bits para armazenar um valor real, maior será a precisão deste número dentro do sistema. O uso do <code>float</code> é comum quando necessitamos economizar espaço de memória. Em Java, todo tipo de dado numérico é convertido para <code>double</code> automaticamente por coerção (força a conversão de tipo). Por isso, é mais indicado, quando não houver falta de espaço de memória, a utilização de <code>double</code> para armazenamento de valores reais.
 
-
+<table>
+  <tr>
+    <td><b>Tipo de dado</b></td>
+    <td><code>float</code></td>
+    <td><code>double</code></td>
+  </tr>
+</table>    
 <hr>
 <div align="left"><a href="https://github.com/IsaacAlves7/java-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"></a></div>
