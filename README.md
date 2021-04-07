@@ -639,7 +639,12 @@ b = a--; // primeiro b receberá o valor de a, que é 20 (antes do incremento),
 
 ## Operadores de Relacionais (usados para definir condições)
 
-
+<table>
+  <tr>
+    <td><b>Operador</b></td>
+    <td><b>Descrição</b></td>
+  </tr>
+</table>
 
 
 
