@@ -644,6 +644,10 @@ b = a--; // primeiro b receberá o valor de a, que é 20 (antes do incremento),
     <td><b>Operador</b></td>
     <td><b>Descrição</b></td>
   </tr>
+    <tr>
+    <td><code>==</code></td>
+    <td>Igualdade/ Comparação</td>
+  </tr>
 </table>
 
 
