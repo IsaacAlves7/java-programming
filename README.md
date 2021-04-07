@@ -431,7 +431,13 @@ São quatro diferentes tipos de inteiros, que se diferenciam pela quantidade de 
     <td><b>Tipo de dado</b></td>
     <td><b>Quantidade de bits</b></td>
     <td><b>Quantidade de Bytes</b></td>
-    <td><b>Escopo (valores que podem serarmazenados)</b></td>
+    <td><b>Escopo (valores que podem ser armazenados)</b></td>
+  </tr>
+   <tr>
+    <td><code>byte</code></td>
+    <td><code>short</code></td>
+    <td><code>int</code></td>
+    <td><code>long</code></td>
   </tr>
 </table>
 <hr>
