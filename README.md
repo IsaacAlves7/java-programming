@@ -510,8 +510,8 @@ final double VALORDOLAR = 3.96;
 final NOMEEMPRESA = “Super Empreendimentos”;
 </pre>
 
-## Operadores e expressões
-### Operadores aritméticos
+## ☕ Operadores e expressões
+### ☕ Operadores aritméticos
 
 <table>
   <tr>
@@ -576,7 +576,7 @@ a = (double) b / c; // o valor de b será convertido para double antes da opera�
 
 // forma a operação será real, armazenado 3.5 em a.</pre>
 
-
+## ☕ Operadores aritméticos 
 
 
 
