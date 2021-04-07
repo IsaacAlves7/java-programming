@@ -499,5 +499,17 @@ int c;
 double nota1 = 0; // indica que a variável será inicializada com 0 (zero)
 String nomeCompleto;
 </pre>
+
+A definição de constantes precisam do modificador final, que indica que, uma vez que ocorreu uma atribuição a variável, seu conteúdo não poderá ser mudado. Em Java, constantes podem ser criadas em nomes em minúsculas ou maiúsculas, mas a boa prática de programação determina que sua identificação deve ser toda em maiúsculas. 
+
+Exemplos:
+
+<pre>
+final int IDADEMINIMA = 15;
+final double VALORDOLAR = 3.96;
+final NOMEEMPRESA = “Super Empreendimentos”;
+</pre>
+
+
 <hr>
 <div align="left"><a href="https://github.com/IsaacAlves7/java-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"></a></div>
