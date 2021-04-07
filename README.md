@@ -435,7 +435,11 @@ São quatro diferentes tipos de inteiros, que se diferenciam pela quantidade de 
   </tr>
    <tr>
     <td><code>byte</code></td>
-    <td><code>short</code></td>
+    <td>8</td>
+    <td>1</td>
+    <td>-2⁷ . . . . 2⁷ - 1</td>
+  </tr>
+      <td><code>short</code></td>
     <td><code>int</code></td>
     <td><code>long</code></td>
   </tr>
