@@ -381,7 +381,7 @@ Exemplo:
 <pre>boolean status = true;</pre>
 
 ### Tipo caractere (char)
-O tipo char permite que seja armazenado na memória apenas um caractere e se difere do texto (String) por ser definido entre ‘e’. Quando usamos aspas simples ou plica determinamos apenas um caractere.
+O tipo char permite que seja armazenado na memória apenas um caractere e se difere do texto (String) por ser definido entre ‘e’. Quando usamos aspas simples ou dupla determinamos apenas um caractere.
 
 Exemplo:
 
