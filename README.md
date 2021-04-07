@@ -439,9 +439,11 @@ São quatro diferentes tipos de inteiros, que se diferenciam pela quantidade de 
     <td>1</td>
     <td>-2⁷ . . . . 2⁷ - 1</td>
   </tr>
-      <td><code>short</code></td>
-    <td><code>int</code></td>
-    <td><code>long</code></td>
+    <td><code>short</code></td>
+    <td>16</td>
+    <td>2</td>
+    <td>-2¹⁵ . . . . 2¹⁵ - 1
+</td>
   </tr>
 </table>
 <hr>
