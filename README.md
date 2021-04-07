@@ -458,8 +458,13 @@ São dois diferentes tipos de valores reais, sendo um de precisão simples (<cod
 <table>
   <tr>
     <td><b>Tipo de dado</b></td>
+    <td><b>Quantidade de bits</b></td>
+    <td><b>Quantidade de Bytes</b></td>
+  </tr>
+  <tr>
     <td><code>float</code></td>
-    <td><code>double</code></td>
+    <td>32</td>
+    <td>4</td>
   </tr>
 </table>    
 <hr>
