@@ -689,9 +689,13 @@ Exemplos:
     <td><code>!</code></td>
      <td>NÃO lógico</td>
   </tr>
-    <tr>
+  <tr>
     <td><code>&&</code></td>
-     <td>E lógico</td>
+    <td>E lógico</td>
+  </tr>
+  <tr>
+    <td><code>||</code></td>
+    <td>OU lógico</td>
   </tr>
 </table>
 
