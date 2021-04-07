@@ -625,8 +625,17 @@ b = --a; // primeiro a variável a será decrementada de uma unidade, valendo 19
 
 // depois b receberá o valor de a e assim, também valerá 19.</pre>
 
+O **pós-decremento** determina que antes seja realizada a atribuição para só então ser realizada a operação de decremento. 
 
+Exemplo:
 
+<pre>
+int a = 20, b=0;
+
+b = a--; // primeiro b receberá o valor de a, que é 20 (antes do incremento),
+
+// depois a será decrementado e, assim, o valor de a será 19 e o de b será 20.
+</pre>
 
 
 
