@@ -384,5 +384,17 @@ Exemplo:
 O tipo char permite que seja armazenado na memória apenas um caractere e se difere do texto (String) por ser definido entre ‘e’. Quando usamos aspas simples ou plica determinamos apenas um caractere.
 
 Exemplo:
+
+<pre>char letra = ‘A’;</pre>
+
+### Armazenamento de caracteres de controle
+Também é possível armazenar caracteres de controle:
+
+<table>
+  <tr>
+    <td>Caractere Especial</td>
+    <td>Representação</td>
+  </tr>
+</table>
 <hr>
 <div align="left"><a href="https://github.com/IsaacAlves7/java-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"></a></div>
