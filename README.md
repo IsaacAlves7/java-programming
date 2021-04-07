@@ -606,8 +606,14 @@ b = ++a; // primeiro a variável a será incrementada de uma unidade, valendo 21
 
 // depois b receberá o valor de a e assim, também valerá 21.</pre>
 
+O **pós-incremento** determina que antes seja realizada a atribuição para só então ser realizada a operação de incremento. 
 
+Exemplo:
+<pre>int a = 20, b=0;
 
+b = a++; // primeiro b receberá o valor de a, que é 20 (antes do incremento),
+
+// depois a será incrementado e assim, o valor de a será 21 e o de b será 20.</pre>
 
 
 
