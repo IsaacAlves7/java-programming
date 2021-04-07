@@ -685,6 +685,14 @@ Exemplos:
     <td><b>Operador</b></td>
      <td><b>Descrição</b></td>
   </tr>
+  <tr>
+    <td><code>!</code></td>
+     <td>NÃO lógico</td>
+  </tr>
+    <tr>
+    <td><code>&&</code></td>
+     <td>E lógico</td>
+  </tr>
 </table>
 
 
