@@ -566,7 +566,15 @@ Podemos alterar o tipo de um operando em uma expressão utilizando o **cast**, q
 
 Exemplo:
 
+<pre>int b=7, c=2;
 
+double a=0;
+
+a = (double) b / c; // o valor de b será convertido para double antes da operação
+
+// e isso fará com que o primeiro operando seja real e desta
+
+// forma a operação será real, armazenado 3.5 em a.</pre>
 
 
 
