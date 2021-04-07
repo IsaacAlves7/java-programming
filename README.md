@@ -755,7 +755,21 @@ if (condição) {
 
 // A cláusula else é opcional.</pre>
 
+<h4 align="center">Segunda estrutura</h4>
 
+<pre>if ... else,
+
+if (condição) {
+
+// instruções;
+
+}
+
+else {
+
+// instruções;
+
+}</pre>
 
 
 
