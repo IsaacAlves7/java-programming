@@ -475,5 +475,11 @@ São dois diferentes tipos de valores reais, sendo um de precisão simples (<cod
 
 ## Tipo especial
 ### Tipo texto (String)
+O tipo texto (<code>String</code>) não é um tipo primitivo, mas um tipo especial. Na verdade, o tipo String é uma classe e por isso começa com letra maiúscula, ao contrário dos tipos primitivos, que sempre começam por minúsculas. Este tipo de dado armazena um conjunto de caracteres, formando palavras ou frases de tamanhos variados. Como classe, veremos mais tarde que elementos do tipo String possuem métodos que podem realizar ações específicas sobre o seu conteúdo. 
+
+Exemplo:
+
+<pre>String nome = “João da Silva”;</pre>
+
 <hr>
 <div align="left"><a href="https://github.com/IsaacAlves7/java-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"></a></div>
