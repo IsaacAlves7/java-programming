@@ -600,6 +600,11 @@ O **pré-incremento** determina que primeiro seja realizada a operação de incr
 
 Exemplo:
 
+<pre>int a = 20, b=0;
+
+b = ++a; // primeiro a variável a será incrementada de uma unidade, valendo 21,
+
+// depois b receberá o valor de a e assim, também valerá 21.</pre>
 
 
 
