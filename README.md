@@ -678,9 +678,14 @@ Exemplos:
 
 3) for (int c =0; c<50; c++) { ... }</pre>
 
+## Operadores de em Expressões Lógicas
 
-
-
+<table>
+   <tr>
+    <td><b>Operador</b></td>
+     <td><b>Descrição</b></td>
+  </tr>
+</table>
 
 
 
