@@ -445,6 +445,6 @@ São quatro diferentes tipos de inteiros, que se diferenciam pela quantidade de 
     <td>4</td>
     <td>-2³¹ . . . . 2³¹ - 1</td>
   <tr>
-    
+</table>    
 <hr>
 <div align="left"><a href="https://github.com/IsaacAlves7/java-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"></a></div>
