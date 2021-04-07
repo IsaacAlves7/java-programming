@@ -591,7 +591,14 @@ alturaParede += 0.15; // a variável alturaParede terá o valor
 
 // alturaParede = alturaParede + 0.15;</pre>
 
+Desta forma, não precisamos colocar o nome da variável duas vezes.
 
+### ☕ Operadores de Incremento e decremento
+Em Java temos os operadores de incremento <code>++</code> e de decremento <code>--</code>, que sempre adicionam uma unidade (<code>++</code>) ou subtraem uma unidade (<code>--</code>). Eles podem ser ainda divididos em **pré-incremento** e **pós-incremento**, e **pré-decremento** e **pós-decremento**. 
+
+O **pré-incremento** determina que primeiro seja realizada a operação de incremento e depois é realizada a operação de atribuição. 
+
+Exemplo:
 
 
 
