@@ -526,6 +526,22 @@ final NOMEEMPRESA = “Super Empreendimentos”;
     <td><code>+</code></td>
     <td>Soma</td>
   </tr>
+  <tr>
+    <td><code>-</code></td>
+    <td>Subtração</td>
+  </tr>
+  <tr>
+    <td><code>*</code></td>
+    <td>Multiplicação</td>
+  </tr>
+  <tr>
+    <td><code>/</code></td>
+    <td>Divisão</td>
+  </tr>
+  <tr>
+    <td><code>%</code></td>
+    <td>Resto da divisão</td>
+  </tr>
 </table>
 <hr>
 <div align="left"><a href="https://github.com/IsaacAlves7/java-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"></a></div>
