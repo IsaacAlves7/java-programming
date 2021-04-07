@@ -494,5 +494,10 @@ Permitem que variáveis sejam usadas a qualquer momento, sem a necessidade de te
 
 Exemplos:
 
+<pre>
+int c;
+double nota1 = 0; // indica que a variável será inicializada com 0 (zero)
+String nomeCompleto;
+</pre>
 <hr>
 <div align="left"><a href="https://github.com/IsaacAlves7/java-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"></a></div>
