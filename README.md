@@ -713,9 +713,11 @@ if( !a == 15 && b >= 10) { ... }
 
 if( !a == 15 || c > d && b >= 10) { ... }</pre>
 
+Pela ordem de precedência: if( (!a == 15) || (c > d && b >= 10)) 
 
+Primeiro será executada a negação (!); depois o e lógico (&&) e por último o ou lógico (||).
 
-
+## Operadores de bits
 
 
 
