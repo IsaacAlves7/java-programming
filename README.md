@@ -615,8 +615,15 @@ b = a++; // primeiro b receberá o valor de a, que é 20 (antes do incremento),
 
 // depois a será incrementado e assim, o valor de a será 21 e o de b será 20.</pre>
 
+O **pré-decremento** determina que primeiro seja realizada a operação de decremento e depois é realizada a operação de atribuição.
 
+Exemplo:
 
+<pre>int a = 20, b=0;
+
+b = --a; // primeiro a variável a será decrementada de uma unidade, valendo 19,
+
+// depois b receberá o valor de a e assim, também valerá 19.</pre>
 
 
 
