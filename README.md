@@ -520,7 +520,7 @@ final NOMEEMPRESA = “Super Empreendimentos”;
   </tr>
     <tr>
     <td><code>=</code></td>
-    <td><code>Atribuição</code></td>
+    <td>Atribuição</td>
   </tr>
 </table>
 <hr>
