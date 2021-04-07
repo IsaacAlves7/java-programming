@@ -801,11 +801,15 @@ instruções;
 
 <blockquote>A cláusula if deve ocorrer apenas uma vez; As cláusulas else if podem ocorrer: nenhuma, uma ou várias vezes; A cláusula else só pode ocorrer uma única vez.</blockquote>
 
+<h4 align="center">Quarta estrutura</h4>
 
+switch … case
 
+Estruturas de decisão caracterizadas pela possibilidade de uma variável possuir vários valores diferentes em uma determinada situação.  
 
+Uma única estrutura switch pode analisar vários diferentes valores para a variável de controle. A variável de controle em Java pode ser do tipo: inteiro, caractere, ou String. 
 
-
+A cláusula case pode ocorrer de uma a várias vezes, e a cláusula default é opcional.
 
 
 
