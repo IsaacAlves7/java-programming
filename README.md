@@ -699,6 +699,19 @@ Exemplos:
   </tr>
 </table>
 
+São os determinantes das tabelas-verdade. 
+
+Ordem de precedência: **!, &&, ||** 
+
+Exemplos:
+
+<pre>if(a > b && c < d) { ... }
+
+while (a <=100 || b == 10) { ... }
+
+if( !a == 15 && b >= 10) { ... }
+
+if( !a == 15 || c > d && b >= 10) { ... }</pre>
 
 
 
