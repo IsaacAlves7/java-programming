@@ -392,8 +392,8 @@ Também é possível armazenar caracteres de controle:
 
 <table>
   <tr>
-    <td>Caractere Especial</td>
-    <td>Representação</td>
+    <td><b>Caractere Especial</b></td>
+    <td><b>Representação</b></td>
   </tr>
 </table>
 <hr>
