@@ -771,7 +771,33 @@ else {
 
 }</pre>
 
+<h4 align="center">Terceira estrutura</h4>
 
+<pre>if ... else if ... else,
+
+if (condição1) {
+
+instruções;
+
+}
+
+else if (condição2) {
+
+instruções;
+
+}
+
+else if (condição3) {
+
+instruções;
+
+}
+
+else {
+
+instruções;
+
+}</pre>
 
 
 
