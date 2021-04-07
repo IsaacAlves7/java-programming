@@ -719,9 +719,29 @@ Primeiro será executada a negação (!); depois o e lógico (&&) e por último 
 
 ## Operadores de bits
 
+<table>
+  <tr>
+    <td><b>Operador</b></td>
+    <td><b>Descrição</b></td>
+  </tr>
+  <tr>
+    <td><code>&</code></td>
+    <td>E entre bits</td>
+  </tr>
+  <tr>
+    <td><code>^</code></td>
+    <td>OU EXCLUSIVO entre bits</td>
+  </tr>
+   <tr>
+    <td><code>|</code></td>
+    <td>OU entre bits</td>
+  </tr>
+</table>
 
+Ordem de precedência: &, ^, |
 
-
+##  Comandos de controle de fluxo
+### Estruturas Condicionais
 
 
 
