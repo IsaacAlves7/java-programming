@@ -395,6 +395,22 @@ Também é possível armazenar caracteres de controle:
     <td><b>Caractere Especial</b></td>
     <td><b>Representação</b></td>
   </tr>
+  <tr>
+     <td><code>’\n’</code></td>
+    <td>nova linha.</td>
+  </tr>
+   <tr>
+     <td><code>’\r’</code></td>
+    <td>enter.</td>
+  </tr>
+  <tr>
+     <td><code>’\u????’</code></td>
+    <td>especifica um caractere Unicode o qual é representado na forma Hexadecimal.</td>
+  </tr>
+    <tr>
+     <td><code>’\t’</code></td>
+    <td>tabulação.</td>
+  </tr>
 </table>
 <hr>
 <div align="left"><a href="https://github.com/IsaacAlves7/java-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"></a></div>
