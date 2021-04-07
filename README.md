@@ -490,6 +490,9 @@ Obrigam que todas as variáveis e constantes sejam definidas por um tipo de dado
 ### Linguagens de programação fracamente tipadas
 Permitem que variáveis sejam usadas a qualquer momento, sem a necessidade de terem um tipo predefinido. Isso quer dizer que o tipo de dado pode variar em diferentes partes do programa.
 
+**Variáveis** são declaradas por meio de *um tipo* e *um identificador*, sem que sejam necessárias outras informações. A boa prática em programação Java determina que todas as variáveis comecem por letras minúsculas e, somente se tiver mais de uma palavra, o inicial da segunda palavra em diante deverá começar por letras maiúsculas. 
+
+Exemplos:
 
 <hr>
 <div align="left"><a href="https://github.com/IsaacAlves7/java-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"></a></div>
