@@ -581,7 +581,15 @@ a = (double) b / c; // o valor de b será convertido para double antes da opera�
 
 Exemplo:
 
+<pre>int alturaParede = 2.85; // declaração da variável alturaParede
 
+alturaParede += 0.15; // a variável alturaParede terá o valor
+
+// acrescido (somado) em 0.15, sendo
+
+// equivalente a:
+
+// alturaParede = alturaParede + 0.15;</pre>
 
 
 
