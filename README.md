@@ -672,7 +672,11 @@ b = a--; // primeiro b receberá o valor de a, que é 20 (antes do incremento),
 
 Exemplos:
 
+<pre>1) if(a > b) { ... }
 
+2) while (a <=100) { ... }
+
+3) for (int c =0; c<50; c++) { ... }</pre>
 
 
 
