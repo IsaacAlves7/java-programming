@@ -577,7 +577,7 @@ a = (double) b / c; // o valor de b será convertido para double antes da opera�
 // forma a operação será real, armazenado 3.5 em a.</pre>
 
 ## ☕ Operadores aritméticos 
-
+<pre> ** +=   -=   *=   /=   %= ** </pre>
 
 
 
