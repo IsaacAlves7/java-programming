@@ -518,6 +518,10 @@ final NOMEEMPRESA = “Super Empreendimentos”;
     <td><b>Operador</b></td>
     <td><b>Descrição</b></td>
   </tr>
+    <tr>
+    <td><code>=</code></td>
+    <td><code>Atribuição</code></td>
+  </tr>
 </table>
 <hr>
 <div align="left"><a href="https://github.com/IsaacAlves7/java-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"></a></div>
