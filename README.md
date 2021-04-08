@@ -1064,7 +1064,11 @@ As **classes** Java são responsáveis pelo **conjunto de códigos para a criaç
 
 Exemplo:
 
+<pre>String matricula; // atributo para armazenamento da matrícula
 
+String nome; // atributo para armazenamento do nome
+
+double cr; // atributo para armazenamento do cr</pre>
 
 
 
