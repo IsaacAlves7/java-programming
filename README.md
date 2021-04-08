@@ -809,7 +809,7 @@ Estruturas de decisão caracterizadas pela possibilidade de uma variável possui
 
 Uma única estrutura <code>switch</code> pode analisar vários diferentes valores para a variável de controle. A variável de controle em Java pode ser do tipo: <code>inteiro</code>, <code>caractere</code>, ou <code>String</code>. 
 
-A cláusula case pode ocorrer de uma a várias vezes, e a cláusula default é opcional.
+A cláusula <code>case</code> pode ocorrer de uma a várias vezes, e a cláusula <code>default</code> é opcional.
 
 
 
