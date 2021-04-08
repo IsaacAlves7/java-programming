@@ -1054,7 +1054,7 @@ Em alguns casos, o fabricante, modelo e a cor do automóvel poderão ser importa
 
 Entretanto, para o sistema de cadastramento do DETRAN, por exemplo, o número do chassi é uma das informações mais importantes. Dessa forma, identificarmos a placa é importante como descritor do automóvel para o sistema de estacionamento, já o chassi não.</blockquote>
 
-
+Por isso, devemos analisar cada objeto separadamente e quais são as características importantes para o sistema em que o objeto será utilizado. Como outro exemplo, podemos notar que a matrícula, nome e CR de um aluno são importantes para o sistema acadêmico, mas o time para o qual o aluno torce ou sua religião não são. Por isso, os descritores time e religião não são importantes para o objeto Aluno em um sistema acadêmico.
 
 
 
