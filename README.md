@@ -1046,7 +1046,13 @@ Esta representação deve descrever o objeto quanto às suas características e 
 
 Não devemos nos preocupar com todas as características presentes no objeto, mas com aquelas que serão necessárias ao sistema (requisitos).
 
+Exemplo: 
 
+<blockquote>Por exemplo, a placa de um automóvel é importante para um sistema de estacionamento, assim como a hora de chegada e saída.
+
+Em alguns casos, o fabricante, modelo e a cor do automóvel poderão ser importantes, mas dificilmente iremos cadastrar o número do chassi do mesmo. Como o número do chassi não é facilmente visto e seu cadastramento dependeria da documentação do automóvel ou de uma análise para a identificação, que seria difícil, uma vez que é um identificador com muitas letras e números, acabaria por gerar filas e insatisfação dos clientes.
+
+Entretanto, para o sistema de cadastramento do DETRAN, por exemplo, o número do chassi é uma das informações mais importantes. Dessa forma, identificarmos a placa é importante como descritor do automóvel para o sistema de estacionamento, já o chassi não.</blockquote>
 
 
 
