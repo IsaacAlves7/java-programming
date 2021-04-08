@@ -1042,7 +1042,9 @@ public interface MetodosBasicos { ... }</pre>
 ##  Programação orientada a objetos
 A **programação orientada a objetos (POO)** tem como principal conceito representar, em um sistema computacional, um **objeto da vida real**.
 
+Esta representação deve descrever o objeto quanto às suas características e ações que poderá realizar dentro do sistema.
 
+Não devemos nos preocupar com todas as características presentes no objeto, mas com aquelas que serão necessárias ao sistema (requisitos).
 
 
 
