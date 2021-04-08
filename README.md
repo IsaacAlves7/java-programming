@@ -841,7 +841,7 @@ instruções;
 
 ### 2) Repetição controlada por duas variáveis:
 
-<pre>for (a=1, b=2; a*b<limite; a++, b+=2) {
+<pre>for (a=1, b=2; a*b&lt;limite; a++, b+=2) {
 
 instruções;
 
