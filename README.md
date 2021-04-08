@@ -915,7 +915,7 @@ Nome = entrada.nextLine(); // não precisa de conversão, apenas da entrada.</pr
 
 <pre>double nota1;
 
-nota1=Double.parseDouble(entrada.nextLine());
+nota1=Double.<b>parseDouble</b>(entrada.nextLine());
 
 // a entrada de dados em texto precisa de conversão para double.</pre>
 
@@ -923,13 +923,15 @@ nota1=Double.parseDouble(entrada.nextLine());
 
 <pre>int idade;
 
-idade = Integer.parseInt(entrada.nextLine());
+idade = Integer.<b>parseInt</b>(entrada.nextLine());
 
 // a entrada de dados em texto precisa de conversão para int.</pre>
 
+É aconselhável evitar o uso de métodos como:
 
-
-
+- entrada.nextDouble();
+- entrada.nextFloat();
+- entrada.nextInt();
 
 
 
