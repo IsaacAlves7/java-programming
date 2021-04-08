@@ -831,27 +831,25 @@ A cláusula <code>case</code> pode ocorrer de uma a várias vezes, e a cláusula
 
 Exemplo:
 
-<pre>1) Repetição controlada por uma variável:
+### 1) Repetição controlada por uma variável:
 
-for (int c=1; c<=limite; i++) {
-
-instruções;
-
-}
-
- 
-2) Repetição controlada por duas variáveis:
-
-for (a=1, b=2; a*b<limite; a++, b+=2) {
+<pre>for (int c=1; c<=limite; i++) {
 
 instruções;
 
-}
+}</pre>
 
- 
-3) Repetição sem fim
+### 2) Repetição controlada por duas variáveis:
 
-for ( ; ; ) {
+<pre>for (a=1, b=2; a*b<limite; a++, b+=2) {
+
+instruções;
+
+}</pre>
+
+### 3) Repetição sem fim
+
+<pre>for ( ; ; ) {
 
 instruções;
 
