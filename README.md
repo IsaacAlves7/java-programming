@@ -976,7 +976,8 @@ sc.close();
 
 }</pre>
 
-
+## Conversão de tipos
+A conversão de tipos em Java pode ser feita por cast ou com o uso de conversão por classes. Ambos já foram vistos em exemplos anteriores:
 
 
 
