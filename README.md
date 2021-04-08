@@ -855,12 +855,29 @@ instruções;
 
 }</pre>
 
+### while
+Esta estrutura realiza a repetição de um conjunto de instruções enquanto a condição determinada for verdadeira; caso a condição seja falsa no primeiro teste, nenhuma instrução será executada.
 
+<pre>// realiza o teste da condição no início da estrutura
 
+while (condição) {
 
+instruções;
 
+}</pre>
 
+### do...while
+Esta estrutura de repetição é semelhante à anterior, mas com o diferencial de que as condições devem ser verificadas apenas no final da estrutura, obrigando que as instruções sejam sempre executadas pelo menos uma vez.
 
+<pre>// Teste de condição no final
+
+do
+
+{
+
+instruções;
+
+} while (condição);</pre>
 
 
 
