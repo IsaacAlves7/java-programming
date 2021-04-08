@@ -933,10 +933,14 @@ idade = Integer.<b>parseInt</b>(entrada.nextLine());
 - entrada.nextFloat();
 - entrada.nextInt();
 
+Estes métodos, quando usados em conjunto, podem fazer com que a aplicação pule alguma entrada de dados, sendo necessário que seja realizada uma “limpeza de buffer”. Este tipo de problema pode ser contornado ao usar sempre o método “nextLine()” e a conversão de tipos.
 
+## Saída de dados
+A saída de dados em modo texto pode ser realizada pela *classe* <code>System</code>, e o método <code>out.print</code> (não pula linha), <code>out.println</code> (pula linha) ou outros métodos:
 
+### 1) Apenas uma mensagem:
 
-
+<pre>System.out.println("Entre com a Nota A1.........: ");</pre>
 
 
 
