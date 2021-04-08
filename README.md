@@ -821,9 +821,39 @@ A cláusula <code>case</code> pode ocorrer de uma a várias vezes, e a cláusula
 
 **3** - Passo da(s) variável(is) de controle a cada iteração
 
+<pre>for((1)inicialização; (2)condição de controle; (3)passo) {
 
+// instruções
 
+}</pre>
 
+Exemplo:
+
+<pre>1) Repetição controlada por uma variável:
+
+for (int c=1; c<=limite; i++) {
+
+instruções;
+
+}
+
+ 
+2) Repetição controlada por duas variáveis:
+
+for (a=1, b=2; a*b<limite; a++, b+=2) {
+
+instruções;
+
+}
+
+ 
+3) Repetição sem fim
+
+for ( ; ; ) {
+
+instruções;
+
+}</pre>
 
 
 
