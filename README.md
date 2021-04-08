@@ -803,11 +803,11 @@ instruções;
 
 <h4 align="center">Quarta estrutura</h4>
 
-switch … case
+<code>switch … case</code>
 
 Estruturas de decisão caracterizadas pela possibilidade de uma variável possuir vários valores diferentes em uma determinada situação.  
 
-Uma única estrutura switch pode analisar vários diferentes valores para a variável de controle. A variável de controle em Java pode ser do tipo: inteiro, caractere, ou String. 
+Uma única estrutura <code>switch</code> pode analisar vários diferentes valores para a variável de controle. A variável de controle em Java pode ser do tipo: <code>inteiro</code>, <code>caractere</code>, ou <code>String</code>. 
 
 A cláusula case pode ocorrer de uma a várias vezes, e a cláusula default é opcional.
 
