@@ -740,8 +740,10 @@ Primeiro será executada a negação (!); depois o e lógico (&&) e por último 
 
 Ordem de precedência: &, ^, |
 
-##  Comandos de controle de fluxo
-### Estruturas Condicionais
+# ☕ Comandos de controle de fluxo ✔️❌🔁
+Servem para determinar se as condições são verdadeiras ou controlar uma determinada ordem lógica de eventos para o código.
+
+## ☕ Estruturas Condicionais ✔️❌ 
 
 <h4 align="center">Primeira estrutura</h4>
 
@@ -811,7 +813,7 @@ Uma única estrutura <code>switch</code> pode analisar vários diferentes valore
 
 A cláusula <code>case</code> pode ocorrer de uma a várias vezes, e a cláusula <code>default</code> é opcional.
 
-##  Estruturas de Repetição
+## ☕ Estruturas de Repetição 🔁
 ### for
 **Estrutura de repetição** (Laços de repetição ou Loop) controlada por uma ou mais variáveis contadoras e caracterizada pela existência de três parâmetros, sendo todos eles opcionais:
 
