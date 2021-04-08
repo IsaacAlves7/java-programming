@@ -813,7 +813,7 @@ A cláusula <code>case</code> pode ocorrer de uma a várias vezes, e a cláusula
 
 ##  Estruturas de Repetição
 ### for
-**Estrutura de repetição**(Laços de repetição ou Loop) controlada por uma ou mais variáveis contadoras e caracterizada pela existência de três parâmetros, sendo todos eles opcionais:
+**Estrutura de repetição** (Laços de repetição ou Loop) controlada por uma ou mais variáveis contadoras e caracterizada pela existência de três parâmetros, sendo todos eles opcionais:
 
 
 
