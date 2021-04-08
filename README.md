@@ -891,9 +891,17 @@ Para isso, devemos **importar** a *classe* <code>Scanner</code> antes do início
 
 Depois é necessário criar o **objeto** para realizar as entradas de dados:
 
+<pre>public class <b>EntradaDados</b> {
 
+public static void main (String[] args) {
 
+Scanner entrada = new Scanner(System.in);
 
+}
+
+}</pre>
+
+Existem vários métodos associados a classe **Scanner** para a entrada de dados, mas para evitarmos problemas futuros podemos usar sempre a entrada de dados de texto <code>(nextLine())</code> e converter o texto para o tipo desejado.
 
 
 
