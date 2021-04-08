@@ -982,11 +982,59 @@ A conversão de tipos em Java pode ser feita por cast ou com o uso de conversão
 ### 1) Por cast:
 Usado para converter valores de um tipo para outro; com cast basta indicar o tipo que você quer que a variável, ou valor, seja convertida, colocando o tipo desejado entre parênteses:
 
+### 2) Por uso de classes para conversão de textos em valores
 
+<pre>double nota1 = Double.parseDouble(“7.8”);
 
+int idade = Integer.parseInt(“34”);
 
+float valor = Float.parseFloat(“2.15”);
 
+long valor2 = Long.parseLong(“3456789”);
 
+Pode-se usar ainda:
+
+Byte.parseByte() / Short.parseShort()</pre>
+
+## A boa prática em programação Java (BP)
+A boa prática em programação Java leva em conta um conjunto de regras que facilitam o desenvolvimento de aplicações e melhoram bastante o trabalho em conjunto realizado por equipes. Ao seguir estas regras, projetos podem ser desenvolvidos em paralelo por diferentes programadores, sem que seja necessário que cada componente precise esperar que outros terminem suas tarefas. Estas regras foram utilizadas na construção da linguagem permitindo que não seja necessário decorar as sintaxes de instruções Java. Não são obrigatórias, mas permitem a codificação melhor de nossas aplicações.
+
+### Regras:
+1) Variáveis auxiliares, atributos, métodos e objetos devem ser identificados iniciando por letras minúsculas. Quando houver mais de uma palavra, deve-se começar cada nova palavra com uma letra maiúscula. 
+
+Exemplos:
+
+<pre>int idade;
+
+int maiorIdade;
+
+String nome;
+
+String nomeCompleto;</pre>
+
+2) Constantes devem ser identificadas por letras maiúsculas em todo o seu nome; mesmo quando temos mais de uma palavra, todo o identificador deve ficar em maiúsculas. 
+
+Exemplos:
+
+<pre>final int idade;
+
+final int maiorIdade;
+
+final String nome;
+
+final String nomeCompleto;</pre>
+
+3) Classes e interfaces (tipo especial de classe) devem iniciar por letras maiúsculas. Quando houver mais de uma palavra, deve-se começar cada nova palavra com uma letra maiúscula. 
+
+Exemplos:
+
+<pre>public class Carro { ... }
+
+public class Carro Hibrido { ... }
+
+public interface Basico { ... }
+
+public interface MetodosBasicos { ... }</pre>
 
 
 
