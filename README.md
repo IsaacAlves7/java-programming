@@ -979,7 +979,8 @@ sc.close();
 ## Conversão de tipos
 A conversão de tipos em Java pode ser feita por cast ou com o uso de conversão por classes. Ambos já foram vistos em exemplos anteriores:
 
-
+### 1) Por cast:
+Usado para converter valores de um tipo para outro; com cast basta indicar o tipo que você quer que a variável, ou valor, seja convertida, colocando o tipo desejado entre parênteses:
 
 
 
