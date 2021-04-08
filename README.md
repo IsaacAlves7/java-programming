@@ -942,11 +942,39 @@ A saída de dados em modo texto pode ser realizada pela *classe* <code>System</c
 
 <pre>System.out.println("Entre com a Nota A1.........: ");</pre>
 
+### 2) Mensagem e conteúdo de variáveis:
 
+<pre>System.out.println(" Nome: " + nome + " Idade: " + idade + " Nota 1: " + nota1);</pre>
 
+A seguir temos o exemplo completo de um programa que recebe duas notas e apresenta a média.
 
+<pre>public class <b>Exemplo</b> {
 
+public static void main(String[] args) {
 
+// TODO Auto-generated method stub
+
+Scanner sc = new Scanner(System.in);
+
+double media, nota1, nota2;
+
+System.out.println("Digite a nota 1:");
+
+nota1 = Double.parseDouble(sc.nextLine());
+
+System.out.println("Digite a nota 2:");
+
+nota2 = Double.parseDouble(sc.nextLine());
+
+media = (nota1 + nota2) /2.0;
+
+System.out.println("A sua média é:" + media);
+
+sc.close();
+
+}
+
+}</pre>
 
 
 
