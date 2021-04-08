@@ -881,12 +881,13 @@ instruções;
 
 ## ☕ Entrada e Saída de dados 📥📤
 ### Entrada de dados
-Em Java temos muitas formas de entrada de dados, inclusive de forma gráfica. Inicialmente trabalharemos com a classe Scanner, responsável pela entrada de dados em formato texto, com perguntas diretas ao usuário e a inclusão da resposta em variáveis do programa. 
+Em Java temos muitas formas de entrada de dados, inclusive de forma gráfica. Inicialmente trabalharemos com a *classe* <code>Scanner</code>, responsável pela entrada de dados em formato texto, com perguntas diretas ao usuário e a inclusão da resposta em variáveis do programa. 
 
 Para realizarmos esta tarefa, é necessário que seja criado um objeto da classe Scanner. 
 
 Para isso, devemos importar a classe Scanner antes do início da programação da classe:
 
+<pre>import java.util.Scanner;</pre>
 
 
 
