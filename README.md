@@ -1074,7 +1074,7 @@ double cr; // atributo para armazenamento do cr</pre>
 
 **Método** é uma **ação**, um conjunto de instruções a serem executadas por um objeto para realizar uma determinada tarefa.
 
-O **conjunto de métodos** de um objeto deve descrever todas as ações (tarefas ou funções) que o objeto poderá realizar dentro do sistema.
+O **conjunto de métodos** de um objeto deve descrever **todas as ações (tarefas ou funções)** que o objeto poderá realizar dentro do sistema.
 
 
 
