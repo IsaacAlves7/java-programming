@@ -889,7 +889,7 @@ Para isso, devemos importar a classe Scanner antes do início da programação d
 
 <pre>import java.util.Scanner;</pre>
 
-
+Depois é necessário criar o objeto para realizar as entradas de dados:
 
 
 
