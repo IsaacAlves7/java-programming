@@ -903,6 +903,30 @@ Scanner entrada = new Scanner(System.in);
 
 Existem vários métodos associados a classe **Scanner** para a entrada de dados, mas para evitarmos problemas futuros podemos usar sempre a entrada de dados de texto <code>(nextLine())</code> e converter o texto para o tipo desejado.
 
+Exemplo:
+
+### 1) Para entrada de texto (String):
+
+<pre>String nome;
+
+Nome = entrada.nextLine(); // não precisa de conversão, apenas da entrada.</pre>
+
+### 2) Para entrada de valor real:
+
+<pre>double nota1;
+
+nota1=Double.parseDouble(entrada.nextLine());
+
+// a entrada de dados em texto precisa de conversão para double.</pre>
+
+### 3) Para entrada de valor inteiro:
+
+<pre>int idade;
+
+idade = Integer.parseInt(entrada.nextLine());
+
+// a entrada de dados em texto precisa de conversão para int.</pre>
+
 
 
 
