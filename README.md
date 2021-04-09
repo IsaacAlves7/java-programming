@@ -1076,7 +1076,27 @@ double cr; // atributo para armazenamento do cr</pre>
 
 O **conjunto de métodos** de um objeto deve descrever **todas as ações (tarefas ou funções)** que o objeto poderá realizar dentro do sistema.
 
+Exemplo:
 
+<pre>public int soma(int n1, int n2){
+
+int soma;
+
+soma = n1 + n2;
+
+return soma;
+
+}
+
+public void imprimeAumento(double salario, int percentual){
+
+double aumento;
+
+aumento = salario + salario * percentual / 100.0;
+
+System.out.println("O salário com aumento é: " + aumento);
+
+}</pre>
 
 
 
