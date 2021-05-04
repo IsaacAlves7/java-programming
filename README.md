@@ -738,7 +738,12 @@ Primeiro será executada a negação (!); depois o e lógico (&&) e por último 
   </tr>
 </table>
 
-Ordem de precedência: &, ^, |
+Ordem de precedência: 
+<ol>
+  <li><code>&</code></li>
+  <li><code>^</code></li>
+  <li><code>|</code></li>
+</ol>
 
 # ☕ Comandos de controle de fluxo ✔️❌🔁
 Servem para determinar se as condições são verdadeiras ou controlar uma determinada ordem lógica de eventos para o código.
