@@ -1103,7 +1103,7 @@ System.out.println("O salário com aumento é: " + aumento);
 
 }</pre>
 
-## Objetos
+## ⚽ Objetos ⚽
 A classe modela o **objeto** de acordo com as necessidades do sistema para a sua descrição e suas ações. A partir de uma mesma classe, vários objetos diferentes, mas com características semelhantes, podem ser criados em um mesmo sistema ou em diferentes sistemas.
 
 Se consideramos a classe Aluno, podemos criar a partir desta classe dezenas, centenas ou mesmo milhares de objetos Alunos com características semelhantes, tais como matrícula, nome e CR, mas com propriedades (valores próprios nos atributos de cada objeto) diferentes.
