@@ -1043,6 +1043,7 @@ public interface MetodosBasicos { ... }</pre>
 <hr>
 
 <h1 align="center">Cap 03: ☕ Classes e objetos ⚽</h1>
+Vamos aprender o paradigma de programação orientada a objetos (Poo).
 
 ## ⚽ Programação orientada a objetos ⚽
 A **programação orientada a objetos (POO)** tem como principal conceito representar, em um sistema computacional, um **objeto da vida real**.
