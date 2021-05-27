@@ -1114,7 +1114,7 @@ Se consideramos a classe Aluno, podemos criar a partir desta classe dezenas, cen
 
 Os *objetos* **só existem durante a execução do sistema**, pois estes só existirão como referência na memória do computador neste momento. Dizemos também que os objetos só existem “em tempo de execução”, uma vez que o sistema ao ser encerrado terá toda a sua memória apagada. Consequentemente, todas as suas variáveis e objetos não existirão mais.
 
-### Exemplo: Aluno.java
+### Exemplo: Aluno.java (objeto)
 
 ![print](https://user-images.githubusercontent.com/61624336/119859616-edbb5000-beeb-11eb-833d-c0b2e0cb77ba.png)
 
@@ -1124,7 +1124,8 @@ Os *objetos* **só existem durante a execução do sistema**, pois estes só exi
 
 Em cada sistema, temos **apenas uma aplicação**, que será **responsável pela lógica de criação e uso das classes**. A comunicação entre os objetos ocorre por meio de **trocas de mensagens**, que são **expressas com o uso de métodos**. Uma aplicação, então, cria objetos a partir de uma ou mais classes e usa os métodos dos objetos para realizar as ações que atenderão às necessidades dos usuários.
 
-### Exemplo: AppAluno.java
+### Exemplo: AppAluno.java (aplicação)
+
 ![print](https://user-images.githubusercontent.com/61624336/119884711-54019c00-bf07-11eb-9658-c7af50e520e2.png)
 
 
