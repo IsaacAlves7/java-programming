@@ -1043,6 +1043,7 @@ public interface MetodosBasicos { ... }</pre>
 <hr>
 
 <h1 align="center">Cap 03: ☕ Classes e objetos ⚽</h1>
+
 Vamos aprender o paradigma de programação orientada a objetos (Poo).
 
 **Link para apoio:** https://github.com/IsaacAlves7/programming-logic
