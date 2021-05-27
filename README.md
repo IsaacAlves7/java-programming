@@ -1121,7 +1121,7 @@ Os *objetos* **só existem durante a execução do sistema**, pois estes só exi
 
 Em cada sistema, temos **apenas uma aplicação**, que será **responsável pela lógica de criação e uso das classes**. A comunicação entre os objetos ocorre por meio de **trocas de mensagens**, que são **expressas com o uso de métodos**. Uma aplicação, então, cria objetos a partir de uma ou mais classes e usa os métodos dos objetos para realizar as ações que atenderão às necessidades dos usuários.
 
-
+![print](https://user-images.githubusercontent.com/61624336/119884711-54019c00-bf07-11eb-9658-c7af50e520e2.png)
 
 
 
