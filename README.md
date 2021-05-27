@@ -1111,6 +1111,7 @@ Se consideramos a classe Aluno, podemos criar a partir desta classe dezenas, cen
 
 Os objetos só existem durante a execução do sistema, pois estes só existirão como referência na memória do computador neste momento. Dizemos também que os objetos só existem “em tempo de execução”, uma vez que o sistema ao ser encerrado terá toda a sua memória apagada. Consequentemente, todas as suas variáveis e objetos não existirão mais.
 
+### Exemplo:
 
 
 
