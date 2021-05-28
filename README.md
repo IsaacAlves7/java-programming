@@ -1200,7 +1200,7 @@ São métodos especiais que **retornam o valor armazenado no atributo, evitando 
 
 Características dos métodos Getters:
 
-- São sempre do mesmo tipo do atributo que será retornado, **nunca do tipo <code>void</code> **;
+- São sempre do mesmo tipo do atributo que será retornado, nunca do tipo <code>void</code>;
 
 - Devem ser públicos para que a aplicação tenha acesso ao método;
 
