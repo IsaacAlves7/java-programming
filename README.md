@@ -1208,6 +1208,9 @@ Características dos métodos Getters:
 
 - Não possui parâmetro: esses métodos nunca receberão parâmetros, uma vez que não farão atribuições ou ações com parâmetros, realizando apenas o retorno do valor armazenado no atributo.
 
+### Exemplo:
+
+![print](https://user-images.githubusercontent.com/61624336/119929490-02333300-bf54-11eb-93ac-6fba6362af6e.png)
 
 
 
