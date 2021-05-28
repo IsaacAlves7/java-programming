@@ -1188,7 +1188,9 @@ O uso de um método Setter neste caso evitará que seja atribuído um valor inv�
 
 ![print](https://user-images.githubusercontent.com/61624336/119926215-4f5fd680-bf4d-11eb-9d3a-96fb33b2ec6d.png)
 
+Note que o parâmetro c recebe o valor a ser atribuído ao CR (-5.0), mas antes de atribuir é realizada uma verificação do valor para averiguar se o mesmo é válido. No caso, o valor do parâmetro é menor do que zero.
 
+Como sabemos que um CR não pode ser negativo, a atribuição não será realizada, assim como a tentativa de realizar a atribuição de um CR maior do que 10 (dez) também não permitirá que a atribuição ocorra.
 
 
 
