@@ -1144,8 +1144,9 @@ Em cada sistema, temos **apenas uma aplicação**, que será **responsável pela
 
 <pre>nome_da_classe nome_do_objeto = <b>new</b> método_construtor();</pre>
 
+## 📚 Biblioteca de classes e reaproveitamento de código ☕
 
-
+A classe **Aluno** passou a ser **uma biblioteca**, e esta classe pode ser reutilizada em diversas outras aplicações. Esse conceito é um dos mais importantes na programação orientada a objetos, pois reduz o trabalho. Qualquer classe criada poderá ser reaproveitada inúmeras vezes por diversas aplicações, poupando esforço de desenvolvimento e facilitando a manutenção.
 
 
 
