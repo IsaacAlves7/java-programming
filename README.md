@@ -1224,7 +1224,13 @@ Note que não existe parâmetro, o método apenas deve retornar o valor armazena
 
 ![code](https://user-images.githubusercontent.com/61624336/120039595-9399b800-bfdb-11eb-956a-bd8c7be22f31.png)
 
+### Notas:
 
+1. Os valores dos atributos dos alunos 1 e 2 serão atribuídos normalmente, mas os valores do aluno3 não, porque a matrícula e o nome estão vazios e o CR não é válido;
+
+2. Os valores foram atribuídos utilizando os métodos Setters, que verificaram se os valores eram válidos para só então realizar as atribuições;
+
+3. Os métodos Getters foram usados na própria classe Aluno para buscar os valores armazenados nos atributos do objeto no método imprimir.
 
 
 
