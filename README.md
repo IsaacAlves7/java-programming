@@ -1142,6 +1142,7 @@ Em cada sistema, temos **apenas uma aplicação**, que será **responsável pela
 
 5. Operador <code>new</code> serve para criar um novo objeto e instancia-lo com <code>()</code>, portanto, é um método construtor.
 
+<pre>nome_da_classe nome_do_objeto = <b>new</b> método_construtor();</pre>
 
 
 
