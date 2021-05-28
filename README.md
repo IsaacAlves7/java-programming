@@ -1182,7 +1182,9 @@ a.cr = -5.0;</pre>
 
 O uso de um método Setter neste caso evitará que seja atribuído um valor inválido para o CR, no caso -5.0;
 
-### Exemplo:
+### Exemplo: Setters
+
+![print](https://user-images.githubusercontent.com/61624336/119926413-c39a7a00-bf4d-11eb-9797-aa6ef37af735.png)
 
 ![print](https://user-images.githubusercontent.com/61624336/119926215-4f5fd680-bf4d-11eb-9d3a-96fb33b2ec6d.png)
 
