@@ -1164,7 +1164,23 @@ Por questões de **segurança e falta de controle**, **não é comum realizar ac
 
 São métodos especiais que recebem o valor do atributo e, por serem métodos, podem analisar se são válidos, sendo responsáveis pela atribuição. Quando o atributo é protegido (privado), é necessário um método para realizar a atribuição.
 
+Características dos métodos Setters:
 
+- São sempre do tipo <code>void</code>, pois métodos Setters não devem retornar nada;
+
+- Devem ser públicos para que a aplicação tenha acesso ao método;
+
+- Devem começar pela palavra <code>set</code> e o nome do atributo: como tem mais de uma palavra, cada nova palavra no nome deve começar por letra maiúscula;
+
+- Possui sempre um parâmetro do mesmo tipo do atributo que receberá o valor, pois ambos (parâmetro e atributo) devem ser do mesmo tipo.
+
+A verificação do valor a ser atribuído não pode ser realizada quando efetuamos uma atribuição direta:
+
+<pre>Aluno a = new Aluno();
+
+a.cr = -5.0;</pre>
+
+O uso de um método Setter neste caso evitará que seja atribuído um valor inválido para o CR, no caso -5.0;
 
 
 
