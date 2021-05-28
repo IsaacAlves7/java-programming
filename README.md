@@ -1218,6 +1218,7 @@ Note que não existe parâmetro, o método apenas deve retornar o valor armazena
 
 ### Exemplo: Aluno.java (versão com métodos Setters e Getters.)
 
+![code](https://user-images.githubusercontent.com/61624336/120033833-86c49680-bfd2-11eb-83a8-2a1379ce07ac.png)
 
 
 
