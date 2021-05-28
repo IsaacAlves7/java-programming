@@ -1184,6 +1184,7 @@ O uso de um método Setter neste caso evitará que seja atribuído um valor inv�
 
 ### Exemplo:
 
+![print](https://user-images.githubusercontent.com/61624336/119926215-4f5fd680-bf4d-11eb-9d3a-96fb33b2ec6d.png)
 
 
 
