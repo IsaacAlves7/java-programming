@@ -1140,27 +1140,81 @@ Em cada sistema, temos **apenas uma aplicação**, que será **responsável pela
 
 ![img02](https://user-images.githubusercontent.com/61624336/119909388-16166f00-bf2b-11eb-88c1-15bbf2b15e8e.jpg)
 
+5. Operador <code>new</code> serve para criar um novo objeto e instancia-lo com <code>()</code>, portanto, é um método construtor.
 
+<pre>nome_da_classe nome_do_objeto = <b>new</b> método_construtor();</pre>
 
+## 📚 Biblioteca de classes e reaproveitamento de código ☕
 
+A classe **Aluno** passou a ser **uma biblioteca**, e esta classe pode ser reutilizada em diversas outras aplicações. Esse conceito é um dos mais importantes na programação orientada a objetos, pois reduz o trabalho. Qualquer classe criada poderá ser reaproveitada inúmeras vezes por diversas aplicações, poupando esforço de desenvolvimento e facilitando a manutenção.
 
+Cada classe criada se torna uma parte da sua biblioteca de classes e, conforme você vai criando novas classes, a sua biblioteca tende a aumentar. Dessa forma, quando você for criar novas aplicações, terá à sua disposição uma séria de classes já prontas e disponíveis para reaproveitar, sem precisar de novas.
 
+Se você precisar realizar qualquer melhoria em uma classe da sua biblioteca, você poderá realizar sem problemas, pois qualquer inclusão não afetará o uso desta classe nas aplicações antigas, mantendo a compatibilidade entre todas as aplicações.
 
+## 🛠️ Facilidade de manutenção ☕
 
+Com base no reaproveitamento de código da programação orientada a objetos, podemos realizar alterações de melhoria, atualização ou qualquer manutenção em uma classe. Isso fará com que todas as aplicações sejam atualizadas quando forem recompiladas.
 
+## ☕ Métodos Setters e Getters 🔛
 
+Por questões de **segurança e falta de controle**, **não é comum realizar acessos diretos aos atributos de um objeto**, por isso são criados métodos específicos para receber o valor e realizar a **atribuição (Setters)**, ou para a **recuperação (Getters)** de um valor armazenado nos atributos de um objeto. Este processo pode evitar que valores incorretos sejam atribuídos sem qualquer chance de análise.
 
+### ☕ Métodos Setters ➡️
 
+São métodos especiais que recebem o valor do atributo e, por serem métodos, podem analisar se são válidos, sendo responsáveis pela atribuição. Quando o atributo é protegido (privado), é necessário um método para realizar a atribuição.
 
+Características dos métodos Setters:
 
+- São sempre do tipo <code>void</code>, pois métodos Setters não devem retornar nada;
 
+- Devem ser públicos para que a aplicação tenha acesso ao método;
 
+- Devem começar pela palavra <code>set</code> e o nome do atributo: como tem mais de uma palavra, cada nova palavra no nome deve começar por letra maiúscula;
 
+- Possui sempre um parâmetro do mesmo tipo do atributo que receberá o valor, pois ambos (parâmetro e atributo) devem ser do mesmo tipo.
 
+A verificação do valor a ser atribuído não pode ser realizada quando efetuamos uma atribuição direta:
 
+<pre>Aluno a = new Aluno();
 
+a.cr = -5.0;</pre>
 
+O uso de um método Setter neste caso evitará que seja atribuído um valor inválido para o CR, no caso -5.0;
 
+### Exemplo: Setters
+
+![print](https://user-images.githubusercontent.com/61624336/119926413-c39a7a00-bf4d-11eb-9797-aa6ef37af735.png)
+
+![print](https://user-images.githubusercontent.com/61624336/119926215-4f5fd680-bf4d-11eb-9d3a-96fb33b2ec6d.png)
+
+- Note que o parâmetro c recebe o valor a ser atribuído ao CR (-5.0), mas antes de atribuir é realizada uma verificação do valor para averiguar se o mesmo é válido. No caso, o valor do parâmetro é menor do que zero.
+
+- Como sabemos que um CR não pode ser negativo, a atribuição não será realizada, assim como a tentativa de realizar a atribuição de um CR maior do que 10 (dez) também não permitirá que a atribuição ocorra.
+
+**Apenas atribuições com valores válidos poderão ser realizadas neste caso.**
+
+## ☕ Métodos Getters ⬅️
+
+São métodos especiais que **retornam o valor armazenado no atributo, evitando acesso direto a ele pela aplicação**. Assim como visto no método Setter, a proteção do atributo (private) fará com que a aplicação não tenha acesso direto a ele, fazendo com que seja necessário um método público para recuperar o valor atribuído ao mesmo.
+
+Características dos métodos Getters:
+
+- São sempre do mesmo tipo do atributo que será retornado, nunca do tipo <code>void</code>;
+
+- Devem ser públicos para que a aplicação tenha acesso ao método;
+
+- Devem começar pela palavra <code>get</code> e o nome do atributo: como tem mais de uma palavra, cada nova palavra no nome deve começar por letra maiúscula;
+
+- Não possui parâmetro: esses métodos nunca receberão parâmetros, uma vez que não farão atribuições ou ações com parâmetros, realizando apenas o retorno do valor armazenado no atributo.
+
+### Exemplo:
+
+![print](https://user-images.githubusercontent.com/61624336/119929490-02333300-bf54-11eb-93ac-6fba6362af6e.png)
+
+Note que não existe parâmetro, o método apenas deve retornar o valor armazenado e por isso não pode ser <code>void</code>, sendo o tipo de retorno do mesmo tipo do atributo que será retornado, e a ação é a de retorno (return).
+
+No futuro, os atributos das nossas classes serão protegidos contra acesso direto (privado), impedindo que a aplicação possa acessar diretamente um atributo. Dessa forma, é necessário que usemos os métodos Setters e Getters para atribuir e recuperar os valores do atributo.
 
 
 
