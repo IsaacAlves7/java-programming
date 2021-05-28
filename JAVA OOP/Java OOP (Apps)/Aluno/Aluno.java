@@ -20,6 +20,16 @@ public class Aluno { // declaração e início da classe
     
     }
     
+    public void setCr(double c){ // Setter
+        if(c >= 0.0 && c <= 10.0){
+            cr = c;
+        }
+    }
+
+    public double getCr( ){ // Getter
+        return cr;    
+    }
+    
     } // término da classe
     
     

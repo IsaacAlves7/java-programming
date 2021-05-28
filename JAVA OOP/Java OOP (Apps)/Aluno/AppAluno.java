@@ -9,6 +9,8 @@ public class AppAluno { // declaração e início da classe
     Aluno aluno2 = new Aluno(); // Criação ou instanciação do objeto aluno2
     
     Aluno aluno3 = new Aluno(); // Criação ou instanciação do objeto aluno3
+
+    Aluno a = new Aluno();
     
     //definindo valores para os atributos do aluno1
     
@@ -33,13 +35,15 @@ public class AppAluno { // declaração e início da classe
     aluno3.nome = "João";
     
     aluno3.cr = 7.0;
+
+    a.cr = -5.0;
     
     //exibindo os valores dos atributos de cada aluno:
     
     aluno1.imprimir();
     aluno2.imprimir();
     aluno3.imprimir();
-    
+    a.setCr( -5.0 ); // setter
+    double conceito = a.getCr(); // getter
     }
-    
     }
