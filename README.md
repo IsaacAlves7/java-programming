@@ -1188,13 +1188,25 @@ O uso de um método Setter neste caso evitará que seja atribuído um valor inv�
 
 ![print](https://user-images.githubusercontent.com/61624336/119926215-4f5fd680-bf4d-11eb-9d3a-96fb33b2ec6d.png)
 
-Note que o parâmetro c recebe o valor a ser atribuído ao CR (-5.0), mas antes de atribuir é realizada uma verificação do valor para averiguar se o mesmo é válido. No caso, o valor do parâmetro é menor do que zero.
+- Note que o parâmetro c recebe o valor a ser atribuído ao CR (-5.0), mas antes de atribuir é realizada uma verificação do valor para averiguar se o mesmo é válido. No caso, o valor do parâmetro é menor do que zero.
 
-Como sabemos que um CR não pode ser negativo, a atribuição não será realizada, assim como a tentativa de realizar a atribuição de um CR maior do que 10 (dez) também não permitirá que a atribuição ocorra.
+- Como sabemos que um CR não pode ser negativo, a atribuição não será realizada, assim como a tentativa de realizar a atribuição de um CR maior do que 10 (dez) também não permitirá que a atribuição ocorra.
 
+**Apenas atribuições com valores válidos poderão ser realizadas neste caso.**
 
+## ☕ Métodos Getters ⬅️
 
+São métodos especiais que **retornam o valor armazenado no atributo, evitando acesso direto a ele pela aplicação**. Assim como visto no método Setter, a proteção do atributo (private) fará com que a aplicação não tenha acesso direto a ele, fazendo com que seja necessário um método público para recuperar o valor atribuído ao mesmo.
 
+Características dos métodos Getters:
+
+- São sempre do mesmo tipo do atributo que será retornado, **nunca do tipo <code>void</code> **;
+
+- Devem ser públicos para que a aplicação tenha acesso ao método;
+
+- Devem começar pela palavra <code>get</code> e o nome do atributo: como tem mais de uma palavra, cada nova palavra no nome deve começar por letra maiúscula;
+
+- Não possui parâmetro: esses métodos nunca receberão parâmetros, uma vez que não farão atribuições ou ações com parâmetros, realizando apenas o retorno do valor armazenado no atributo.
 
 
 
