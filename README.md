@@ -1152,6 +1152,19 @@ Cada classe criada se torna uma parte da sua biblioteca de classes e, conforme v
 
 Se você precisar realizar qualquer melhoria em uma classe da sua biblioteca, você poderá realizar sem problemas, pois qualquer inclusão não afetará o uso desta classe nas aplicações antigas, mantendo a compatibilidade entre todas as aplicações.
 
+## 🛠️ Facilidade de manutenção ☕
+
+Com base no reaproveitamento de código da programação orientada a objetos, podemos realizar alterações de melhoria, atualização ou qualquer manutenção em uma classe. Isso fará com que todas as aplicações sejam atualizadas quando forem recompiladas.
+
+## ☕ Métodos Setters e Getters 🔛
+
+Por questões de **segurança e falta de controle**, **não é comum realizar acessos diretos aos atributos de um objeto**, por isso são criados métodos específicos para receber o valor e realizar a **atribuição (Setters)**, ou para a **recuperação (Getters)** de um valor armazenado nos atributos de um objeto. Este processo pode evitar que valores incorretos sejam atribuídos sem qualquer chance de análise.
+
+### ☕ Métodos Setters ➡️
+
+São métodos especiais que recebem o valor do atributo e, por serem métodos, podem analisar se são válidos, sendo responsáveis pela atribuição. Quando o atributo é protegido (privado), é necessário um método para realizar a atribuição.
+
+
 
 
 
