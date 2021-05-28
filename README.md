@@ -1140,7 +1140,7 @@ Em cada sistema, temos **apenas uma aplicação**, que será **responsável pela
 
 ![img02](https://user-images.githubusercontent.com/61624336/119909388-16166f00-bf2b-11eb-88c1-15bbf2b15e8e.jpg)
 
-
+5. Operador <code>new</code> serve para criar um novo objeto.
 
 
 
