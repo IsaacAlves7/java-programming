@@ -1150,7 +1150,7 @@ A classe **Aluno** passou a ser **uma biblioteca**, e esta classe pode ser reuti
 
 Cada classe criada se torna uma parte da sua biblioteca de classes e, conforme você vai criando novas classes, a sua biblioteca tende a aumentar. Dessa forma, quando você for criar novas aplicações, terá à sua disposição uma séria de classes já prontas e disponíveis para reaproveitar, sem precisar de novas.
 
-
+Se você precisar realizar qualquer melhoria em uma classe da sua biblioteca, você poderá realizar sem problemas, pois qualquer inclusão não afetará o uso desta classe nas aplicações antigas, mantendo a compatibilidade entre todas as aplicações.
 
 
 
