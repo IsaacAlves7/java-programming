@@ -1232,7 +1232,9 @@ Note que não existe parâmetro, o método apenas deve retornar o valor armazena
 
 3. Os métodos Getters foram usados na própria classe Aluno para buscar os valores armazenados nos atributos do objeto no método imprimir.
 
+## Exemplo prático
 
+A classe **Carro** possui os atributos e métodos a seguir, crie a **classe Carro** e a **aplicação AppCarro**, realize a entrada de dados na aplicação através do teclado, e ao final imprima os dados dos respectivos carros (através do método imprimir()).
 
 
 
