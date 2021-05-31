@@ -1304,6 +1304,14 @@ Para resolver este problema e evitarmos a redundância de códigos, vamos inclui
     <td><b>Atributos</b></td>
     <td><b>Métodos</b></td>
   </tr>
+  <tr>
+    <td>Fabricante: texto</td>
+    <td>- Setters para todos os atributos</td>
+  </tr>
+  <tr>
+    <td>Modelo: texto</td>
+    <td>- Getters para todos os atributos</td>
+  </tr>
 </table>
 
 
