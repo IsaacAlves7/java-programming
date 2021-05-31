@@ -18,7 +18,6 @@
 [![Oracle](https://img.shields.io/badge/-OracleDB-brown?style=for-the-badge&logo=Oracle&logoColor=white)](https://github.com/IsaacAlves7/sql-language)
 [![Spring](https://img.shields.io/badge/-Spring-brown?style=for-the-badge&logo=Spring&logoColor=white)](https://www.artstation.com/isaacalves7)
 [![Android](https://img.shields.io/badge/-Android-brown?style=for-the-badge&logo=Android&logoColor=white)](https://www.artstation.com/isaacalves7)
-[![Git](https://img.shields.io/badge/-GitHub-brown?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/IsaacAlves7/git-and-github)
 
 <hr>
 <!--
@@ -1234,7 +1233,55 @@ Note que não existe parâmetro, o método apenas deve retornar o valor armazena
 
 ## Exemplo prático
 
-A classe **Carro** possui os atributos e métodos a seguir, crie a **classe Carro** e a **aplicação AppCarro**, realize a entrada de dados na aplicação através do teclado, e ao final imprima os dados dos respectivos carros (através do método imprimir()).
+A classe **Carro** possui os atributos e métodos a seguir, crie a **classe Carro** e a **aplicação AppCarro**, realize a entrada de dados na aplicação através do teclado, e ao final imprima os dados dos respectivos carros (através do método <code>imprimir()</code>).
+
+### 🚘 Classe Carro 🚗:
+
+<table>
+
+<tr>
+  <td><b>Atributos</b></td>
+  <td><b>Métodos</b></td>
+</tr>
+
+<tr>
+  <td>Fabricante: texto</td>
+  <td>- <i>Setters</i> para todos os atributos</td>
+</tr>
+
+<tr>
+  <td>Modelo: texto</td>
+  <td>- <i>Getters</i> para todos os atributos</td>
+</tr>
+
+<tr>
+  <td>Cor: texto</td>
+  <td>- <b>Imprimir()</b> // imprime todos os atributos</td>
+</tr>
+
+<tr>
+  <td>Placa: texto</td>
+</tr>
+
+<tr>
+  <td>Valor: real</td>
+</tr>
+
+<tr>
+  <td>Número de Portas: inteiro</td>
+</tr>
+
+<tr>
+  <td>Ano de fabricação: inteiro</td>
+</tr>
+
+<tr>
+  <td>Ano do Modelo: inteiro</td>
+</tr>
+
+</table><br \>
+
+### 🚘 Solução do exercício prático ☕
 
 
 
