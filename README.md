@@ -1299,7 +1299,12 @@ Para resolver este problema e evitarmos a redundância de códigos, vamos inclui
 
 ## Classe Carro
 
-
+<table>
+  <tr>
+    <td><b>Atributos</b></td>
+    <td><b>Métodos</b></td>
+  </tr>
+</table>
 
 
 
