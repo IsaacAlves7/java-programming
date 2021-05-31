@@ -1297,7 +1297,7 @@ Você pode ver que temos algumas repetições de código para realizar a entrada
 
 Para resolver este problema e evitarmos a redundância de códigos, vamos incluir um novo método na classe Carro, um método para a entrada de dados. Desta forma, evitamos a redundância dos códigos de entrada de dados.
 
-
+## Classe Carro
 
 
 
