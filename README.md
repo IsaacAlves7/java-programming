@@ -1291,7 +1291,11 @@ A classe **Carro** possui os atributos e métodos a seguir, crie a **classe Carr
 
 ![AppCarro](https://user-images.githubusercontent.com/61624336/120238324-ab1eae00-c232-11eb-9504-872fe4511b68.png)
 
+### Notas:
 
+Você pode ver que temos algumas repetições de código para realizar a entrada de dados de cada objeto. Se aumentarmos o número de objetos, aumentaremos consideravelmente o tamanho do código.
+
+Para resolver este problema e evitarmos a redundância de códigos, vamos incluir um novo método na classe Carro, um método para a entrada de dados. Desta forma, evitamos a redundância dos códigos de entrada de dados.
 
 
 
