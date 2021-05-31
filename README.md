@@ -1312,6 +1312,14 @@ Para resolver este problema e evitarmos a redundância de códigos, vamos inclui
     <td>Modelo: texto</td>
     <td>- Getters para todos os atributos</td>
   </tr>
+   <tr>
+    <td>Cor: texto</td>
+    <td>Imprimir() // imprime todos os dados do carro</td>
+  </tr>
+  <tr>
+    <td>Placa: texto</td>
+    <td>- EntradaDados () // realiza a entrada de dados do carro</td>
+  </tr>
 </table>
 
 
