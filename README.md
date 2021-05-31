@@ -1320,6 +1320,18 @@ Para resolver este problema e evitarmos a redundância de códigos, vamos inclui
     <td>Placa: texto</td>
     <td>- EntradaDados () // realiza a entrada de dados do carro</td>
   </tr>
+  <tr>
+    <td>Valor: real</td>
+  </tr>
+  <tr>
+    <td>Valor: real</td>
+  </tr>
+  <tr>
+    <td>NumeroPortas: inteiro</td>
+  </tr>
+  <tr>
+    <td>AnoFabricacao: inteiro</td>
+  </tr>
 </table>
 
 
