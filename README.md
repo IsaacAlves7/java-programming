@@ -1332,6 +1332,9 @@ Para resolver este problema e evitarmos a redundância de códigos, vamos inclui
   <tr>
     <td>AnoFabricacao: inteiro</td>
   </tr>
+  <tr>
+    <td>AnoModelo: inteiro</td>
+  </tr>
 </table>
 
 
