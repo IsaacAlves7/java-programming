@@ -1394,6 +1394,8 @@ Características dos métodos construtores:
 
 <pre>public Pessoa(String nome, String identidade, int idade)</pre>
 
+O método é público, não possui tipo de retorno antes no nome identificador do método, seu identificador é igual ao nome da classe, por isso começou por letra maiúscula e só será usado para criar o objeto (instanciar);
+
 
 
 
