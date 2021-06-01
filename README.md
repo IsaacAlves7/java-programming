@@ -1358,8 +1358,27 @@ A partir deste momento, todas as classes deverão sempre conter o <code>método 
 
 <h1 align="center">☕ Métodos construtores e polimorfismo de sobrecarga 🥨</h1>
 
+## Primeiras palavras
 
+A programação orientada a objetos permite que possamos controlar a criação de um objeto através dos chamados **métodos construtores**. Tal característica permite que um método especial, o **método construtor**, seja executado no momento em que ocorre a criação do objeto (objeto é instanciado) e um conjunto de ações (instruções) podem ser programadas para serem realizadas neste momento.
 
+Entre essas ações, pode-se destacar o recebimento de dados iniciais para serem atribuídos e/ou preparar o objeto para que este esteja apto a atender às necessidades para qual foi criado.
+
+Um *método construtor* pode ainda ser usado para determinar o tamanho de um vetor que será usado pelo objeto, assim como *pré-configurar estruturas de dados de suporte* ao objeto que está sendo criado.
+
+## Métodos construtores
+
+São métodos especiais executados apenas uma vez por cada *objeto* criado, pois somente são executados no momento da **instanciação / criação do objeto**, sendo responsáveis por realizar as ações necessárias para a sua criação (controlar a criação do objeto).
+
+Características dos métodos construtores:
+
+1. São sempre públicos (public, característica de encapsulamento – veremos mais adiante), não podendo ter nenhum tipo de restrição;
+
+2. Não existe definição de tipo de retorno, pois métodos construtores não podem retornar valores com a instrução “return”, são sem tipo;
+
+3. Devem ser identificados sempre com o mesmo nome da classe;
+
+4. São executados exclusivamente durante o processo de criação / instanciação do objeto, não podendo ser usados pelo objeto após a sua criação.
 
 
 
