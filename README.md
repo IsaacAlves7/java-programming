@@ -1348,7 +1348,11 @@ Para resolver este problema e evitarmos a redundância de códigos, vamos inclui
 ### Nota
 Você pode perceber agora que existe um método para a entrada de dados na classe Carro, e que ele está sendo usado por cada carro para realizar a entrada de dados pelo teclado, evitando que os códigos das entradas de dados fiquem redundantes.
 
+Além disso, a aplicação ficou muito mais simples. Caso você tenha vários objetos carros, você não terá redundância, portanto sua aplicação ficará mais simples.
 
+Faça um teste executando a nova aplicação e analise o resultado. Inclua mais dois objetos carros e teste novamente: você verá que a aplicação terá uma pequena mudança, mas a classe Carro ficará inalterada.
+
+A partir deste momento, todas as classes deverão sempre conter o <code>método entradaDados()</code>.
 
 
 
