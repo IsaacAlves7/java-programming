@@ -1339,16 +1339,46 @@ Para resolver este problema e evitarmos a redundância de códigos, vamos inclui
 
 ## Nova solução do exercício prático, com a inclusão do método entradaDados na classe Carro:
 
+### Aluno.java
+![code](https://user-images.githubusercontent.com/61624336/120251160-05316a80-c257-11eb-8ad1-8f93cc44a765.png)
 
+### AppAluno.java
+![code2](https://user-images.githubusercontent.com/61624336/120251170-0febff80-c257-11eb-8ab6-a7a026cca2f5.png)
 
+### Nota
+Você pode perceber agora que existe um método para a entrada de dados na classe Carro, e que ele está sendo usado por cada carro para realizar a entrada de dados pelo teclado, evitando que os códigos das entradas de dados fiquem redundantes.
 
+Além disso, a aplicação ficou muito mais simples. Caso você tenha vários objetos carros, você não terá redundância, portanto sua aplicação ficará mais simples.
 
+Faça um teste executando a nova aplicação e analise o resultado. Inclua mais dois objetos carros e teste novamente: você verá que a aplicação terá uma pequena mudança, mas a classe Carro ficará inalterada.
 
+A partir deste momento, todas as classes deverão sempre conter o <code>método entradaDados()</code>.
 
+<hr>
 
+<h1 align="center">Cap 04: ☕ Métodos construtores e polimorfismo de sobrecarga 🥨</h1>
 
+## Primeiras palavras
 
+A programação orientada a objetos permite que possamos controlar a criação de um objeto através dos chamados **métodos construtores**. Tal característica permite que um método especial, o **método construtor**, seja executado no momento em que ocorre a criação do objeto (objeto é instanciado) e um conjunto de ações (instruções) podem ser programadas para serem realizadas neste momento.
 
+Entre essas ações, pode-se destacar o recebimento de dados iniciais para serem atribuídos e/ou preparar o objeto para que este esteja apto a atender às necessidades para qual foi criado.
+
+Um *método construtor* pode ainda ser usado para determinar o tamanho de um vetor que será usado pelo objeto, assim como *pré-configurar estruturas de dados de suporte* ao objeto que está sendo criado.
+
+## Métodos construtores
+
+São métodos especiais executados apenas uma vez por cada *objeto* criado, pois somente são executados no momento da **instanciação / criação do objeto**, sendo responsáveis por realizar as ações necessárias para a sua criação (controlar a criação do objeto).
+
+Características dos métodos construtores:
+
+1. São sempre públicos (public, característica de encapsulamento – veremos mais adiante), não podendo ter nenhum tipo de restrição;
+
+2. Não existe definição de tipo de retorno, pois métodos construtores não podem retornar valores com a instrução “return”, são sem tipo;
+
+3. Devem ser identificados sempre com o mesmo nome da classe;
+
+4. São executados exclusivamente durante o processo de criação / instanciação do objeto, não podendo ser usados pelo objeto após a sua criação.
 
 
 
