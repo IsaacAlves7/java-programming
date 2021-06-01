@@ -1345,7 +1345,8 @@ Para resolver este problema e evitarmos a redundância de códigos, vamos inclui
 ### AppAluno.java
 ![code2](https://user-images.githubusercontent.com/61624336/120251170-0febff80-c257-11eb-8ab6-a7a026cca2f5.png)
 
-
+### Nota
+Você pode perceber agora que existe um método para a entrada de dados na classe Carro, e que ele está sendo usado por cada carro para realizar a entrada de dados pelo teclado, evitando que os códigos das entradas de dados fiquem redundantes.
 
 
 
