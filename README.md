@@ -1366,7 +1366,7 @@ Entre essas ações, pode-se destacar o recebimento de dados iniciais para serem
 
 Um *método construtor* pode ainda ser usado para determinar o tamanho de um vetor que será usado pelo objeto, assim como *pré-configurar estruturas de dados de suporte* ao objeto que está sendo criado.
 
-## Métodos construtores
+## ☕ Métodos construtores 🧱
 
 São métodos especiais executados apenas uma vez por cada *objeto* criado, pois somente são executados no momento da **instanciação / criação do objeto**, sendo responsáveis por realizar as ações necessárias para a sua criação (controlar a criação do objeto).
 
