@@ -1339,7 +1339,11 @@ Para resolver este problema e evitarmos a redundância de códigos, vamos inclui
 
 ## Nova solução do exercício prático, com a inclusão do método entradaDados na classe Carro:
 
+### Aluno.java
+![code](https://user-images.githubusercontent.com/61624336/120251160-05316a80-c257-11eb-8ad1-8f93cc44a765.png)
 
+### AppAluno.java
+![code2](https://user-images.githubusercontent.com/61624336/120251170-0febff80-c257-11eb-8ab6-a7a026cca2f5.png)
 
 
 
