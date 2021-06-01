@@ -1337,7 +1337,7 @@ Para resolver este problema e evitarmos a redundância de códigos, vamos inclui
   </tr>
 </table>
 
-
+## Nova solução do exercício prático, com a inclusão do método entradaDados na classe Carro:
 
 
 
