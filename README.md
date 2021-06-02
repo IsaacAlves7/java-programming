@@ -1514,6 +1514,9 @@ Como ambos possuem o mesmo contexto, os métodos com a mesma assinatura não pod
 
 ![code](https://user-images.githubusercontent.com/61624336/120412911-c3272800-c32d-11eb-9da7-9f4f1921a5c1.png)
 
+Todos os métodos acima, apesar de possuírem a mesma quantidade de parâmetros, têm assinaturas diferentes que serão executadas em função de contexto diferentes, respectivamente:
+
+![code](https://user-images.githubusercontent.com/61624336/120413132-1f8a4780-c32e-11eb-8815-16a432a0aad1.png)
 
 
 
