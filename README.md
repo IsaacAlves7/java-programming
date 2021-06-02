@@ -1465,7 +1465,7 @@ Já para realizar o cálculo da área do retângulo, eu preciso do valor da base
 ![code](https://user-images.githubusercontent.com/61624336/120410630-bd2f4800-c329-11eb-8232-7ef0f6245d9f.png)
 
 ## Assinaturas
-Esses dois métodos podem conviver na mesma classe, uma vez que eles possuem **diferentes assinaturas**. A **assinatura** de um método é determinada pelo tipo de parâmetros e pela ordem em que estes foram declarados. Desta forma, a assinatura do primeiro método é:
+Esses **dois métodos podem conviver na mesma classe**, uma vez que eles possuem **diferentes assinaturas**. A **assinatura de um método** é determinada pelo *tipo de parâmetros* e pela *ordem em que estes foram declarados*. Desta forma, a assinatura do primeiro método é:
 
 <pre>area ( int );</pre>
 
@@ -1473,8 +1473,15 @@ e do segundo:
 
 <pre>area ( int , int );</pre>
 
+Diante da diferença de assinaturas, podemos ter dois diferentes contextos para o uso do método de cálculo da área:
 
+1. <pre>System.out.println("Área = " + area( 5 ));</pre>
 
+No primeiro contexto, é chamado para executar o método área com um único parâmetro e neste caso a avaliação em tempo de execução irá determinar que deve ser usado o cálculo da área do quadrado. Ou seja, aquele que recebe um valor inteiro como parâmetro, e a resposta será: 25.
+
+2. <pre>System.out.println("Área = " + area( 5, 6 ));</pre>
+
+No segundo contexto, é chamado para executar o método área com um dos parâmetros e, neste caso, a avaliação em tempo de execução irá determinar que deve ser usado o cálculo da área do retângulo. Ou seja, aquele que recebe dois valores inteiros como parâmetro, e a resposta será: 30.
 
 
 
