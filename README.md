@@ -1565,10 +1565,13 @@ Vamos imaginar que uma classe chamada **Login** fosse usada por vários de seus 
 
 ![code](https://user-images.githubusercontent.com/61624336/120427380-30e04d80-c348-11eb-8bc3-e7a533fd602b.png)
 
+Imagine a situação: você tem um *novo cliente*, e seus funcionários fazem o login não apenas com o nome de login e a senha, mas também utilizando um dispositivo eletrônico para geração de senhas (token).
 
+A sua classe não iria funcionar com este novo contexto. Neste caso, a programação orientada a objetos nos ajuda muito, pois faremos uma atualização na classe Login e ela será capaz, não só de atender a esta nova demanda, mas de continuar a atender os antigos clientes.
 
+### Classe Atualizada: Login
 
-
+### Aplicação: AppLogin com um objeto usando o novo construtor.
 
 
 
