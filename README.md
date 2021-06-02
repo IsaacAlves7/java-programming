@@ -1518,6 +1518,8 @@ Todos os métodos acima, apesar de possuírem a mesma quantidade de parâmetros,
 
 ![code](https://user-images.githubusercontent.com/61624336/120413132-1f8a4780-c32e-11eb-8815-16a432a0aad1.png)
 
+Os valores armazenados em g, h, i e j serão respectivamente: 1, 2, 3 e 4.
+
 
 
 
