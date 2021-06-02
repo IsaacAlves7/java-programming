@@ -1530,6 +1530,7 @@ Outra forma de uso de *mais de um construtor* é para manter a **compatibilidade
 
 Se analisarmos a <code>classe Carro</code>, vista como exemplo anteriormente, podemos notar que ela **não possui nenhum método construtor**. Podemos então criar alguns métodos construtores para esta classe e preservar a aplicação antiga, criando e analisando uma classe nova (evoluída) e as duas aplicações, a antiga e a nova:
 
+### Classe: Carro (atualizada com cinco métodos construtores).
 
 
 
