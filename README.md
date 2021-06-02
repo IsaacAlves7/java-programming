@@ -509,8 +509,8 @@ final double VALORDOLAR = 3.96;
 final NOMEEMPRESA = “Super Empreendimentos”;
 </pre>
 
-## ☕ Operadores e expressões
-### ☕ Operadores aritméticos
+## ☕ Operadores e expressões +
+### ☕ Operadores aritméticos X + -
 
 <table>
   <tr>
@@ -1414,11 +1414,11 @@ public Carro ( ) { }</pre>
 
 Quando não temos um construtor em uma classe, um construtor VAZIO é criado no processo de compilação.
 
-## ☕ Polimorfismo de sobrecarga ☕
+## ☕ Polimorfismo de sobrecarga 🥨
 
 **Polimorfismo** quer dizer muitas formas. O **polimorfismo de sobrecarga** permite o emprego de operadores e identificadores de várias formas, sendo então necessária uma contextualização para que seja realizada a operação adequada. Este contexto está ligado ao emprego do operador, método etc., de acordo com uma situação.
 
-### Polimorfismo de sobrecarga de operadores
+### ☕ Polimorfismo de sobrecarga de operadores 🥨 +
 
 ![code](https://user-images.githubusercontent.com/61624336/120408734-fcf43080-c325-11eb-890b-a76dc584a7db.png)
 
@@ -1452,10 +1452,13 @@ A *sobrecarga de operadores* está sendo usada de diferentes formas em uma mesma
 
 Toda expressão é avaliada sintaticamente, assim como cada contexto será avaliado individualmente no momento da execução.
 
+## ☕ Polimorfismo de sobrecarga de métodos 🥨🧑‍🏫
 
+A **sobrecarga de métodos** permite que possamos ter mais de um método com o mesmo identificador em uma mesma classe. Isso só é possível em razão da avaliação do contexto no momento da execução. Vamos levar em consideração que eu desejo realizar o cálculo da área de um quadrado e de um retângulo em uma mesma classe.
 
+Para realizar o cálculo da área do quadrado, eu preciso apenas do valor da base do quadrado. Assim, o método área ficaria da seguinte forma:
 
-
+![code](https://user-images.githubusercontent.com/61624336/120410374-3da17900-c329-11eb-8fbc-188422df67b8.png)
 
 
 
