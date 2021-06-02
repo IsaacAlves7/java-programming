@@ -1434,9 +1434,15 @@ Assim, a operação de divisão será real e não inteira porque existe um opera
 
 ### Comentário
 
-Em Java, todas as operações aritméticas serão realizadas em função dos tipos dos operandos, e a operação será inteira apenas se ambos os operandos foram inteiros. Caso contrário (um operando inteiro e outro real ou dois operandos reais), a operação será real.
+Em Java, **todas as operações aritméticas serão realizadas em função dos tipos dos operandos**, e a operação será inteira apenas se ambos os operandos foram inteiros. Caso contrário (um operando inteiro e outro real ou dois operandos reais), a operação será real.
 
+O operador <code>+</code> é um dos mais usados, sendo um bom exemplo de **sobrecarga de operadores**, pois pode ser utilizado de várias e diferentes formas em função do contexto:
 
+1. Concatenação: <code>String nome = "João" + " da " + "Silva";</code>
+2. Soma inteira: <code>int a = 3 + 4;</code>
+3. Soma real: <code>double b = 1.3 + 2.7;</code>
+4. Incremento: <code>x++; ou ++x;</code>
+5. Concatenação entre textos e valores: <code>System.out.println("Idade" + p2.getIdade());</code>
 
 
 
