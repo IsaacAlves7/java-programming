@@ -1494,8 +1494,7 @@ Se quisesse incluir um método para calcular a **área de uma circunferência**,
 O método teria a mesma assinatura do método **área do quadrado** e, no momento da execução, não haveria como saber qual dos dois deveria seria executado, pois ambos teriam o mesmo contexto:
 
 <pre>System.out.println("Área Quadrado = " + area( 5 ));</pre>
-
-
+<pre>System.out.println("Área Circunferência = " + area( 4 ));</pre>
 
 
 
