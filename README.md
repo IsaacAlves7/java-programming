@@ -1432,6 +1432,9 @@ Na primeira operação de soma, os operandos são inteiros, então a operação 
 
 Assim, a operação de divisão será real e não inteira porque existe um operando real.
 
+### Comentário
+
+<pre>Em Java, todas as operações aritméticas serão realizadas em função dos tipos dos operandos, e a operação será inteira apenas se ambos os operandos foram inteiros. Caso contrário (um operando inteiro e outro real ou dois operandos reais), a operação será real.</pre>
 
 
 
