@@ -1552,7 +1552,9 @@ A execução da aplicação não foi afetada pelas mudanças na classe porque fo
 
 ## ☕ Polimorfismo de sobrecarga e a evolução das classes 🥨
 
+Com o **polimorfismo de sobrecarga** podemos criar **diferentes implementações para métodos com o mesmo identificador (nome) em uma mesma classe**.
 
+Vamos imaginar que uma classe chamada **Login** fosse usada por vários de seus sistemas:
 
 
 
