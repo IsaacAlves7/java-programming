@@ -1460,6 +1460,9 @@ Para realizar o cálculo da área do quadrado, eu preciso apenas do valor da bas
 
 ![code](https://user-images.githubusercontent.com/61624336/120410374-3da17900-c329-11eb-8fbc-188422df67b8.png)
 
+Já para realizar o cálculo da área do retângulo, eu preciso do valor da base e da altura do quadrado. Assim, o método área ficaria da seguinte forma:
+
+![code](https://user-images.githubusercontent.com/61624336/120410630-bd2f4800-c329-11eb-8232-7ef0f6245d9f.png)
 
 
 
