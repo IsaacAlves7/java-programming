@@ -1510,8 +1510,9 @@ Como ambos possuem o mesmo contexto, os métodos com a mesma assinatura não pod
 
 ![code](https://user-images.githubusercontent.com/61624336/120412490-07fe8f00-c32d-11eb-9121-6c8bfce3ea88.png)
 
-As assinaturas são respectivamente:
+### As assinaturas são respectivamente:
 
+![code](https://user-images.githubusercontent.com/61624336/120412911-c3272800-c32d-11eb-9da7-9f4f1921a5c1.png)
 
 
 
