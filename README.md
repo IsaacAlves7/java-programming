@@ -1537,6 +1537,10 @@ Se analisarmos a <code>classe Carro</code>, vista como exemplo anteriormente, po
 ### Aplicação antiga AppCarro.
 ![code](https://user-images.githubusercontent.com/61624336/120421372-8878bc00-c33c-11eb-8505-9a0825f440e3.png)
 
+A execução da aplicação não foi afetada pelas mudanças na classe porque foi criado o construtor vazio <code>public Carro ( ) { }</code> que garantiu a compatibilidade:
+
+### Aplicação usando diferentes construtores para criar os objetos: AppCarro.
+
 
 
 
