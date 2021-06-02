@@ -1464,7 +1464,7 @@ Já para realizar o cálculo da área do retângulo, eu preciso do valor da base
 
 ![code](https://user-images.githubusercontent.com/61624336/120410630-bd2f4800-c329-11eb-8232-7ef0f6245d9f.png)
 
-## Assinaturas
+## ☕ Assinaturas ✒️
 Esses **dois métodos podem conviver na mesma classe**, uma vez que eles possuem **diferentes assinaturas**. A **assinatura de um método** é determinada pelo *tipo de parâmetros* e pela *ordem em que estes foram declarados*. Desta forma, a assinatura do primeiro método é:
 
 <pre>area ( int );</pre>
@@ -1477,13 +1477,14 @@ Diante da diferença de assinaturas, podemos ter dois diferentes contextos para 
 
 1. <pre>System.out.println("Área = " + area( 5 ));</pre>
 
-No primeiro contexto, é chamado para executar o método área com um único parâmetro e neste caso a avaliação em tempo de execução irá determinar que deve ser usado o cálculo da área do quadrado. Ou seja, aquele que recebe um valor inteiro como parâmetro, e a resposta será: 25.
+No primeiro contexto, é chamado para executar o método área com um único parâmetro e neste caso a avaliação em tempo de execução irá determinar que deve ser usado o cálculo da área do quadrado. Ou seja, aquele que recebe um valor inteiro como parâmetro, e a resposta será: <code>25</code>.
 
 2. <pre>System.out.println("Área = " + area( 5, 6 ));</pre>
 
-No segundo contexto, é chamado para executar o método área com um dos parâmetros e, neste caso, a avaliação em tempo de execução irá determinar que deve ser usado o cálculo da área do retângulo. Ou seja, aquele que recebe dois valores inteiros como parâmetro, e a resposta será: 30.
+No segundo contexto, é chamado para executar o método área com um dos parâmetros e, neste caso, a avaliação em tempo de execução irá determinar que deve ser usado o cálculo da área do retângulo. Ou seja, aquele que recebe dois valores inteiros como parâmetro, e a resposta será: <code>30</code>.
 
-
+### ⚠️ Atenção ⚠️
+Com o uso da sobrecarga de métodos você poderá criar quantos métodos com o mesmo identificador (nome) quiser em uma mesma classe, desde que eles **não possuam a mesma assinatura de método**.
 
 
 
