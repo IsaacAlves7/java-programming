@@ -14,10 +14,10 @@
 
 <blockquote>⚠️ <b>Warning:</b> It's very important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in Java development, if you want to learn about HTML5, CSS3 or Java Frameworks i recommend to access another repositories, click on links bellow!</blockquote><br \>
 
-[![Web](https://img.shields.io/badge/-HTML5‍‍and‍‍css3‍‍development-brown?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
-[![Oracle](https://img.shields.io/badge/-OracleDB-brown?style=for-the-badge&logo=Oracle&logoColor=white)](https://github.com/IsaacAlves7/sql-language)
-[![Spring](https://img.shields.io/badge/-Spring-brown?style=for-the-badge&logo=Spring&logoColor=white)](https://www.artstation.com/isaacalves7)
-[![Android](https://img.shields.io/badge/-Android-brown?style=for-the-badge&logo=Android&logoColor=white)](https://www.artstation.com/isaacalves7)
+[![Web](https://img.shields.io/badge/-HTML5‍‍and‍‍css3‍‍development-87431d?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
+[![Oracle](https://img.shields.io/badge/-OracleDB-87431d?style=for-the-badge&logo=Oracle&logoColor=white)](https://github.com/IsaacAlves7/sql-language)
+[![Spring](https://img.shields.io/badge/-Spring-87431d?style=for-the-badge&logo=Spring&logoColor=white)](https://www.artstation.com/isaacalves7)
+[![Android](https://img.shields.io/badge/-Android-87431d?style=for-the-badge&logo=Android&logoColor=white)](https://www.artstation.com/isaacalves7)
 
 <hr>
 <!--
@@ -509,8 +509,8 @@ final double VALORDOLAR = 3.96;
 final NOMEEMPRESA = “Super Empreendimentos”;
 </pre>
 
-## ☕ Operadores e expressões
-### ☕ Operadores aritméticos
+## ☕ Operadores e expressões +
+### ☕ Operadores aritméticos X + -
 
 <table>
   <tr>
@@ -1366,7 +1366,7 @@ Entre essas ações, pode-se destacar o recebimento de dados iniciais para serem
 
 Um *método construtor* pode ainda ser usado para determinar o tamanho de um vetor que será usado pelo objeto, assim como *pré-configurar estruturas de dados de suporte* ao objeto que está sendo criado.
 
-## Métodos construtores
+## ☕ Métodos construtores 🧱
 
 São métodos especiais executados apenas uma vez por cada *objeto* criado, pois somente são executados no momento da **instanciação / criação do objeto**, sendo responsáveis por realizar as ações necessárias para a sua criação (controlar a criação do objeto).
 
@@ -1380,80 +1380,198 @@ Características dos métodos construtores:
 
 4. São executados exclusivamente durante o processo de criação / instanciação do objeto, não podendo ser usados pelo objeto após a sua criação.
 
+### Pessoa.java
 
+![code](https://user-images.githubusercontent.com/61624336/120386438-fef6c900-c2fe-11eb-81f3-359dcbaf7019.png)
 
+### AppPessoa.java
 
+![code1](https://user-images.githubusercontent.com/61624336/120386442-00c08c80-c2ff-11eb-82ff-84f4cbf3431e.png)
 
+### Notas
 
+1. Na classe Pessoa, o método construtor:
 
+<pre>public Pessoa(String nome, String identidade, int idade)</pre>
 
+O método é público, não possui tipo de retorno antes no nome identificador do método, seu identificador é igual ao nome da classe, por isso começou por letra maiúscula e só será usado para criar o objeto (instanciar);
 
+2. A partir do momento em que um método construtor é criado, a classe só poderá ser instanciada se usarmos um método construtor existente. Por isso, o objeto Pessoa p1 não pode ser criado e sua criação foi comentada na aplicação, pois este método tenta utilizar um método construtor que não existe na classe;
 
+3. O objeto p2 usa um método construtor existente e por isso pode ser criado;
 
+4. Com o uso do método construtor, os dados recebidos como parâmetros puderam ser utilizados para realizar as atribuições nos atributos do objeto, determinando os valores de suas propriedades no momento da criação do objeto;
 
+5. Os métodos setIdentidade (String id) e setIdade (int id) podem ter o mesmo identificador para o parâmetro porque o parâmetro id é declarado em diferentes métodos e, sendo assim, ele é válido internamente em cada um dos métodos separadamente.
 
+O processo de compilação de uma classe cria um método construtor vazio quando não for encontrado nenhum método construtor. Desta forma, nos exemplos anteriores, as classes Aluno e Carro não tinham métodos construtores, então o compilador criou respectivamente os métodos a seguir para as classes Aluno e Carro:
 
+<pre>public Aluno ( ) { }
 
+e
 
+public Carro ( ) { }</pre>
 
+Quando não temos um construtor em uma classe, um construtor VAZIO é criado no processo de compilação.
 
+## ☕ Polimorfismo de sobrecarga 🥨
 
+**Polimorfismo** quer dizer muitas formas. O **polimorfismo de sobrecarga** permite o emprego de operadores e identificadores de várias formas, sendo então necessária uma contextualização para que seja realizada a operação adequada. Este contexto está ligado ao emprego do operador, método etc., de acordo com uma situação.
 
+### ☕ Polimorfismo de sobrecarga de operadores 🥨 +
 
+![code](https://user-images.githubusercontent.com/61624336/120408734-fcf43080-c325-11eb-890b-a76dc584a7db.png)
 
+A mudança de contexto faz com que as operações a serem realizadas sejam diferentes, pois toda linguagem de programação possui diferentes formas de realizar as operações de soma inteira e real. Desta forma, a expressão aritmética a seguir utiliza as duas operações conjuntamente:
 
+<pre>double z = ( 2 + 5) / (3.5 + 1.5);</pre>
 
+Na primeira operação de soma, os operandos são inteiros, então a operação a ser realizada será de uma soma inteira, para somente depois ser realizada a operação de soma real. Desta forma, teremos em um instante a seguinte situação:
 
+<pre>double z = ( 7) / (5.0);</pre>
 
+Assim, a operação de divisão será real e não inteira porque existe um operando real.
 
+### Comentário
 
+Em Java, **todas as operações aritméticas serão realizadas em função dos tipos dos operandos**, e a operação será inteira apenas se ambos os operandos foram inteiros. Caso contrário (um operando inteiro e outro real ou dois operandos reais), a operação será real.
 
+O operador <code>+</code> é um dos mais usados, sendo um bom exemplo de **sobrecarga de operadores**, pois pode ser utilizado de várias e diferentes formas em função do contexto:
 
+1. Concatenação: <code>String nome = "João" + " da " + "Silva";</code>
+2. Soma inteira: <code>int a = 3 + 4;</code>
+3. Soma real: <code>double b = 1.3 + 2.7;</code>
+4. Incremento: <code>x++; ou ++x;</code>
+5. Concatenação entre textos e valores: <code>System.out.println("Idade" + p2.getIdade());</code>
 
+Agora imagine a seguinte instrução:
 
+<pre>System.out.println("Valor =" + (( 3 + 4) + (1.3 + 2.7) + (++x)));</pre>
 
+A *sobrecarga de operadores* está sendo usada de diferentes formas em uma mesma instrução. Cada contexto será avaliado para que seja executada a operação adequada em cada caso.
 
+Toda expressão é avaliada sintaticamente, assim como cada contexto será avaliado individualmente no momento da execução.
 
+## ☕ Polimorfismo de sobrecarga de métodos 🥨🧑‍🏫
 
+A **sobrecarga de métodos** permite que possamos ter mais de um método com o mesmo identificador em uma mesma classe. Isso só é possível em razão da avaliação do contexto no momento da execução. Vamos levar em consideração que eu desejo realizar o cálculo da área de um quadrado e de um retângulo em uma mesma classe.
 
+Para realizar o cálculo da área do quadrado, eu preciso apenas do valor da base do quadrado. Assim, o método área ficaria da seguinte forma:
 
+![code](https://user-images.githubusercontent.com/61624336/120410374-3da17900-c329-11eb-8fbc-188422df67b8.png)
 
+Já para realizar o cálculo da área do retângulo, eu preciso do valor da base e da altura do quadrado. Assim, o método área ficaria da seguinte forma:
 
+![code](https://user-images.githubusercontent.com/61624336/120410630-bd2f4800-c329-11eb-8232-7ef0f6245d9f.png)
 
+## ☕ Assinaturas ✒️
+Esses **dois métodos podem conviver na mesma classe**, uma vez que eles possuem **diferentes assinaturas**. A **assinatura de um método** é determinada pelo *tipo de parâmetros* e pela *ordem em que estes foram declarados*. Desta forma, a assinatura do primeiro método é:
 
+<pre>area ( int );</pre>
 
+e do segundo:
 
+<pre>area ( int , int );</pre>
 
+Diante da diferença de assinaturas, podemos ter dois diferentes contextos para o uso do método de cálculo da área:
 
+1. <pre>System.out.println("Área = " + area( 5 ));</pre>
 
+No primeiro contexto, é chamado para executar o método área com um único parâmetro e neste caso a avaliação em tempo de execução irá determinar que deve ser usado o cálculo da área do quadrado. Ou seja, aquele que recebe um valor inteiro como parâmetro, e a resposta será: <code>25</code>.
 
+2. <pre>System.out.println("Área = " + area( 5, 6 ));</pre>
 
+No segundo contexto, é chamado para executar o método área com um dos parâmetros e, neste caso, a avaliação em tempo de execução irá determinar que deve ser usado o cálculo da área do retângulo. Ou seja, aquele que recebe dois valores inteiros como parâmetro, e a resposta será: <code>30</code>.
 
+### ⚠️ Atenção ⚠️
+Com o uso da sobrecarga de métodos você poderá criar quantos métodos com o mesmo identificador (nome) quiser em uma mesma classe, desde que eles **não possuam a mesma assinatura de método**.
 
+## Métodos
+Se quisesse incluir um método para calcular a **área de uma circunferência**, você não poderia incluir **nesta classe**, pois ele teria a mesma assinatura do método do cálculo da área do quadrado:
 
+![code](https://user-images.githubusercontent.com/61624336/120411706-9eca4c00-c32b-11eb-9041-9fee2bdce201.png)
 
+O método teria a mesma assinatura do método **área do quadrado** e, no momento da execução, não haveria como saber qual dos dois deveria seria executado, pois ambos teriam o mesmo contexto:
 
+<pre>System.out.println("Área Quadrado = " + area( 5 ));</pre>
+<pre>System.out.println("Área Circunferência = " + area( 4 ));</pre>
 
+A linguagem Java não teria como definir qual método executar, já que ambos têm a mesma assinatura e a linguagem não é suficientemente inteligente para tentar buscar isso em algum outro lugar que não o contexto da chamada do método:
 
+<pre>area( 5 )
 
+e
 
+area( 4 )</pre>
 
+Como ambos possuem o mesmo contexto, os métodos com a mesma assinatura não podem compartilhar a mesma classe.
 
+### Exemplos de polimorfismo de sobrecarga válidos para uma mesma classe:
 
+![code](https://user-images.githubusercontent.com/61624336/120412490-07fe8f00-c32d-11eb-9121-6c8bfce3ea88.png)
 
+### As assinaturas são respectivamente:
 
+![code](https://user-images.githubusercontent.com/61624336/120412911-c3272800-c32d-11eb-9da7-9f4f1921a5c1.png)
 
+Todos os métodos acima, apesar de possuírem a mesma quantidade de parâmetros, têm assinaturas diferentes que serão executadas em função de contexto diferentes, respectivamente:
 
+![code](https://user-images.githubusercontent.com/61624336/120413132-1f8a4780-c32e-11eb-8815-16a432a0aad1.png)
 
+Os valores armazenados em g, h, i e j serão respectivamente: 1, 2, 3 e 4.
 
+## ☕ A sobrecarga de métodos construtores 🥨🧱
 
+**Métodos construtores** são métodos e **também podem ser sobrecarregados**.
 
+Uma classe que possui mais de um método construtor é uma classe que oferece diferentes formas de criação para os seus objetos.
 
+Outra forma de uso de *mais de um construtor* é para manter a **compatibilidade de uma classe com suas aplicações antigas**.
 
+Se analisarmos a <code>classe Carro</code>, vista como exemplo anteriormente, podemos notar que ela **não possui nenhum método construtor**. Podemos então criar alguns métodos construtores para esta classe e preservar a aplicação antiga, criando e analisando uma classe nova (evoluída) e as duas aplicações, a antiga e a nova:
 
+### Classe: Carro (atualizada com cinco métodos construtores).
 
+![code](https://user-images.githubusercontent.com/61624336/120420000-de983000-c339-11eb-9488-b90efb896231.png)
 
+### Aplicação antiga AppCarro.
+![code](https://user-images.githubusercontent.com/61624336/120421372-8878bc00-c33c-11eb-8505-9a0825f440e3.png)
 
+A execução da aplicação não foi afetada pelas mudanças na classe porque foi criado o construtor vazio <code>public Carro ( ) { }</code> que garantiu a compatibilidade:
+
+### Aplicação usando diferentes construtores para criar os objetos: AppCarro.
+
+![code](https://user-images.githubusercontent.com/61624336/120423047-038fa180-c340-11eb-8894-6b52a1f12313.png)
+
+### Notas:
+
+1. O primeiro método construtor criado foi o vazio, para garantir a compatibilidade com a aplicação antiga;
+2. Foram incluídos mais quatro métodos construtores seguindo o conceito da sobrecarga de métodos;
+3. Na nova aplicação, foram criados cinco diferentes objetos, cada um usando um construtor diferente;
+4. Ambas as aplicações funcionaram apesar da alteração;
+
+## ☕ Polimorfismo de sobrecarga e a evolução das classes 🥨
+
+Com o **polimorfismo de sobrecarga** podemos criar **diferentes implementações para métodos com o mesmo identificador (nome) em uma mesma classe**.
+
+Vamos imaginar que uma classe chamada **Login** fosse usada por vários de seus sistemas:
+
+### Login.java
+
+![code](https://user-images.githubusercontent.com/61624336/120426078-cb8b5d00-c345-11eb-8d72-01414960c525.png)
+
+
+### AppLogin.java
+
+![code](https://user-images.githubusercontent.com/61624336/120427380-30e04d80-c348-11eb-8bc3-e7a533fd602b.png)
+
+Imagine a situação: você tem um *novo cliente*, e seus funcionários fazem o login não apenas com o nome de login e a senha, mas também utilizando um dispositivo eletrônico para geração de senhas (token).
+
+A sua classe não iria funcionar com este novo contexto. Neste caso, a programação orientada a objetos nos ajuda muito, pois faremos uma atualização na classe Login e ela será capaz, não só de atender a esta nova demanda, mas de continuar a atender os antigos clientes.
+
+### Classe Atualizada: Login
+
+### Aplicação: AppLogin com um objeto usando o novo construtor.
 
 
 
