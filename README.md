@@ -1426,7 +1426,9 @@ A mudança de contexto faz com que as operações a serem realizadas sejam difer
 
 <pre>double z = ( 2 + 5) / (3.5 + 1.5);</pre>
 
+Na primeira operação de soma, os operandos são inteiros, então a operação a ser realizada será de uma soma inteira, para somente depois ser realizada a operação de soma real. Desta forma, teremos em um instante a seguinte situação:
 
+<pre>double z = ( 7) / (5.0);</pre>
 
 
 
