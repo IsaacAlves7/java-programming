@@ -1496,7 +1496,13 @@ O método teria a mesma assinatura do método **área do quadrado** e, no moment
 <pre>System.out.println("Área Quadrado = " + area( 5 ));</pre>
 <pre>System.out.println("Área Circunferência = " + area( 4 ));</pre>
 
+A linguagem Java não teria como definir qual método executar, já que ambos têm a mesma assinatura e a linguagem não é suficientemente inteligente para tentar buscar isso em algum outro lugar que não o contexto da chamada do método:
 
+<pre>area( 5 )
+
+e
+
+area( 4 )</pre>
 
 
 
