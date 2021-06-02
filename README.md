@@ -1520,6 +1520,11 @@ Todos os métodos acima, apesar de possuírem a mesma quantidade de parâmetros,
 
 Os valores armazenados em g, h, i e j serão respectivamente: 1, 2, 3 e 4.
 
+## ☕ A sobrecarga de métodos construtores 🥨🧱
+
+**Métodos construtores** são métodos e **também podem ser sobrecarregados**.
+
+Uma classe que possui mais de um método construtor é uma classe que oferece diferentes formas de criação para os seus objetos.
 
 
 
