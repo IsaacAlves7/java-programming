@@ -1430,6 +1430,8 @@ Na primeira operação de soma, os operandos são inteiros, então a operação 
 
 <pre>double z = ( 7) / (5.0);</pre>
 
+Assim, a operação de divisão será real e não inteira porque existe um operando real.
+
 
 
 
