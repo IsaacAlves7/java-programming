@@ -1491,7 +1491,9 @@ Se quisesse incluir um método para calcular a **área de uma circunferência**,
 
 ![code](https://user-images.githubusercontent.com/61624336/120411706-9eca4c00-c32b-11eb-9041-9fee2bdce201.png)
 
+O método teria a mesma assinatura do método **área do quadrado** e, no momento da execução, não haveria como saber qual dos dois deveria seria executado, pois ambos teriam o mesmo contexto:
 
+<pre>System.out.println("Área Quadrado = " + area( 5 ));</pre>
 
 
 
