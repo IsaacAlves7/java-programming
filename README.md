@@ -1486,6 +1486,10 @@ No segundo contexto, é chamado para executar o método área com um dos parâme
 ### ⚠️ Atenção ⚠️
 Com o uso da sobrecarga de métodos você poderá criar quantos métodos com o mesmo identificador (nome) quiser em uma mesma classe, desde que eles **não possuam a mesma assinatura de método**.
 
+## Métodos
+Se quisesse incluir um método para calcular a **área de uma circunferência**, você não poderia incluir **nesta classe**, pois ele teria a mesma assinatura do método do cálculo da área do quadrado:
+
+![code](https://user-images.githubusercontent.com/61624336/120411706-9eca4c00-c32b-11eb-9041-9fee2bdce201.png)
 
 
 
