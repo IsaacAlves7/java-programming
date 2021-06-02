@@ -1404,10 +1404,19 @@ O método é público, não possui tipo de retorno antes no nome identificador d
 
 5. Os métodos setIdentidade (String id) e setIdade (int id) podem ter o mesmo identificador para o parâmetro porque o parâmetro id é declarado em diferentes métodos e, sendo assim, ele é válido internamente em cada um dos métodos separadamente.
 
+O processo de compilação de uma classe cria um método construtor vazio quando não for encontrado nenhum método construtor. Desta forma, nos exemplos anteriores, as classes Aluno e Carro não tinham métodos construtores, então o compilador criou respectivamente os métodos a seguir para as classes Aluno e Carro:
 
+<pre>public Aluno ( ) { }
 
+e
 
+public Carro ( ) { }</pre>
 
+Quando não temos um construtor em uma classe, um construtor VAZIO é criado no processo de compilação.
+
+## Polimorfismo de sobrecarga
+
+**Polimorfismo** quer dizer muitas formas. O **polimorfismo de sobrecarga** permite o emprego de operadores e identificadores de várias formas, sendo então necessária uma contextualização para que seja realizada a operação adequada. Este contexto está ligado ao emprego do operador, método etc., de acordo com uma situação.
 
 
 
