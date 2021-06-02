@@ -1444,9 +1444,13 @@ O operador <code>+</code> é um dos mais usados, sendo um bom exemplo de **sobre
 4. Incremento: <code>x++; ou ++x;</code>
 5. Concatenação entre textos e valores: <code>System.out.println("Idade" + p2.getIdade());</code>
 
+Agora imagine a seguinte instrução:
 
+<pre>System.out.println("Valor =" + (( 3 + 4) + (1.3 + 2.7) + (++x)));</pre>
 
+A *sobrecarga de operadores* está sendo usada de diferentes formas em uma mesma instrução. Cada contexto será avaliado para que seja executada a operação adequada em cada caso.
 
+Toda expressão é avaliada sintaticamente, assim como cada contexto será avaliado individualmente no momento da execução.
 
 
 
