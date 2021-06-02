@@ -1543,6 +1543,17 @@ A execução da aplicação não foi afetada pelas mudanças na classe porque fo
 
 ![code](https://user-images.githubusercontent.com/61624336/120423047-038fa180-c340-11eb-8894-6b52a1f12313.png)
 
+### Notas:
+
+1. O primeiro método construtor criado foi o vazio, para garantir a compatibilidade com a aplicação antiga;
+2. Foram incluídos mais quatro métodos construtores seguindo o conceito da sobrecarga de métodos;
+3. Na nova aplicação, foram criados cinco diferentes objetos, cada um usando um construtor diferente;
+4. Ambas as aplicações funcionaram apesar da alteração;
+
+## ☕ Polimorfismo de sobrecarga e a evolução das classes 🥨
+
+
+
 
 
 
