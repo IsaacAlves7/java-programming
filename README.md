@@ -1396,7 +1396,13 @@ Características dos métodos construtores:
 
 O método é público, não possui tipo de retorno antes no nome identificador do método, seu identificador é igual ao nome da classe, por isso começou por letra maiúscula e só será usado para criar o objeto (instanciar);
 
+2. A partir do momento em que um método construtor é criado, a classe só poderá ser instanciada se usarmos um método construtor existente. Por isso, o objeto Pessoa p1 não pode ser criado e sua criação foi comentada na aplicação, pois este método tenta utilizar um método construtor que não existe na classe;
 
+3. O objeto p2 usa um método construtor existente e por isso pode ser criado;
+
+4. Com o uso do método construtor, os dados recebidos como parâmetros puderam ser utilizados para realizar as atribuições nos atributos do objeto, determinando os valores de suas propriedades no momento da criação do objeto;
+
+5. Os métodos setIdentidade (String id) e setIdade (int id) podem ter o mesmo identificador para o parâmetro porque o parâmetro id é declarado em diferentes métodos e, sendo assim, ele é válido internamente em cada um dos métodos separadamente.
 
 
 
