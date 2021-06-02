@@ -1532,6 +1532,7 @@ Se analisarmos a <code>classe Carro</code>, vista como exemplo anteriormente, po
 
 ### Classe: Carro (atualizada com cinco métodos construtores).
 
+![code](https://user-images.githubusercontent.com/61624336/120420000-de983000-c339-11eb-9488-b90efb896231.png)
 
 
 
