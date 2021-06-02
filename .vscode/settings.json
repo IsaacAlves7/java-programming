@@ -1,7 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "JAVA OOP/Java OOP (Apps)/Carro OOP Updated - Getters and Setters",
+        "JAVA OOP/Java OOP (Apps)/Carro OOP - Getters and Setters",
         "JAVA OOP/Java OOP (Apps)/Aluno OOP - Getters and Setters",
-        "JAVA OOP/Java OOP (Apps)/Carro OOP - Getters and Setters"
+        "JAVA OOP/Java OOP (Apps)/Pessoa OOP - Métodos Construtores"
     ],
     "polacode.backgroundColor": "#F7DF1E"
 }
