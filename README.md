@@ -1464,11 +1464,14 @@ Já para realizar o cálculo da área do retângulo, eu preciso do valor da base
 
 ![code](https://user-images.githubusercontent.com/61624336/120410630-bd2f4800-c329-11eb-8232-7ef0f6245d9f.png)
 
+## Assinaturas
+Esses dois métodos podem conviver na mesma classe, uma vez que eles possuem **diferentes assinaturas**. A **assinatura** de um método é determinada pelo tipo de parâmetros e pela ordem em que estes foram declarados. Desta forma, a assinatura do primeiro método é:
 
+<pre>area ( int );</pre>
 
+e do segundo:
 
-
-
+<pre>area ( int , int );</pre>
 
 
 
