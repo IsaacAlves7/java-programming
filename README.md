@@ -1424,7 +1424,7 @@ Quando não temos um construtor em uma classe, um construtor VAZIO é criado no 
 
 A mudança de contexto faz com que as operações a serem realizadas sejam diferentes, pois toda linguagem de programação possui diferentes formas de realizar as operações de soma inteira e real. Desta forma, a expressão aritmética a seguir utiliza as duas operações conjuntamente:
 
-
+<pre>double z = ( 2 + 5) / (3.5 + 1.5);</pre>
 
 
 
