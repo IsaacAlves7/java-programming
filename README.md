@@ -1506,7 +1506,7 @@ area( 4 )</pre>
 
 Como ambos possuem o mesmo contexto, os métodos com a mesma assinatura não podem compartilhar a mesma classe.
 
-Exemplos de polimorfismo de sobrecarga válidos para uma mesma classe:
+### Exemplos de polimorfismo de sobrecarga válidos para uma mesma classe:
 
 ![code](https://user-images.githubusercontent.com/61624336/120412490-07fe8f00-c32d-11eb-9121-6c8bfce3ea88.png)
 
