@@ -1634,6 +1634,12 @@ A **herança** é um conceito muito importante que *possibilita identificar duas
 Já as **classes originais** permanecerão apenas com os membros não comuns, sendo denominadas **Subclasses** ou **classes “filhas”**. Ao aplicar este conceito, podemos trabalhar com uma hierarquia entre as classes, em que as de **maior hierarquia** *aglutinam os membros comuns* e as de **menor hierarquia** possuem *apenas membros distintos entre elas*.
 
 ## ☕ Tipos de herança 🍇
+Em algumas linguagens de programação no conceito de POO se trabalha muito com os dois tipos de herança. Entretanto, a linguagem Java não trabalha com Heranças múltiplas, somente com herança simples.
+
+### Herança Simples
+Em Java, temos **apenas** a implementação da *herança simples*. A **herança simples** se caracteriza por cada classe herdar sempre de apenas uma outra classe por vez. Devemos observar que, mesmo que tenhamos uma sequência de classes herdando, em que uma herda da outra, ainda assim, temos a herança simples, que pode ser observada nos exemplos das figuras a seguir:
+
+
 
 
 
