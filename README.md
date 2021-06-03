@@ -1657,10 +1657,30 @@ A herança múltipla pode ser observada nos exemplos das figuras a seguir:
 
 ![img06](https://user-images.githubusercontent.com/61624336/120702327-54131600-c48a-11eb-8e60-336c6f8a3191.jpg)
 
+![img07](https://user-images.githubusercontent.com/61624336/120708698-482b5200-c492-11eb-97e7-d2ea8ed6125e.jpg)
 
+## Herança em Java
+Vejamos um exemplo:
 
+Sejam as três classes a seguir referentes a uma empresa:
 
-
+<table>
+<th>
+ <td>Classe</td>
+ <td>Atributos</td>
+ <td>Atributos</td>
+</th>
+<th>
+ <td>Gerente</td>
+ <td>
+- Identidade: texto
+- Nome: texto
+- Matrícula: texto
+- Salário: real
+- PercentualVenda: real
+- NívelGerente: inteiro</td>
+</th>
+</table>
 
 
 
