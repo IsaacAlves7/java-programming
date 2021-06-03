@@ -1631,6 +1631,9 @@ A programação orientada a objetos tem como um dos principais pilares o "reapro
 
 A **herança** é um conceito muito importante que *possibilita identificar duas ou mais classes que possuam semelhanças*. Estas podem ser definidas através de *uma hierarquia*, em que os membros comuns às **duas ou mais classes passam para uma nova classe**, conhecida como **Superclasse** ou **classe “mãe”**.
 
+Já as **classes originais** permanecerão apenas com os membros não comuns, sendo denominadas **Subclasses** ou **classes “filhas”**. Ao aplicar este conceito, podemos trabalhar com uma hierarquia entre as classes, em que as de **maior hierarquia** *aglutinam os membros comuns* e as de **menor hierarquia** possuem *apenas membros distintos entre elas*.
+
+## ☕ Tipos de herança 🍇
 
 
 
