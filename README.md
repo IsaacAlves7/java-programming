@@ -1647,10 +1647,13 @@ Em Java, temos **apenas** a implementação da *herança simples*. A **herança 
 
 ![img05](https://user-images.githubusercontent.com/61624336/120694981-32616100-c481-11eb-81ec-ad1f071fa66f.jpg)
 
+### Nota:
+Em todos os casos, temos sempre a *herança simples*, pois cada classe sempre herda **apenas** da sua *classe superior*, mesmo se incluirmos novos níveis.
 
+## Herança Múltipla
+A **herança múltipla** se caracteriza quando uma mesma classe herda de duas ou mais classes ao mesmo tempo. Java não permite a implementação da herança múltipla; mesmo este sendo um conceito da programação orientada a objetos, algumas linguagens de programação não implementam este conceito. A linguagem C permite a implementação de herança múltipla, mas Java e C#, por exemplo, não permitem esta implementação.
 
-
-
+A herança múltipla pode ser observada nos exemplos das figuras a seguir:
 
 
 
