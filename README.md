@@ -1680,12 +1680,15 @@ Sejam as três classes a seguir referentes a uma empresa:
  PercentualVenda: real
  NívelGerente: inteiro</td>
 <td>
-- Setters [para todos os atributos]
-- Getters [para todos os atributos]
-- Construtores [mínimo 5]
-- Imprimir [para exibir os atributos]
-- EntradaDados [para todos os atributos]
-- Cadastrar [atribui a todos os atributos]</td>
+  <ul>
+    <li>Setters [para todos os atributos]</li>
+    <li>Getters [para todos os atributos]</li>
+    <li>Construtores [mínimo 5]</li>
+    <li>Imprimir [para exibir os atributos]</li>
+    <li>EntradaDados [para todos os atributos]</li>
+    <li>Cadastrar [atribui a todos os atributos]</li>
+  </ul>
+</td>
 </tr>
 </table>
 
