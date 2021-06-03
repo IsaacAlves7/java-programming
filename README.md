@@ -1752,6 +1752,7 @@ Ao analisar as classes, podemos afirmar que teremos que repetir a declaração d
 
 Neste caso, podemos aplicar os conceitos de **herança** e teremos a seguinte estrutura para atender ao problema descrito acima:
 
+![img08](https://user-images.githubusercontent.com/61624336/120713682-a1967f80-c498-11eb-9a70-f98b89632c26.jpg)
 
 
 
