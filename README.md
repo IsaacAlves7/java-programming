@@ -1761,8 +1761,9 @@ Neste caso, podemos aplicar os conceitos de **herança** e teremos a seguinte es
 
 Desta forma, não teremos redundância de códigos, escreveremos menos linhas e teremos maior facilidade na manutenção das classes da nossa biblioteca de classes.
 
-Vamos analisar agora as diferenças entre as versões das nossas classes com e sem a aplicação da herança:
+Vamos analisar agora as diferenças entre as versões das nossas classes com e **sem a aplicação da herança**:
 
+## Classe Gerente sem o uso do conceito de herança:
 
 
 
