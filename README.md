@@ -1624,9 +1624,12 @@ double calculo(double, double, double)</pre>
 <hr>
 
 <h1 align="center">Cap 05: ☕ Herança 🍇</h1>
-A programação orientada a objetos tem como *um dos principais pilares* o "reaproveitamento de código". **Reaproveitar o código** significa menos esforço em seu desenvolvimento e mais facilidade na manutenção do sistema. Ao evitarmos a redundância de código, fica mais fácil gerar alterações, uma vez que não precisaremos modificá-lo em vários locais diferentes.
+A programação orientada a objetos tem como *um dos principais pilares* o "reaproveitamento de código". <b>Reaproveitar o código<b> significa menos esforço em seu desenvolvimento e mais facilidade na manutenção do sistema. Ao evitarmos a redundância de código, fica mais fácil gerar alterações, uma vez que não precisaremos modificá-lo em vários locais diferentes.
 
-## Atenção
+### ⚠️ Atenção ⚠️
+
+A **herança** é um conceito muito importante que possibilita **identificar duas ou mais classes que possuam semelhanças**. Estas podem ser definidas através de uma hierarquia, em que os membros comuns às duas ou mais classes passam para uma nova classe, conhecida como **Superclasse** ou **classe “mãe”**.
+
 
 
 
