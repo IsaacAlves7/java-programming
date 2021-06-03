@@ -1748,7 +1748,9 @@ Sejam as três classes a seguir referentes a uma empresa:
 </tr>
 </table>
 
+Ao analisar as classes, podemos afirmar que teremos que repetir a declaração dos atributos **Identidade** e **Nome** em todas elas, bem como os métodos **Setters** e **Getters** destes atributos em todas as três classes, sem contar que ainda teremos que repetir parte da codificação dos métodos **cadastrar**, **imprimir** e **entradaDados**.
 
+Neste caso, podemos aplicar os conceitos de **herança** e teremos a seguinte estrutura para atender ao problema descrito acima:
 
 
 
