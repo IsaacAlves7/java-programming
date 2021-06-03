@@ -1637,7 +1637,13 @@ Já as **classes originais** permanecerão apenas com os membros não comuns, se
 Em algumas linguagens de programação no conceito de POO se trabalha muito com os dois tipos de herança. Entretanto, a linguagem Java não trabalha com Heranças múltiplas, somente com herança simples.
 
 ### Herança Simples
-Em Java, temos **apenas** a implementação da *herança simples*. A **herança simples** se caracteriza por cada classe herdar sempre de apenas uma outra classe por vez. Devemos observar que, mesmo que tenhamos uma sequência de classes herdando, em que uma herda da outra, ainda assim, temos a herança simples, que pode ser observada nos exemplos das figuras a seguir:
+Em Java, temos **apenas** a implementação da *herança simples*. A **herança simples** se caracteriza por **cada classe herdar sempre de apenas uma outra classe por vez**. Devemos observar que, mesmo que tenhamos uma sequência de classes herdando, em que uma herda da outra, ainda assim, temos a herança simples, que pode ser observada nos exemplos das figuras a seguir:
+
+![img02](https://user-images.githubusercontent.com/61624336/120694581-c979e900-c480-11eb-8366-93a82d90a124.jpg)
+
+![img03](https://user-images.githubusercontent.com/61624336/120694670-deef1300-c480-11eb-8e90-7ed645c85526.jpg)
+
+![img04](https://user-images.githubusercontent.com/61624336/120694709-e9111180-c480-11eb-93f3-6f8bed85d319.jpg)
 
 
 
