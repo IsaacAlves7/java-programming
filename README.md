@@ -1754,9 +1754,14 @@ Neste caso, podemos aplicar os conceitos de **herança** e teremos a seguinte es
 
 ![img08](https://user-images.githubusercontent.com/61624336/120713682-a1967f80-c498-11eb-9a70-f98b89632c26.jpg)
 
+- Como os atributos Identidade e Nome são comuns às três classes, eles ficarão na Superclasse de maior hierarquia;
+- Como os atributos Matrícula e Salário pertencem somente às classes Gerente e Funcionário, teremos uma classe intermediária chamada PessoaEmpresa, que herdará da classe - - - - Pessoa, mas esta também será uma Superclasse para as classes Gerente e Funcionário;
+- A classe Cliente herdará da classe Pessoa;
+- As classes Gerente e Funcionário herdarão da classe PessoaEmpresa.
 
+Desta forma, não teremos redundância de códigos, escreveremos menos linhas e teremos maior facilidade na manutenção das classes da nossa biblioteca de classes.
 
-
+Vamos analisar agora as diferenças entre as versões das nossas classes com e sem a aplicação da herança:
 
 
 
