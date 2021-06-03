@@ -1674,11 +1674,17 @@ Sejam as três classes a seguir referentes a uma empresa:
  <td>Gerente</td>
  <td>
  Identidade: texto
+ 
  Nome: texto
+ 
  Matrícula: texto
+ 
  Salário: real
+ 
  PercentualVenda: real
- NívelGerente: inteiro</td>
+ 
+ NívelGerente: inteiro
+ </td>
 <td>
   <ul>
     <li>Setters [para todos os atributos]</li>
