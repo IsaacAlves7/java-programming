@@ -14,10 +14,10 @@
 
 <blockquote>⚠️ <b>Warning:</b> It's very important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in Java development, if you want to learn about HTML5, CSS3 or Java Frameworks i recommend to access another repositories, click on links bellow!</blockquote><br \>
 
-[![Web](https://img.shields.io/badge/-HTML5‍‍and‍‍css3‍‍development-ae6f21?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
-[![Oracle](https://img.shields.io/badge/-OracleDB-ae6f21?style=for-the-badge&logo=Oracle&logoColor=white)](https://github.com/IsaacAlves7/sql-language)
-[![Spring](https://img.shields.io/badge/-Spring-ae6f21?style=for-the-badge&logo=Spring&logoColor=white)](https://www.artstation.com/isaacalves7)
-[![Android](https://img.shields.io/badge/-Android-ae6f21?style=for-the-badge&logo=Android&logoColor=white)](https://www.artstation.com/isaacalves7)
+[![Web](https://img.shields.io/badge/-HTML5‍‍and‍‍css3‍‍development-a1651c?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
+[![Oracle](https://img.shields.io/badge/-OracleDB-a1651c?style=for-the-badge&logo=Oracle&logoColor=white)](https://github.com/IsaacAlves7/sql-language)
+[![Spring](https://img.shields.io/badge/-Spring-a1651c?style=for-the-badge&logo=Spring&logoColor=white)](https://www.artstation.com/isaacalves7)
+[![Android](https://img.shields.io/badge/-Android-a1651c?style=for-the-badge&logo=Android&logoColor=white)](https://www.artstation.com/isaacalves7)
 
 <hr>
 <!--
