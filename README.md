@@ -1655,6 +1655,7 @@ A **herança múltipla** se caracteriza quando uma mesma classe herda de duas ou
 
 A herança múltipla pode ser observada nos exemplos das figuras a seguir:
 
+![img06](https://user-images.githubusercontent.com/61624336/120702327-54131600-c48a-11eb-8e60-336c6f8a3191.jpg)
 
 
 
