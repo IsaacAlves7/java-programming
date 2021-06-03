@@ -1711,6 +1711,16 @@ Sejam as três classes a seguir referentes a uma empresa:
 
    NomeGerente: texto
   </td>
+  <td>
+    <ul>
+     <li>Setters [para todos os atributos]</li>
+     <li>Getters [para todos os atributos]</li>
+     <li>Construtores [mínimo 5]</li>
+     <li>Imprimir [para exibir os atributos]</li>
+     <li>EntradaDados [para todos os atributos]</li>
+     <li>Cadastrar [atribui a todos os atributos]</li>
+    </ul>
+  </td>
 </tr>
 </table>
 
