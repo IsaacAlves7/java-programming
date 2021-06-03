@@ -1645,6 +1645,7 @@ Em Java, temos **apenas** a implementação da *herança simples*. A **herança 
 
 ![img04](https://user-images.githubusercontent.com/61624336/120694709-e9111180-c480-11eb-93f3-6f8bed85d319.jpg)
 
+![img05](https://user-images.githubusercontent.com/61624336/120694981-32616100-c481-11eb-81ec-ad1f071fa66f.jpg)
 
 
 
