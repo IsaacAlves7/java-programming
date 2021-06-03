@@ -1665,12 +1665,12 @@ Vejamos um exemplo:
 Sejam as três classes a seguir referentes a uma empresa:
 
 <table>
-<th>
+<tr>
  <td>Classe</td>
  <td>Atributos</td>
  <td>Atributos</td>
-</th>
-<th>
+</tr>
+<tr>
  <td>Gerente</td>
  <td>
  Identidade: texto
@@ -1686,7 +1686,7 @@ Sejam as três classes a seguir referentes a uma empresa:
 - Imprimir [para exibir os atributos]
 - EntradaDados [para todos os atributos]
 - Cadastrar [atribui a todos os atributos]</td>
-</th>
+</tr>
 </table>
 
 
