@@ -1671,7 +1671,7 @@ Sejam as três classes a seguir referentes a uma empresa:
  <td>Atributos</td>
 </tr>
 <tr>
- <td>Gerente</td>
+ <td><b>Gerente</b></td>
  <td>
  Identidade: texto
  
@@ -1695,6 +1695,22 @@ Sejam as três classes a seguir referentes a uma empresa:
     <li>Cadastrar [atribui a todos os atributos]</li>
   </ul>
 </td>
+</tr>
+<tr>
+  <td><b>Funcionário</b></td>
+  <td>
+   Identidade: texto
+
+   Nome: texto
+
+   Matrícula: texto
+
+   Salário: real
+
+   Setor: texto
+
+   NomeGerente: texto
+  </td>
 </tr>
 </table>
 
