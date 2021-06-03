@@ -1673,12 +1673,19 @@ Sejam as três classes a seguir referentes a uma empresa:
 <th>
  <td>Gerente</td>
  <td>
-- Identidade: texto
-- Nome: texto
-- Matrícula: texto
-- Salário: real
-- PercentualVenda: real
-- NívelGerente: inteiro</td>
+ Identidade: texto
+ Nome: texto
+ Matrícula: texto
+ Salário: real
+ PercentualVenda: real
+ NívelGerente: inteiro</td>
+<td>
+- Setters [para todos os atributos]
+- Getters [para todos os atributos]
+- Construtores [mínimo 5]
+- Imprimir [para exibir os atributos]
+- EntradaDados [para todos os atributos]
+- Cadastrar [atribui a todos os atributos]</td>
 </th>
 </table>
 
