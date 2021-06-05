@@ -1769,7 +1769,9 @@ Vamos analisar agora as diferenças entre as versões das nossas classes com e *
 
 ## Classe Funcionário sem o uso do conceito de herança:
 
+![code1](https://user-images.githubusercontent.com/61624336/120907573-1b656f00-c639-11eb-9eb6-5383db64336f.png)
 
+## Classe Cliente sem o uso do conceito de herança:
 
 
 
