@@ -1849,8 +1849,11 @@ Cliente</pre>
 
 Vamos analisar os métodos construtores da classe Cliente:
 
+![code](https://user-images.githubusercontent.com/61624336/120941019-d43db380-c6f6-11eb-96e5-1499851ddecd.png)
 
+Alguns destes métodos repassam os parâmetros recebidos para a Superclasse, através da palavra reservada super. Esta instrução diz ao compilador que o(s) parâmetro(s) será(ão) repassado(s) a um método construtor com a mesma assinatura na SuperClasse.
 
+Assim, o método:
 
 
 
