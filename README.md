@@ -1837,8 +1837,10 @@ O mesmo ocorre com a classe Funcionário, composta por todos os membros de Pesso
 PessoaEmpresa +
 Funcionário</pre>
 
-O mesmo ocorre com a **classe Funcionário**, composta por todos os membros de Pessoa, PessoaEmpresa e Funcionário, uma vez que Funcionário estende PessoaEmpresa, que por sua vez estende a classe Pessoa:
+Já a classe Cliente é composta por todos os membros de Pessoa e Cliente, uma vez que Cliente estende a classe Pessoa:
 
+<pre>Pessoa +
+Cliente</pre>
 
 
 
