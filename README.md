@@ -1831,6 +1831,8 @@ No final, a **classe Gerente** é composta por todos os membros de **Pessoa**, *
 PessoaEmpresa +
 Gerente</pre>
 
+O mesmo ocorre com a **classe Funcionário**, composta por todos os membros de Pessoa, PessoaEmpresa e Funcionário, uma vez que Funcionário estende PessoaEmpresa, que por sua vez estende a classe Pessoa:
+
 
 
 
