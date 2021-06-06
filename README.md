@@ -1827,7 +1827,9 @@ Após analisarmos as duas soluções, chegamos à conclusão de que, ao utilizar
 
 No final, a **classe Gerente** é composta por todos os membros de **Pessoa**, **PessoaEmpresa** e **Gerente**, uma vez que Gerente estende PessoaEmpresa, que por sua vez estende a classe Pessoa:
 
-
+<pre>Pessoa +
+PessoaEmpresa +
+Gerente</pre>
 
 
 
