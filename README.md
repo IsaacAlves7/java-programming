@@ -1845,6 +1845,9 @@ Já a classe Cliente é composta por todos os membros de Pessoa e Cliente, uma v
 <pre>Pessoa +
 Cliente</pre>
 
+## Herança de métodos construtores
+
+Vamos analisar os métodos construtores da classe Cliente:
 
 
 
