@@ -1798,6 +1798,7 @@ Vamos guardar estas perguntas e repeti-las após a aplicação da herança.
 
 ![code](https://user-images.githubusercontent.com/61624336/120913772-fe985e00-c66f-11eb-8a5f-29f525201230.png)
 
+### Classe Gerente com o uso do conceito de herança (SubClasse de PessoaEmpresa):
 
 
 
