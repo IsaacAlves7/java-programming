@@ -1800,6 +1800,7 @@ Vamos guardar estas perguntas e repeti-las após a aplicação da herança.
 
 ### Classe Gerente com o uso do conceito de herança (SubClasse de PessoaEmpresa):
 
+![code](https://user-images.githubusercontent.com/61624336/120914141-694a9900-c672-11eb-8825-1d677e8c40fc.png)
 
 
 
