@@ -1861,6 +1861,7 @@ Assim, o método:
 
 O método:
 
+![code](https://user-images.githubusercontent.com/61624336/120941545-9d1cd180-c6f9-11eb-98e1-00ecc736079d.png)
 
 
 
