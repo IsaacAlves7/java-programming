@@ -1792,8 +1792,11 @@ Vamos guardar estas perguntas e repeti-las após a aplicação da herança.
 
 ### Classe Pessoa com o uso do conceito de herança (SuperClasse):
 
+![code](https://user-images.githubusercontent.com/61624336/120913193-89c32500-c66b-11eb-94b9-669f12caa596.png)
 
+### Classe PessoaEmpresa com o uso do conceito de herança (SubClasse de Pessoa):
 
+![code](https://user-images.githubusercontent.com/61624336/120913772-fe985e00-c66f-11eb-8a5f-29f525201230.png)
 
 
 
