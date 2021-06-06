@@ -1856,6 +1856,7 @@ Alguns destes métodos repassam os parâmetros recebidos para a **Superclasse**,
 Assim, o método:
 
 
+![code](https://user-images.githubusercontent.com/61624336/120941168-a2791c80-c6f7-11eb-84f4-bd03dcdc2df2.png)
 
 
 
