@@ -1804,7 +1804,9 @@ Vamos guardar estas perguntas e repeti-las após a aplicação da herança.
 
 ### Classe Funcionário com o uso do conceito de herança (SubClasse de PessoaEmpresa):
 
+![code](https://user-images.githubusercontent.com/61624336/120934666-a1cf8e80-c6d5-11eb-96c0-b28ec46734d9.png)
 
+### Classe Cliente com o uso do conceito de herança (SubClasse de Pessoa):
 
 
 
