@@ -1821,6 +1821,12 @@ Resposta: Será necessário alterar apenas a classe PessoaEmpresa, já que as cl
 - Se for necessário incluir a data da primeira compra do cliente?
 Resposta: Será necessário alterar apenas a classe Cliente.
 
+### ⚠️ Atenção ⚠️
+
+Após analisarmos as duas soluções, chegamos à conclusão de que, ao utilizar a *herança*, não só evitamos a **redundância de códigos (repetição)** como *facilitamos a manutenção*, uma vez que, para realizar qualquer atualização, deveremos sempre alterar **apenas** *uma das classes*.
+
+No final, a **classe Gerente** é composta por todos os membros de **Pessoa**, **PessoaEmpresa** e **Gerente**, uma vez que Gerente estende PessoaEmpresa, que por sua vez estende a classe Pessoa:
+
 
 
 
