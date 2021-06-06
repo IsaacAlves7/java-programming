@@ -1788,6 +1788,10 @@ Resposta: Será necessário alterar apenas a classe Cliente.
 
 Vamos guardar estas perguntas e repeti-las após a aplicação da herança.
 
+## Aplicando os conceitos de herança:
+
+### Classe Pessoa com o uso do conceito de herança (SuperClasse):
+
 
 
 
