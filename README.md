@@ -1775,7 +1775,18 @@ Vamos analisar agora as diferenças entre as versões das nossas classes com e *
 
 ![code1](https://user-images.githubusercontent.com/61624336/120909059-435bcf00-c647-11eb-80f6-de4e7c05d281.png)
 
+Vamos a algumas perguntas:
 
+- Se for necessário incluir um novo atributo com o CPF em todas as classes?
+Resposta: Teremos que alterar todas as classes, dificultando a manutenção.
+
+- Se for necessário um novo atributo para armazenar a data de admissão para Gerentes e Funcionários?
+Resposta: Será necessário alterar as classes Gerente e Funcionário.
+
+- Se for necessário incluir a data da primeira compra do cliente?
+Resposta: Será necessário alterar apenas a classe Cliente.
+
+Vamos guardar estas perguntas e repeti-las após a aplicação da herança.
 
 
 
