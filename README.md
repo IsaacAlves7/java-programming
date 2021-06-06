@@ -17,7 +17,10 @@
 [![Web](https://img.shields.io/badge/-HTML5‍‍and‍‍css3‍‍development-985e15?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
 [![Oracle](https://img.shields.io/badge/-OracleDB-985e15?style=for-the-badge&logo=Oracle&logoColor=white)](https://github.com/IsaacAlves7/sql-language)
 [![Spring](https://img.shields.io/badge/-Spring-985e15?style=for-the-badge&logo=Spring&logoColor=white)](https://www.artstation.com/isaacalves7)
+[![Spring Boot](https://img.shields.io/badge/-SpringBoot-985e15?style=for-the-badge&logo=Spring Boot&logoColor=white)](https://www.artstation.com/isaacalves7)
 [![Android](https://img.shields.io/badge/-Android-985e15?style=for-the-badge&logo=Android&logoColor=white)](https://www.artstation.com/isaacalves7)
+[![Hibernate](https://img.shields.io/badge/-Hibernate-985e15?style=for-the-badge&logo=Hibernate&logoColor=white)](https://www.artstation.com/isaacalves7)
+
 
 <hr>
 <!--
