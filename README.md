@@ -1810,7 +1810,16 @@ Vamos guardar estas perguntas e repeti-las após a aplicação da herança.
 
 ![code](https://user-images.githubusercontent.com/61624336/120937922-bff1ba80-c6e6-11eb-9388-393e471769cb.png)
 
+Vamos responder novamente às três perguntas feitas anteriormente:
 
+- Se for necessário incluir um novo atributo com o CPF em todas as classes?
+Resposta: Teremos que alterar apenas a classe Pessoa, uma vez que todas as demais classes irão herdar qualquer atualização nesta classe.
+
+- Se for necessário um novo atributo para armazenar a data de admissão para Gerentes e Funcionários?
+Resposta: Será necessário alterar apenas a classe PessoaEmpresa, já que as classes Gerente e Funcionário herdarão desta classe.
+
+- Se for necessário incluir a data da primeira compra do cliente?
+Resposta: Será necessário alterar apenas a classe Cliente.
 
 
 
