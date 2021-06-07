@@ -1776,7 +1776,6 @@ Vamos analisar agora as diferenças entre as versões das nossas classes com e *
 
 ## Classe Cliente sem o uso do conceito de herança:
 
-![code](https://user-images.githubusercontent.com/61624336/120969534-a1b8a880-c740-11eb-8ae1-4ff30254b352.png)
 
 Vamos a algumas perguntas:
 
@@ -1819,7 +1818,7 @@ Logo, iremos aplicar esse conceito:
 
 ### Classe Cliente com o uso do conceito de herança (SubClasse de Pessoa):
 
-![code](https://user-images.githubusercontent.com/61624336/120937922-bff1ba80-c6e6-11eb-9388-393e471769cb.png)
+![code](https://user-images.githubusercontent.com/61624336/120969534-a1b8a880-c740-11eb-8ae1-4ff30254b352.png)
 
 Vamos responder novamente às três perguntas feitas anteriormente:
 
