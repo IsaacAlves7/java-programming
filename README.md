@@ -1994,8 +1994,25 @@ Entretanto, se pensarmos segundo a ótica do particionamento, podemos dividir a 
 
 A classe Desktop seria então decomposta (particionada) da seguinte forma:
 
+![pg5](https://user-images.githubusercontent.com/61624336/121088036-8b9bfe00-c7bb-11eb-914a-0d04903807bd.png)
 
+Vamos determinar poucos atributos para cada uma delas, apenas para entendermos melhor o conceito.
 
+<table>
+  <tr>
+   <td><b>Classe</b></td>
+   <td><b>Atributos</b></td>
+  </tr>
+  <tr>
+   <td>PlacaMae</td>
+   <td>
+       Marca : texto
+       Modelo : texto
+       Preco : real
+       TipoProcessador : texto
+   </td>
+  </tr>
+</table>
 
 
 
