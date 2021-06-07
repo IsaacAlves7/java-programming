@@ -1936,22 +1936,39 @@ Inicialmente, nossa classe desktop ficaria com os seguintes atributos:
   <tr>
     <td>Desktop</td>
     <td>MarcaPlacaMae : texto
+    
 ModeloPlacaMae : texto
+
 PrecoPlacaMae: real
+
 TipoProcessador : texto
+
 MarcaHD : texto
+
 ModeloHD : texto
+
 PrecoHD : real
+
 TipoHD : texto
+
 CapacidadeHD : inteiro
+
 MarcaPlacaVideo : texto
+
 ModeloPlacaVideo : texto
+
 PrecoPlacaVideo : real
+
 Padrao : texto
+
 MarcaMemoria : texto
+
 ModeloMemoria : texto
+
 PrecoMemoria: real
+
 TipoMemoria : texto
+
 CapacidadeMemoria : inteiro</td>
   </tr>
 </table>
