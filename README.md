@@ -1977,6 +1977,7 @@ CapacidadeMemoria : inteiro</td>
 Podemos analisar como ficará a classe Desktop:
 
 ## Declaração dos atributos da classe Desktop:
+![code](https://user-images.githubusercontent.com/61624336/121084669-5392bc00-c7b7-11eb-94b5-c9aea538887e.png)
 
 
 
