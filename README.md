@@ -1891,7 +1891,11 @@ Ele não é suficiente para atender às necessidades da classe Cliente, então p
 
 ![code](https://user-images.githubusercontent.com/61624336/120993557-046a6e00-c75a-11eb-95c0-525e4b89a82b.png)
 
+Esta substituição permitiria que o método imprimir fosse substituído na **Subclasse** por um método mais completo que atendesse a sua necessidade.
 
+Note que as assinaturas dos métodos, tanto na **Superclasse Pessoa** como na **Subclasse Cliente**, são idênticas: <code>imprimir( );</code> desta forma, houve uma *Sobrescrita (Override)* e não uma *Sobrecarga (Overhead)*.
+
+Como uma primeira forma de atender a demanda da classe Cliente, o método imprimir nesta nova versão seria suficiente, mas podemos melhorar nossa solução, observe que parte do código já existe no método imprimir da Superclasse Pessoa, ocorrendo uma redundância de código nas instruções destacadas na cor vermelha:
 
 
 
