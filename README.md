@@ -2006,6 +2006,7 @@ Vamos determinar poucos atributos para cada uma delas, apenas para entendermos m
   <tr>
    <td>PlacaMae</td>
    <td>
+   
        Marca : texto
        
        Modelo : texto
@@ -2013,6 +2014,7 @@ Vamos determinar poucos atributos para cada uma delas, apenas para entendermos m
        Preco : real
        
        TipoProcessador : texto
+       
    </td>
   </tr>
   <tr>
@@ -2032,6 +2034,7 @@ Vamos determinar poucos atributos para cada uma delas, apenas para entendermos m
   <tr>
     <td>PlacaVideo</td>
     <td>
+    
     Marca : texto
     
     Modelo : texto
@@ -2039,11 +2042,13 @@ Vamos determinar poucos atributos para cada uma delas, apenas para entendermos m
     Preco : real
     
     Padrão : texto
+    
     </td>
   </tr>
   <tr>
     <td>Memoria</td>
     <td>
+    
     Marca : texto
     
     Modelo : texto
@@ -2053,6 +2058,7 @@ Vamos determinar poucos atributos para cada uma delas, apenas para entendermos m
     Tipo : texto
     
     Capacidade : inteiro
+    
     </td>
   </tr>
 </table>
