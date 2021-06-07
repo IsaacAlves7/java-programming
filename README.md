@@ -1974,7 +1974,9 @@ CapacidadeMemoria : inteiro</td>
   </tr>
 </table>
 
+Podemos analisar como ficará a classe Desktop:
 
+## Declaração dos atributos da classe Desktop:
 
 
 
