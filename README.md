@@ -1935,7 +1935,8 @@ Inicialmente, nossa classe desktop ficaria com os seguintes atributos:
   </tr>
   <tr>
     <td>Desktop</td>
-    <td>MarcaPlacaMae : texto
+    <td>
+MarcaPlacaMae : texto
     
 ModeloPlacaMae : texto
 
