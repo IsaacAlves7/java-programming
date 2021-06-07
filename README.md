@@ -1976,10 +1976,23 @@ CapacidadeMemoria : inteiro</td>
 
 Podemos analisar como ficará a classe Desktop:
 
-## Declaração dos atributos da classe Desktop:
+### Declaração dos atributos da classe Desktop:
 ![code](https://user-images.githubusercontent.com/61624336/121084669-5392bc00-c7b7-11eb-94b5-c9aea538887e.png)
 
+A classe ficou extensa, complexa, sem contar que precisaremos ainda incluir os métodos de acesso (Setters e Getters), construtores, entradaDados, imprimir, cadastrar, além de outros métodos que possam se fazer necessários, sem contar a grande quantidade de atributos.
 
+Observe que muitos dos atributos são comuns a todas as classes e seria necessário diferenciar os atributos que possuem o mesmo nome, tal como: modeloPlacaMae; modeloHD, modeloPlacaVideo, modeloMemoria etc.
+
+O problema ainda poderia ser maior, se tivéssemos mais slots de memória, com modeloMemoria0, modeloMemoria1, modeloMemoria2, modeloMemoria3, para quatro slots, por exemplo. Essas dificuldades aumentam bastante o tamanho da classe e a sua complexidade; além disso, neste exemplo, começaríamos com 18 atributos, sem levar em consideração a questão dos diferentes slots de memória.
+
+Entretanto, se pensarmos segundo a ótica do particionamento, podemos dividir a classe Desktop, grande e complexa, em classes menores e mais simples. Como sugestão, poderíamos criar as classes que foram apresentadas como exemplo no parágrafo anterior em:
+
+- Placa-mãe (PlacaMae);
+- Disco Rígido (HD);
+- Placa de vídeo (PlacaVideo);
+- Memória (Memoria).
+
+A classe Desktop seria então decomposta (particionada) da seguinte forma:
 
 
 
