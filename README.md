@@ -1868,6 +1868,8 @@ O método:
 Por final o método:
 
 
+![code](https://user-images.githubusercontent.com/61624336/120944378-82068d80-c70a-11eb-8aa9-d43c15ad512c.png)
+
 
 
 
