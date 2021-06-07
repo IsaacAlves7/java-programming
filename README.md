@@ -2067,6 +2067,9 @@ Vamos determinar poucos atributos para cada uma delas, apenas para entendermos m
   
 </table>
 
+Assim, vamos criar as classes separadamente, dividindo a classe Desktop conforme proposto:
+
+![code](https://user-images.githubusercontent.com/61624336/121097161-eccace00-c7c9-11eb-81e3-fe7e5d272768.png)
 
 
 
