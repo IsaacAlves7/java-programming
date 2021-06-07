@@ -2017,6 +2017,7 @@ Vamos determinar poucos atributos para cada uma delas, apenas para entendermos m
        
    </td>
   </tr>
+  
   <tr>
    <td>HD</td>
    <td>
@@ -2031,6 +2032,7 @@ Vamos determinar poucos atributos para cada uma delas, apenas para entendermos m
       Capacidade : inteiro
    </td>
   </tr>
+  
   <tr>
     <td>PlacaVideo</td>
     <td>
@@ -2060,7 +2062,9 @@ Vamos determinar poucos atributos para cada uma delas, apenas para entendermos m
     Capacidade : inteiro
     
     </td>
+   
   </tr>
+  
 </table>
 
 
