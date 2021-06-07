@@ -1793,6 +1793,14 @@ Vamos guardar estas perguntas e repeti-las após a aplicação da herança.
 
 ## Aplicando os conceitos de herança:
 
+Primeiro de tudo, vamos arquitetar o conceito de superclasses e subclasses:
+
+- **SuperClasse**: Pessoa;
+- **SubClasse de Pessoa**: PessoaEmpresa, Cliente; 
+- **SubClasse de PessoaEmpresa**: Gerente, Funcionario. 
+
+Logo, iremos aplicar esse conceito:
+
 ### Classe Pessoa com o uso do conceito de herança (SuperClasse):
 
 ![code](https://user-images.githubusercontent.com/61624336/120913193-89c32500-c66b-11eb-94b9-669f12caa596.png)
