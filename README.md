@@ -1903,7 +1903,13 @@ Note que as instruções na cor vermelha já existem no método imprimir da Supe
 
 ![code](https://user-images.githubusercontent.com/61624336/120996827-113c9100-c75d-11eb-920d-de4a93d2d09f.png)
 
+Ao reaproveitar o método imprimir da Superclasse, temos dois ganhos muito importantes:
 
+01
+1. Não haverá redundância de códigos, as instruções do método imprimir da Superclasse serão reaproveitadas na Subclasse;
+
+02
+2. Caso haja a necessidade de incluir um novo atributo no método imprimir, só precisaremos realizar a alteração em apenas uma classe, pois, se for um atributo específico da classe Cliente, só precisaremos incluir a instrução no método da classe Cliente. Caso contrário, se o atributo for comum às demais classes, a instrução deverá ser incluída apenas na Superclasse Pessoa.
 
 
 
