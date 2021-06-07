@@ -1776,7 +1776,7 @@ Vamos analisar agora as diferenças entre as versões das nossas classes com e *
 
 ## Classe Cliente sem o uso do conceito de herança:
 
-![code1](https://user-images.githubusercontent.com/61624336/120909059-435bcf00-c647-11eb-80f6-de4e7c05d281.png)
+![code](https://user-images.githubusercontent.com/61624336/120969534-a1b8a880-c740-11eb-8ae1-4ff30254b352.png)
 
 Vamos a algumas perguntas:
 
