@@ -1913,7 +1913,7 @@ A **herança** é um conceito importantíssimo da programação orientada a Obje
 
 <hr>
 
-# Cap 06: ☕ Agregação e particionamento 🤰
+<h1 align="center">Cap 06: ☕ Agregação e particionamento 🤰</h1>
 
 
 
