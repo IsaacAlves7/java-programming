@@ -1887,6 +1887,9 @@ Vamos analisar o método imprimir da Superclasse Pessoa:
 
 ![code](https://user-images.githubusercontent.com/61624336/120993136-a3db3100-c759-11eb-8bc8-ecf17c716340.png)
 
+Ele não é suficiente para atender às necessidades da classe Cliente, então poderíamos tê-lo substituído por:
+
+![code](https://user-images.githubusercontent.com/61624336/120993557-046a6e00-c75a-11eb-95c0-525e4b89a82b.png)
 
 
 
