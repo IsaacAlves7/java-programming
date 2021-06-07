@@ -2007,10 +2007,53 @@ Vamos determinar poucos atributos para cada uma delas, apenas para entendermos m
    <td>PlacaMae</td>
    <td>
        Marca : texto
+       
        Modelo : texto
+       
        Preco : real
+       
        TipoProcessador : texto
    </td>
+  </tr>
+  <tr>
+   <td>HD</td>
+   <td>
+     	Marca : texto
+      
+      Modelo : texto
+      
+      Preco : real
+      
+      Tipo : texto
+      
+      Capacidade : inteiro
+   </td>
+  </tr>
+  <tr>
+    <td>PlacaVideo</td>
+    <td>
+    Marca : texto
+    
+    Modelo : texto
+
+    Preco : real
+    
+    Padrão : texto
+    </td>
+  </tr>
+  <tr>
+    <td>Memoria</td>
+    <td>
+    Marca : texto
+    
+    Modelo : texto
+    
+    Preco : real
+    
+    Tipo : texto
+    
+    Capacidade : inteiro
+    </td>
   </tr>
 </table>
 
