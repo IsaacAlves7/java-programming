@@ -1897,9 +1897,11 @@ Note que as assinaturas dos métodos, tanto na **Superclasse Pessoa** como na **
 
 Como uma primeira forma de atender a demanda da classe Cliente, o método imprimir nesta nova versão seria suficiente, mas podemos melhorar nossa solução, observe que parte do código já existe no método imprimir da Superclasse Pessoa, ocorrendo uma redundância de código nas instruções destacadas na cor vermelha:
 
+![code](https://user-images.githubusercontent.com/61624336/120996631-dfc3c580-c75c-11eb-9902-eb957eb65e9c.png)
 
+Note que as instruções na cor vermelha já existem no método imprimir da Superclasse e, assim, podemos reaproveitar os códigos da Superclasse ao chamar o método imprimir da Superclasse na Subclasse:
 
-
+![code](https://user-images.githubusercontent.com/61624336/120996827-113c9100-c75d-11eb-920d-de4a93d2d09f.png)
 
 
 
