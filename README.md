@@ -2078,6 +2078,8 @@ Assim, vamos criar as classes separadamente, dividindo a classe Desktop conforme
 3. Cada classe mais simples se torna mais fácil de codificar;
 4. As classes criadas serão mais fáceis para se realizar qualquer tipo de manutenção.
 
+Outro ponto muito importante é que todas essas classes criadas através do particionamento poderão ser reaproveitadas para as classes Notebook e Servidor. Dessa forma, a nossa biblioteca de classes poderá criar novos objetos quando reunida em conjunto.
+
 
 
 
