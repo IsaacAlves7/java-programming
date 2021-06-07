@@ -2071,7 +2071,12 @@ Assim, vamos criar as classes separadamente, dividindo a classe Desktop conforme
 
 ![code](https://user-images.githubusercontent.com/61624336/121097161-eccace00-c7c9-11eb-81e3-fe7e5d272768.png)
 
+### Atenção
 
+1. A decomposição da classe Desktop foi feita em quatro classes mais simples;
+2. Os nomes dos atributos puderam ser mantidos na forma original, sem que um interfira no outro;
+3. Cada classe mais simples se torna mais fácil de codificar;
+4. As classes criadas serão mais fáceis para se realizar qualquer tipo de manutenção.
 
 
 
