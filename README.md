@@ -1871,6 +1871,8 @@ Por final o método:
 ![code](https://user-images.githubusercontent.com/61624336/120944378-82068d80-c70a-11eb-8aa9-d43c15ad512c.png)
 ![code](https://user-images.githubusercontent.com/61624336/120944888-43be9d80-c70d-11eb-8de1-63d524e88747.png)
 
+Todo método construtor de uma SubClasse deve referenciar um construtor da SuperClasse, isso quer dizer que para o construtor vazio: <code>public Cliente() { }</code>, será obrigatório que exista um construtor vazio na SuperClasse: <code>public Pessoa() { }</code>.
+
 
 
 
