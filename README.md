@@ -1885,6 +1885,7 @@ Métodos de uma *SuperClasse* podem ser **sobrescritos** em suas *subclasses*, i
 
 Vamos analisar o método imprimir da Superclasse Pessoa:
 
+![code](https://user-images.githubusercontent.com/61624336/120993136-a3db3100-c759-11eb-8bc8-ecf17c716340.png)
 
 
 
