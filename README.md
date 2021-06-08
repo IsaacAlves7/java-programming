@@ -2085,11 +2085,15 @@ A reunião de uma ou mais classes para formar novas classes é chamada de agrega
 
 ![code](https://user-images.githubusercontent.com/61624336/121120415-e05b6b00-c7f3-11eb-8fd2-cf4ebeef81da.png)
 
-### Atenção
-Foram incluídos novos atributos para entendermos que a agregação pode incluir não apenas classes, mas também novos atributos;
-Como toda classe é também um tipo, podemos declarar atributos como do tipo Classe;
-Cada atributo criado a partir de uma classe (não sendo de tipos básicos) é uma agregação à classe principal, sendo assim, temos as quatro agregações (PlacaMae, HD, PlacaVideo e Memoria) para cada classe principal;
-As classes Desktop, Notebook e Servidor foram criadas a partir de fragmentos menores, mas todos os atributos originais da classe Desktop estão presentes.
+### ⚠️ Atenção ⚠️
+
+1. Foram incluídos novos atributos para entendermos que a agregação pode incluir não apenas classes, mas também novos atributos;
+
+2. Como toda classe é também um tipo, podemos declarar atributos como do tipo Classe;
+
+3. Cada atributo criado a partir de uma classe (não sendo de tipos básicos) é uma agregação à classe principal, sendo assim, temos as quatro agregações (PlacaMae, HD, PlacaVideo e Memoria) para cada classe principal;
+
+4. As classes Desktop, Notebook e Servidor foram criadas a partir de fragmentos menores, mas todos os atributos originais da classe Desktop estão presentes.
 
 
 
