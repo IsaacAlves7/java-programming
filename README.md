@@ -2157,7 +2157,7 @@ Temos então um melhor controle sobre a aplicação e maior facilidade de manute
 
 <h1 align="center">Cap 07: ☕ Encapsulamento 💊</h1>
 
-O **encapsulamento** permite uma classe encapsular atributos e métodos, ocultando os detalhes de implementação dos objetos. Trabalharemos também os tipos de visibilidade de membros de uma classe: public, protected, private e package. Desenvolveremos uma aplicação utilizando o conceito de encapsulamento em conjunto com os conceitos de herança e agregação.
+O **encapsulamento** permite uma classe encapsular atributos e métodos, ocultando os detalhes de implementação dos objetos. Trabalharemos também os tipos de visibilidade de membros de uma classe: <code>public</code>, <code>protected</code>, <code>private</code> e <code>package</code>. Desenvolveremos uma aplicação utilizando o conceito de encapsulamento em conjunto com os conceitos de herança e agregação.
 
 No desenvolvimento de aplicações, temos situações nas quais a segurança é muito importante. Em muitas situações os membros de uma classe (atributos e métodos) precisam ter o seu acesso restringido para que não sejam burlados por meio das aplicações. Esse processo de limitação de acesso aos membros de uma classe é chamado de **Programação Orientada a Objetos de Encapsulamento**.
 
