@@ -2266,13 +2266,18 @@ Na linguagem Java, temos quatro diferentes tipos de encapsulamento:
   <tr>
     <td>
     Menor restrição:
-         ↕
+    
+        ↕
+   
     Maior restrição:
     </td>
     <td>
     1. public – acesso irrestrito;
+    
     2. (vazio ou omissão) – acesso padrão (package);
+    
     3. protected;
+    
     4. private.
     </td>
   </tr>
