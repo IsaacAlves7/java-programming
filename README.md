@@ -2080,10 +2080,16 @@ Assim, vamos criar as classes separadamente, dividindo a classe Desktop conforme
 
 Outro ponto muito importante é que todas essas classes criadas através do particionamento poderão ser reaproveitadas para as classes Notebook e Servidor. Dessa forma, a nossa biblioteca de classes poderá criar novos objetos quando reunida em conjunto.
 
+## Agregação
+A reunião de uma ou mais classes para formar novas classes é chamada de agregação. Uma nova classe pode ser formada por um conjunto de diferentes objetos. Seguindo nosso exemplo, poderíamos reaproveitar as classes PlacaMae, HD, PlacaVideo, e Memória para criar novas classes, como Desktop, Notebook e Servidor, como nos exemplos a seguir:
 
+![code](https://user-images.githubusercontent.com/61624336/121120415-e05b6b00-c7f3-11eb-8fd2-cf4ebeef81da.png)
 
-
-
+### Atenção
+Foram incluídos novos atributos para entendermos que a agregação pode incluir não apenas classes, mas também novos atributos;
+Como toda classe é também um tipo, podemos declarar atributos como do tipo Classe;
+Cada atributo criado a partir de uma classe (não sendo de tipos básicos) é uma agregação à classe principal, sendo assim, temos as quatro agregações (PlacaMae, HD, PlacaVideo e Memoria) para cada classe principal;
+As classes Desktop, Notebook e Servidor foram criadas a partir de fragmentos menores, mas todos os atributos originais da classe Desktop estão presentes.
 
 
 
