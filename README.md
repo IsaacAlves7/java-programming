@@ -2167,7 +2167,9 @@ Encapsulamento é o processo de separação dos membros de uma classe através d
 
 Os atributos não devem ser manipulados diretamente, podendo ser alterados ou consultados somente através dos métodos de acesso (Setters e Getters) do objeto. Ao restringir o acesso direto aos atributos de uma classe, evitamos que eles sejam manipulados diretamente pela aplicação ou outras classes, não permitindo que possam receber um valor qualquer, principalmente, valores inválidos para o seu contexto. Dessa forma, aumentamos a segurança e a confiança sobre os valores atribuídos.
 
+Por exemplo:
 
+### Na classe Exemplo temos o seguinte atributo:
 
 
 
