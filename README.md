@@ -2163,6 +2163,10 @@ No desenvolvimento de aplicações, temos situações nas quais a segurança é 
 
 <blockquote>“Encapsulamento trata-se de um mecanismo que possibilita restringir o acesso a variáveis e métodos da classe (ou até à própria classe). Os detalhes de implementação ficam ocultos ao usuário da classe, isto é, o usuário passa a utilizar os serviços da classe sem saber como isso ocorre internamente. Somente uma lista das funcionalidades existentes torna-se disponível ao usuário da classe.” - (FURGERI, 2015)</blockquote>
 
+Encapsulamento é o processo de separação dos membros de uma classe através da restrição ao seu acesso. Pode ocultar os atributos e métodos de uma classe, evitando que dados e detalhes de implementação de métodos sejam vistos (acessados diretamente) pela aplicação ou outras classes. Uma classe encapsula atributos e métodos, ocultando os detalhes de implementação dos objetos. Como um dos princípios do desenvolvimento orientado a objetos, o encapsulamento determina que a implementação de um objeto somente deve ser acessada através de uma interface visível e bem definida.
+
+Os atributos não devem ser manipulados diretamente, podendo ser alterados ou consultados somente através dos métodos de acesso (Setters e Getters) do objeto. Ao restringir o acesso direto aos atributos de uma classe, evitamos que eles sejam manipulados diretamente pela aplicação ou outras classes, não permitindo que possam receber um valor qualquer, principalmente, valores inválidos para o seu contexto. Dessa forma, aumentamos a segurança e a confiança sobre os valores atribuídos.
+
 
 
 
