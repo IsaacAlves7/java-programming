@@ -2193,10 +2193,13 @@ Por exemplo:
 
 ### A classe Tributos
 
+![code](https://user-images.githubusercontent.com/61624336/121261589-4b0ab600-c889-11eb-9916-3abce6cf74a7.png)
 
+### Na aplicação:
 
+![code](https://user-images.githubusercontent.com/61624336/121263973-d20d5d80-c88c-11eb-9fdc-1612a54a7995.png)
 
-
+### Saída
 
 
 
