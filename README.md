@@ -2179,11 +2179,19 @@ Por exemplo:
 
 Saída:<pre>Idade = -20</pre>
 
+1. Como não temos restrição sobre o atributo Idade, a aplicação poderá realizar um acesso direto ao atributo;
 
+2. Na aplicação foi realizado um acesso direto ao atributo, sem o uso de um método de acesso (Setter), e o valor atribuído não é válido porque uma pessoa não pode ter idade negativa;
 
+3. Acesso direto aos atributos de uma classe não permitem que sejam realizadas críticas ao valor antes da atribuição, fazendo com que o valor atribuído diretamente (acesso direto) não tenha qualquer tipo de validação.
 
+*Métodos* podem ter sua visibilidade restrita para evitar que detalhes de implementação ou um possível uso indevido possam ser realizados por outras classes ou aplicações. É muito comum que um método aparentemente simples, tal como <code>calcularImposto(double valor, tipoProduto)</code> não se restrinja a um simples cálculo. Ao se definir o <code>tipoProduto</code>, podemos ter diversas e diferentes formas de calcular o imposto sobre esse produto. Podemos então criar um método principal <code>calculaImposto()</code> e, através dele, chamar diversos outros métodos, cada um responsável por calcular o imposto para um determinado tipo de produto.
 
+Realizar o acesso diretamente aos métodos chamados por <code>calculaImposto()</code> pode exigir muito conhecimento por parte do desenvolvedor que irá usar a classe, mas nem sempre este desenvolvedor terá os conhecimentos técnicos necessários. Provavelmente, houve o apoio de um especialista em processos fiscais para que o desenvolvedor original da classe pudesse desenvolver os métodos previstos. Para evitar o uso indevido de métodos que possam ser usados de forma equivocada ou com restrição de segurança, alteramos a visibilidade desses métodos.
 
+Por exemplo:
+
+### A classe Tributos
 
 
 
