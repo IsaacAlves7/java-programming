@@ -2236,8 +2236,27 @@ Imposto e método corretos
 Valor a pagar [método correto 00]= 281.0
 </pre>
 
+1. Imaginemos que tipo de produto é um valor entre os seguintes: [00, 01, 02, 10, 11, 12, 20, 21 e 22], em que o primeiro dígito se refere ao tipo do produto e o segundo à faixa do imposto;
 
+2. Primeiro, o método <code>calculaImposto()</code> irá determinar o método a ser usado para cada tipo de imposto, e a faixa será usada dentro do método específico;
 
+3. O método específico será chamado pelo *método principal*, que retornará o valor correto do imposto;
+
+4. Se um desenvolvedor sem conhecimento correto usar diretamente um dos métodos específicos, o cálculo poderá resultar em um valor errado, pois dificilmente ele irá determinar a faixa correta, pois acabará por passar como parâmetro o tipo do produto e não a faixa;
+
+5. Se os testes forem realizados apenas com os tipos entre 00 e 02, provavelmente o resultado estará correto porque será passada apenas a faixa, mas, para os demais casos, de 10 a 12 ou de 20 a 22, provavelmente o resultado será 0 (zero) ou calculado pela última faixa;
+
+6. Uma aplicação ainda poderá burlar os cálculos da classe, simplesmente determinando um valor ao atributo imposto [tributo.imposto = -20;], o que resultaria em um imposto incorreto, aumentando o preço do produto; como o imposto é negativo e a operação aritmética é de subtração, haverá um sobre preço sobre o valor.
+
+A falta de conhecimento sobre o uso de uma classe pode gerar erros porque, mesmo realizando testes, as faixas com problemas podem não ser identificadas. Para isso, devemos ocultar parte da implementação da classe.
+
+## 💊 Princípio do encapsulamento 💊
+
+Atributos não devem ser visíveis por nenhum objeto que não seja instância da própria classe ou de uma classe descendente (herança).
+
+### Tipos de encapsulamento
+
+Na linguagem Java, temos quatro diferentes tipos de encapsulamento:
 
 
 
