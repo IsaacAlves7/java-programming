@@ -2095,12 +2095,31 @@ A reunião de uma ou mais classes para formar novas classes é chamada de agrega
 
 4. As classes Desktop, Notebook e Servidor foram criadas a partir de fragmentos menores, mas todos os atributos originais da classe Desktop estão presentes.
 
+Uma oportunidade se apresenta com o uso da agregação, que não é possível resolver facilmente com a herança.
 
+### ⚠️ Atenção ⚠️
 
+Não confunda herança com agregação, pois são conceitos diferentes.
 
+Imagine agora a situação dos slots de memória: na herança, só poderíamos herdar uma memória, mas, com a agregação, podemos criar quantas memórias quisermos, como no exemplo a seguir. Para a classe Memoria foram criados apenas os métodos de Acesso (Setters e Getters) para facilitar o entendimento:
 
+![code](https://user-images.githubusercontent.com/61624336/121124283-0afcf200-c7fb-11eb-9315-0c8f4f23d186.png)
 
+### ⚠️ Atenção ⚠️
 
+1. O Desktop possui quatro slots de memória;
+
+2. Como cada slot é um objeto diferente, eles possuem propriedades diferentes, sem que nenhum tenha relação direta com os demais;
+
+3. Não é comum montar um computador dessa forma, mas foram definidas marcas e capacidades diferentes para indicar que os valores armazenados não sofrem influência dos demais objetos agregados.
+
+Agora que vimos como aplicar os conceitos de agregação e particionamento, podemos aplicar também o conceito de herança e melhorar nossas classes. Vamos aplicar o conceito de herança às nossas classes particionadas para termos uma aplicação mais concisa e mais fácil para realizar manutenções.
+
+## Aplicação dos conceitos de herança, particionamento e agregação
+
+### Classes Particionadas
+
+![pg14](https://user-images.githubusercontent.com/61624336/121124491-68913e80-c7fb-11eb-859a-1bd49cafeede.png)
 
 
 
