@@ -2293,10 +2293,12 @@ A relação apresentada está em ordem de nível de restrição, indo do *menos 
 - **Protected**: Um membro definido como protegido pode ser acessado apenas por membros da própria classe, das suas subclasses e por outras classes ou aplicações que estejam no mesmo pacote (package);
 
 - **Default** (padrão, omissão): Quando não é usado um modificador de encapsulamento, a visibilidade é dita padrão e os membros têm visibilidade, ou seja, só podem ser acessados por classes e aplicações que estejam no mesmo pacote.
-Exemplos de visibilidade de membros
+
+### Exemplos de visibilidade de membros
 
 - **Membros públicos**: é a forma normal para métodos de acesso *(Setters e Getters)*.
 
+![code](https://user-images.githubusercontent.com/61624336/121268767-eead9380-c894-11eb-8e47-28a2e0fcfcbf.png)
 
 
 
