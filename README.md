@@ -2200,7 +2200,41 @@ Por exemplo:
 ![code](https://user-images.githubusercontent.com/61624336/121263973-d20d5d80-c88c-11eb-9fdc-1612a54a7995.png)
 
 ### Saída
+<pre>
+Digite o preco:
 
+1000
+
+Imposto incorreto:
+
+Valor do imposto [atribuição direta] = -20.0
+
+Imposto correto, mas método errado
+
+A faixa estava correta por acaso, porque 00 = 0
+
+Valor do imposto[método errado 00]= 45.0
+
+Imposto e método errados
+
+Valor do imposto [método errado 11]= 131.0
+
+Imposto correto, por acaso, porque 22 foi para a última faixa
+
+Valor a pagar [método errado 22]= 281.0
+
+Imposto e método corretos
+
+Valor a pagar [método correto 00]= 45.0
+
+Imposto e método corretos
+
+Valor a pagar [método correto 00]= 128.0
+
+Imposto e método corretos
+
+Valor a pagar [método correto 00]= 281.0
+</pre>
 
 
 
