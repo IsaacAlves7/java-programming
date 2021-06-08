@@ -2258,7 +2258,25 @@ Atributos não devem ser visíveis por nenhum objeto que não seja instância da
 
 Na linguagem Java, temos quatro diferentes tipos de encapsulamento:
 
-
+<table>
+  <tr>
+    <td><b>Nível de restrição:</b></td>
+    <td>Tipo de Encapsulamento (modificador):</td>
+  </tr>
+  <tr>
+    <td>
+    Menor restrição:
+         ↕
+    Maior restrição:
+    </td>
+    <td>
+    1. public – acesso irrestrito;
+    2. (vazio ou omissão) – acesso padrão (package);
+    3. protected;
+    4. private.
+    </td>
+  </tr>
+</table>
 
 
 
