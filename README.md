@@ -2153,12 +2153,15 @@ Caso seja necessária alguma alteração específica, basta alterar a classe afe
 
 Temos então um melhor controle sobre a aplicação e maior facilidade de manutenção de todo o sistema.
 
+<hr>
 
+<h1 align="center">Cap 07: ☕ Encapsulamento 💊</h1>
 
+O **encapsulamento** permite uma classe encapsular atributos e métodos, ocultando os detalhes de implementação dos objetos. Trabalharemos também os tipos de visibilidade de membros de uma classe: public, protected, private e package. Desenvolveremos uma aplicação utilizando o conceito de encapsulamento em conjunto com os conceitos de herança e agregação.
 
+No desenvolvimento de aplicações, temos situações nas quais a segurança é muito importante. Em muitas situações os membros de uma classe (atributos e métodos) precisam ter o seu acesso restringido para que não sejam burlados por meio das aplicações. Esse processo de limitação de acesso aos membros de uma classe é chamado de Programação Orientada a Objetos de Encapsulamento.
 
-
-
+<blockquote>“Encapsulamento trata-se de um mecanismo que possibilita restringir o acesso a variáveis e métodos da classe (ou até à própria classe). Os detalhes de implementação ficam ocultos ao usuário da classe, isto é, o usuário passa a utilizar os serviços da classe sem saber como isso ocorre internamente. Somente uma lista das funcionalidades existentes torna-se disponível ao usuário da classe.” - (FURGERI, 2015)</blockquote>
 
 
 
