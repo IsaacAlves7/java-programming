@@ -2436,11 +2436,25 @@ Exemplo 2 - Aplicação com um contador de objetos criados: <code>private static
 
 ### Classe Teste (pacote: biblioteca):
 
+![code](https://user-images.githubusercontent.com/61624336/121296690-701e1980-c8c7-11eb-8295-bfc760c66398.png)
 
+### Classe Exemplo2 (pacote: aplicacao)
 
+![code](https://user-images.githubusercontent.com/61624336/121296809-a196e500-c8c7-11eb-8c75-cb8a53954b57.png)
 
+<pre>
+Contador =1
 
+Contador =2
 
+Contador =3
+
+Contador =4
+
+Contador =5
+
+Contador =5
+</pre>
 
 
 
