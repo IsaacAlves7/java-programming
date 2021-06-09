@@ -2358,6 +2358,23 @@ Isso ocorre porque as aplicações não estão encontrando as respectivas classe
 
 Outro ponto importante é que os atributos das classes **Exemplo** e **Tributos** estavam com a visibilidade padrão e, para continuar a funcionar, é necessário alterar a visibilidade dos atributos para pública (public), uma vez que essas classes agora estão em diferentes pacotes.
 
+<hr>
+
+<h1 align="center">Cap 08: ☕ Classes abstratas e interfaces 💈</h1>
+
+As **classes abstratas** são usadas como moldes para a criação de outras classes e podem encapsular atributos e comportamentos comuns. Já **interface** é um recurso muito utilizado em Java. Uma classe pode implementar várias interfaces.
+
+## Modificadores: static e final
+
+Anteriormente, conhecemos os *modificadores de acesso* ou de *visibilidade* (Encapsulamento). Agora iremos conhecer mais alguns modificadores que podem ser aplicados sobre classes, no caso do final e sobre membros (Atributos e Métodos) de uma classe. Esses modificadores, como o nome já diz, servem para alterar a forma de uso de classes, métodos e/ou atributos.
+
+## Referência .this
+
+O uso do <code>this</code> em Java é para ajudar na questão das referências (endereçamento) de memória. O <code>this</code> é um ponteiro (variável que armazena endereço de memória) de forma implícita. Java não possui *endereçamento direto de memória* (endereçamento explícito), apenas o *endereçamento indireto* (implícito) de memória. A referência <code>this</code> então é uma referência implícita ao endereçamento de memória de um objeto.
+
+A referência <code>this</code> altera a identificação do objeto pelo seu identificador (nome) e pelo endereço de memória do objeto, e *só pode referenciar membros da classe*, ou seja, somente faz referência a *atributos e métodos*.
+
+Dessa forma, podemos substituir o nome do objeto pela sua referência, e também separar quando tem o mesmo nome variáveis e atributos:
 
 
 
