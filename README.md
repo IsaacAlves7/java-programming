@@ -2426,13 +2426,15 @@ Coversão de Real para dólar : US$ 240,96
 
 2. Depois, foi criado o objeto cot_2, com o valor da cotação do dólar definido através do método construtor em R$ 4,15, e foi mantido o mesmo valor de R$ 1000,00 para a conversão;
 
-3. Ambos os objetos deram o mesmo resultado porque o valor do dólar para a conversão era o mesmo, de R$ 4,15. Isso ocorreu pois, ao alterar o valor da cotação do dólar através do objeto cot_2, o objeto cot_1 também foi afetado, já que o atributo valorDolar é compartilhado: private static double valorDolar;
+3. Ambos os objetos deram o mesmo resultado porque o valor do dólar para a conversão era o mesmo, de R$ 4,15. Isso ocorreu pois, ao alterar o valor da cotação do dólar através do objeto cot_2, o objeto cot_1 também foi afetado, já que o atributo valorDolar é compartilhado: <code>private static double valorDolar;</code>
 
 Como o atributo valorDolar é compartilhado, o atributo deixa de ser um atributo de objeto (propriedade) com valor próprio a cada objeto, e passa a ser um atributo de classe, ou seja, passa a ser compartilhado por todas as instâncias. Internamente é criado um ponteiro implícito em que todos os atributos compartilhados da classe apontam para o mesmo endereço de memória. Por isso, qualquer objeto que realize uma alteração em um atributo compartilhado afetará todos os demais objetos criados a partir da mesma classe na aplicação.
 
 A referência <code>this</code> não pode ser usada com *atributos estáticos (static)*, apenas *atributos não compartilhados*, porque a referência dos atributos compartilhados não pertence ao objeto, mas sim à classe.
 
+Exemplo 2 - Aplicação com um contador de objetos criados: <code>private static int contador</code>
 
+### Classe Teste (pacote: biblioteca):
 
 
 
