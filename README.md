@@ -2306,7 +2306,11 @@ A relação apresentada está em ordem de nível de restrição, indo do *menos 
 
 - **Membros privados**: é a forma normal para os atributos de classe que *não terá subclasses*, mas não é adequada para os métodos de acesso (*Setters e Getters*).
 
+![code](https://user-images.githubusercontent.com/61624336/121272705-0d178d00-c89d-11eb-9970-8d1383ec8086.png)
 
+- **Membros protegidos**: é a forma normal para os atributos de classe que terão subclasses, mas também não é adequada para os métodos de acesso *(Setters e Getters)*.
+
+![code](https://user-images.githubusercontent.com/61624336/121273141-e7d74e80-c89d-11eb-9aa5-9f2fa4ec09e6.png)
 
 
 
