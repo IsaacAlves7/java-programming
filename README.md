@@ -2312,7 +2312,14 @@ A relação apresentada está em ordem de nível de restrição, indo do *menos 
 
 ![code](https://user-images.githubusercontent.com/61624336/121273141-e7d74e80-c89d-11eb-9aa5-9f2fa4ec09e6.png)
 
+Como vimos, o encapsulamento determina a **visibilidade de classes** ou de **seus membros**. É comum protegermos os atributos de uma classe para que eles não tenham *acesso direto*, e os *valores* a serem atribuídos possam ser analisados por um método antes da atribuição.
 
+## Pacotes
+**Pacotes**, em Java, são usados para facilitar o armazenamento e controle da biblioteca de classes. Como vimos até o momento, nossa biblioteca de classes vem crescendo e, dessa forma, várias classes foram criadas e estão em diferentes locais. É necessário organizarmos nossas classes e, para isso, podemos usar os pacotes.
+
+Pacotes não passam de uma estrutura de diretórios em que colocamos as nossas classes por afinidade. Por afinidade devemos entender que são classes com algum tipo de aderência, similaridade ou que pertencem a um mesmo assunto.
+
+No projeto criado para nossos exemplos dessa unidade, temos a seguinte estrutura:
 
 
 
