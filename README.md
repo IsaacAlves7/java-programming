@@ -2456,7 +2456,13 @@ Contador =5
 Contador =5
 </pre>
 
+## Notas:
 
+1. Foram criados cinco objetos, mas em nenhum caso foi feito um acesso direto para o atributo contador; cada objeto, ao ser criado, incrementava o contador;
+
+2. Conforme foram sendo criados os objetos, o valor compartilhado do atributo contador ia sendo atualizado para todos os objetos;
+
+3. Após a criação do 5º objeto, o objeto t5, o atributo do objeto t1, assim como os demais, compartilhavam o mesmo local de memória para buscar o valor do atributo; por isso, todos os objetos encerraram a aplicação retornando o valor 5 para o atributo contador compartilhado (static).
 
 
 
