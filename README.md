@@ -2300,8 +2300,11 @@ A relação apresentada está em ordem de nível de restrição, indo do *menos 
 
 ![code](https://user-images.githubusercontent.com/61624336/121268767-eead9380-c894-11eb-8e47-28a2e0fcfcbf.png)
 
+- **Membros com visibilidade padrão**: devemos evitar o uso do acesso padrão, para que tenhamos sempre a visibilidade definida.
 
+![code](https://user-images.githubusercontent.com/61624336/121269853-ee15fc80-c896-11eb-879f-f0806147e754.png)
 
+- **Membros privados**: é a forma normal para os atributos de classe que *não terá subclasses*, mas não é adequada para os métodos de acesso (*Setters e Getters*).
 
 
 
