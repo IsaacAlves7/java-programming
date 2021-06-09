@@ -2317,15 +2317,25 @@ Como vimos, o encapsulamento determina a **visibilidade de classes** ou de **seu
 ## Pacotes
 **Pacotes**, em Java, são usados para facilitar o armazenamento e controle da biblioteca de classes. Como vimos até o momento, nossa biblioteca de classes vem crescendo e, dessa forma, várias classes foram criadas e estão em diferentes locais. É necessário organizarmos nossas classes e, para isso, podemos usar os pacotes.
 
-Pacotes não passam de uma estrutura de diretórios em que colocamos as nossas classes por afinidade. Por afinidade devemos entender que são classes com algum tipo de aderência, similaridade ou que pertencem a um mesmo assunto.
+Pacotes não passam de uma *estrutura de diretórios* em que colocamos as nossas classes por afinidade. Por afinidade devemos entender que são classes com algum tipo de aderência, similaridade ou que pertencem a um mesmo assunto.
 
 No projeto criado para nossos exemplos dessa unidade, temos a seguinte estrutura:
 
+![img2](https://user-images.githubusercontent.com/61624336/121275698-a0ec5780-c8a3-11eb-88a6-c28e4d0c7e00.jpg)
 
+Note que temos apenas um pacote, o pacote default do projeto, e todas as classes estão juntas. Para criarmos novos pacotes, basta clicar sobre o projeto e escolher **New / Package**, como você pode observar na imagem a seguir.
 
+![img3](https://user-images.githubusercontent.com/61624336/121276412-fffe9c00-c8a4-11eb-8549-4e824106555e.jpg)
 
+Como foram criados três grupos de classes para os exemplos, vamos separar nossas classes em três pacotes, sendo eles: **parte1**, **parte2** e **parte3**.
 
+![img4](https://user-images.githubusercontent.com/61624336/121276493-26243c00-c8a5-11eb-8a82-170795faebd5.jpg)
 
+Basta agora arrastar as classes para seus respectivos pacotes.
+
+![img5](https://user-images.githubusercontent.com/61624336/121276533-376d4880-c8a5-11eb-8050-f7d634527a1c.jpg)
+
+Fisicamente, os arquivos ficarão dentro dos respectivos diretórios, podendo ainda ser criados subpacotes. A separação em pacotes permite duas ou mais classes com o mesmo nome, bastando que elas estejam em diferentes pacotes.
 
 
 
