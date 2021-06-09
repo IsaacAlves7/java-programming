@@ -2337,11 +2337,26 @@ Basta agora arrastar as classes para seus respectivos pacotes.
 
 Fisicamente, os arquivos ficarão dentro dos respectivos diretórios, podendo ainda ser criados subpacotes. A separação em pacotes permite duas ou mais classes com o mesmo nome, bastando que elas estejam em diferentes pacotes.
 
+![img6](https://user-images.githubusercontent.com/61624336/121278098-4f929700-c8a8-11eb-921e-30b7316796c9.jpg)
+![img7](https://user-images.githubusercontent.com/61624336/121278091-4e616a00-c8a8-11eb-9dc9-b60bf69da76f.jpg)
 
+Quando temos nossas classes separadas em pacotes, sempre que precisarmos usá-las devemos importar a(s) classe(s) de seus respectivos pacotes.
 
+Dessa forma, criamos um pacote apenas para as aplicações e transferimos as aplicações de encapsulamento para esse pacote. Note que as classes agora estão apresentando erros.
 
+![img8](https://user-images.githubusercontent.com/61624336/121278175-751fa080-c8a8-11eb-8d52-bde6c5a6e7a6.jpg)
 
+Isso ocorre porque as aplicações não estão encontrando as respectivas classes e, para que elas sejam encontradas, devemos importar as classes:
 
+#### Para a aplicação do primeiro exemplo:
+
+<pre>import parte1.Exemplo;</pre>
+
+#### Para a aplicação do segundo exemplo:
+
+<pre>import parte2.Tributos;</pre>
+
+Outro ponto importante é que os atributos das classes **Exemplo** e **Tributos** estavam com a visibilidade padrão e, para continuar a funcionar, é necessário alterar a visibilidade dos atributos para pública (public), uma vez que essas classes agora estão em diferentes pacotes.
 
 
 
