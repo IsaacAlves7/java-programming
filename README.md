@@ -235,17 +235,21 @@ Todas as instruções da linguagem Java devem terminar por um símbolo de ponto 
 
 Vejamos um exemplo:
 
-<pre>System.out.println(“Mensagem do sistema”);</pre>
+```java
+System.out.println(“Mensagem do sistema”);
+```
 
 Os blocos de comandos em Java são delimitados por <code>{</code> (abrir) e <code>}</code> (fechar) chaves, em que a instrução anterior define que todos os comandos do bloco farão parte desta. Isso irá ocorrer em classes, métodos e instruções de controle de fluxo. 
 
 Exemplo:
 
-<pre>if(nota>10.0) {
+```java
+if(nota>10.0) {
 
 System.out.println(“Nota inválida”);
 
-}</pre>
+}
+```
 
 ## ☕ Como usar a endentação? 📝
 Quando desenvolvemos um programa em qualquer linguagem, é comum que utilizemos um conjunto de espaços na frente das instruções de forma a facilitar a visualização de blocos. Sempre que iniciamos um bloco, devemos começar na próxima linha com um deslocamento de pelo menos quatro espaços em brando ou uma tabulação (normalmente quatro espaços). Isso permite que identifiquemos rapidamente que certo conjunto de instruções faz parte de um conjunto que será executado em bloco. 
