@@ -256,7 +256,8 @@ Quando desenvolvemos um programa em qualquer linguagem, é comum que utilizemos 
 
 Exemplo:
 
-<pre>import java.util.Scanner;
+```java
+import java.util.Scanner;
 
 <b>public class Exemplo</b> {
 
@@ -288,7 +289,8 @@ sc.close();
 
 } // encerramento da identação do bloco do método main
 
-} // encerramento da identação da classe Exemplo</pre>
+} // encerramento da identação da classe Exemplo
+```
 
 Em todas as linguagens de programação, devemos identificar variáveis, programas, funções, métodos, parâmetros etc. O ato de nomear algo em uma linguagem de programação é uma forma de identificação da linguagem. Em Java são permitidos identificadores que comecem com letras (maiúsculas ou minúsculas), ou um símbolo de “<code>$</code>” (dólar) ou “<code>_</code>” (underscore <code>/</code>underline). Números podem ser usados, mas não para iniciar um identificador.
 
@@ -362,7 +364,9 @@ Vejamos:
 
 Quando usamos duas barras em uma linha de código, todo o seu conteúdo, após as duas barras, é desconsiderado pelo compilador, o que quer dizer que podemos escrever qualquer conteúdo que o mesmo não será compilado. É muito usado para deixar informações e avisos do programador no código.
 
-<pre>// TODO Auto-generated method stub</pre>
+```java
+// TODO Auto-generated method stub</pre>
+```
 
 ### <code>/**/</code> comentário de duas ou mais linhas (bloco)
 
