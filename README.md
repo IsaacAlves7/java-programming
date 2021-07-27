@@ -576,7 +576,8 @@ Podemos alterar o tipo de um operando em uma expressão utilizando o **cast**, q
 
 Exemplo:
 
-<pre>int b=7, c=2;
+```java
+int b=7, c=2;
 
 double a=0;
 
@@ -584,14 +585,16 @@ a = (double) b / c; // o valor de b será convertido para double antes da opera�
 
 // e isso fará com que o primeiro operando seja real e desta
 
-// forma a operação será real, armazenado 3.5 em a.</pre>
+// forma a operação será real, armazenado 3.5 em a.
+```
 
 ## ☕ Operadores aritméticos 
 <pre> +=   -=   *=   /=   %= </pre>
 
 Exemplo:
 
-<pre>int alturaParede = 2.85; // declaração da variável alturaParede
+```java
+int alturaParede = 2.85; // declaração da variável alturaParede
 
 alturaParede += 0.15; // a variável alturaParede terá o valor
 
@@ -599,7 +602,8 @@ alturaParede += 0.15; // a variável alturaParede terá o valor
 
 // equivalente a:
 
-// alturaParede = alturaParede + 0.15;</pre>
+// alturaParede = alturaParede + 0.15;
+```
 
 Desta forma, não precisamos colocar o nome da variável duas vezes.
 
@@ -610,11 +614,13 @@ O **pré-incremento** determina que primeiro seja realizada a operação de incr
 
 Exemplo:
 
-<pre>int a = 20, b=0;
+```java
+int a = 20, b=0;
 
 b = ++a; // primeiro a variável a será incrementada de uma unidade, valendo 21,
 
-// depois b receberá o valor de a e assim, também valerá 21.</pre>
+// depois b receberá o valor de a e assim, também valerá 21.
+```
 
 O **pós-incremento** determina que antes seja realizada a atribuição para só então ser realizada a operação de incremento. 
 
