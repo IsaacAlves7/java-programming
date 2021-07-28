@@ -1488,11 +1488,15 @@ Já para realizar o cálculo da área do retângulo, eu preciso do valor da base
 ## ☕ Assinaturas ✒️
 Esses **dois métodos podem conviver na mesma classe**, uma vez que eles possuem **diferentes assinaturas**. A **assinatura de um método** é determinada pelo *tipo de parâmetros* e pela *ordem em que estes foram declarados*. Desta forma, a assinatura do primeiro método é:
 
-<pre>area ( int );</pre>
+```java
+area ( int );
+```
 
 e do segundo:
 
-<pre>area ( int , int );</pre>
+```java
+area ( int , int );
+```
 
 Diante da diferença de assinaturas, podemos ter dois diferentes contextos para o uso do método de cálculo da área:
 
