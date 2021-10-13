@@ -149,7 +149,7 @@ Exemplo:
 ## Java Runtime Environment (JRE)
 Kit com todos os programas necessários para executar aplicações Java. Faz parte do JDK, mas pode ser instalado separadamente para execução em máquinas clientes, uma vez que o JDK é voltado para os desenvolvedores. O JRE pode ser instalado separadamente e dá suporte somente a execução de aplicações ou jogos como o Minecraft, por isso é a versão mais indicada para instalação nas máquinas clientes que apenas executarão aplicações, não sendo responsáveis pelo seu desenvolvimento.
 
-## ☕ Fases de um programa em linguagem Java 🆙
+## Fases de um programa em linguagem Java
 ![img01](https://user-images.githubusercontent.com/61624336/112771689-6c3a6500-9003-11eb-8436-1bda07a25ea3.jpg)
 
 O código de um programa Java é compilado apenas uma vez, gerando um código intermediário, o **bytecode**, que pode ser executado quantas vezes forem necessárias em qualquer ambiente que possua uma máquina virtual Java (JVM) disponível.
@@ -178,12 +178,12 @@ Existem várias ferramentas para o desenvolvimento de sistemas utilizando a ling
 
 É importante que você já tenha instalado o JDK antes de instalar o seu IDE escolhido (Netbeans ou Eclipse). Assista o vídeo: 
 
-### NetBeans
+## NetBeans
 <div align="center"><a href="https://netbeans.apache.org/download/index.html"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="170" title="Click to install!"></a></div>
 
 Existem dois arquivos diferentes: o primeiro, com o source, contém os códigos fonte no Netbeans e não é o ideal para trabalharmos o desenvolvimento. A versão adequada para nós é a versão bin, que contém todos os códigos já compilados e prontos para a execução e desenvolvimento de projetos e aplicações Java.
 
-### Eclipse
+## Eclipse
 <div align="center"><a href="https://www.eclipse.org/downloads/"><img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" height="170" title="Click to install!"></a></div>
 
 Você não precisa instalar as duas, pois ambas são concorrentes e desempenham as mesmas funcionalidades. A preferência é a critério do programador.
@@ -192,7 +192,7 @@ A linguagem Java possui uma base de construção semelhante à linguagem C e, po
 
 <blockquote>Cuidado com as diferenças de versões no sistema operacional: se instalar o Java para 64 bits, você deverá usar um IDE (Netbeans ou Eclipse) de 64 bits. O mesmo para a versão de 32 bits: tanto o Java quanto o IDE deverão ser para 32 bits.</blockquote>
 
-## ☕ Criando o primeiro projeto com o NetBeans 📔🧊
+## Criando o primeiro projeto com o NetBeans
 ![img02](https://user-images.githubusercontent.com/61624336/112783447-ba606000-9025-11eb-99c1-9849bac132dd.jpg)
 ![img03](https://user-images.githubusercontent.com/61624336/112783450-bc2a2380-9025-11eb-9ad8-b3425b12416e.jpg)
 ![img04](https://user-images.githubusercontent.com/61624336/112783457-bd5b5080-9025-11eb-9ed8-7834c9429c27.jpg)
@@ -219,7 +219,7 @@ A aplicação executará na parte inferior do Netbeans:
 
 ![img11](https://user-images.githubusercontent.com/61624336/112784856-03fe7a00-9029-11eb-93f7-7da23c1e5735.jpg)
 
-## ☕ Acessando o Java pelo terminal 🖥️
+## Acessando o Java pelo terminal
 Crie um programa em java e execute os seguintes comandos para abri-lo.
 
 ![image](https://user-images.githubusercontent.com/61624336/113492455-d47ac200-94ad-11eb-99a2-946ea9250590.png)
@@ -255,7 +255,7 @@ System.out.println(“Nota inválida”);
 }
 ```
 
-## ☕ Como usar a endentação? 📝
+## Como usar a endentação?
 Quando desenvolvemos um programa em qualquer linguagem, é comum que utilizemos um conjunto de espaços na frente das instruções de forma a facilitar a visualização de blocos. Sempre que iniciamos um bloco, devemos começar na próxima linha com um deslocamento de pelo menos quatro espaços em brando ou uma tabulação (normalmente quatro espaços). Isso permite que identifiquemos rapidamente que certo conjunto de instruções faz parte de um conjunto que será executado em bloco. 
 
 Exemplo:
@@ -524,8 +524,8 @@ final double VALORDOLAR = 3.96;
 final NOMEEMPRESA = “Super Empreendimentos”;
 </pre>
 
-## ☕ Operadores e expressões +
-### ☕ Operadores aritméticos X + -
+##  Operadores e expressões +
+### Operadores aritméticos X + -
 
 <table>
   <tr>
@@ -592,7 +592,7 @@ a = (double) b / c; // o valor de b será convertido para double antes da opera�
 // forma a operação será real, armazenado 3.5 em a.
 ```
 
-## ☕ Operadores aritméticos 
+## Operadores aritméticos 
 <pre> +=   -=   *=   /=   %= </pre>
 
 Exemplo:
