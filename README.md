@@ -41,13 +41,13 @@ https://i.ytimg.com/vi/304GR-8f9c8/maxresdefault.jpg
 https://arquivo.devmedia.com.br/cursos/imagem/curso_o-que-e-java_2028.png
 -->
 
-<h1 align="center">Cap 01: ☕ Tecnologia Java ♨️</h1>
+<h1>☕ Tecnologia Java ♨️</h1>
 
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-100-pure.svg" height="270"></div><br \>
 
 **Java** é o ambiente computacional, ou plataforma, criada pela empresa estadunidense *Sun Microsystems*, e vendida para a *Oracle* depois de alguns anos. A plataforma permite desenvolver programas utilizando a linguagem de programação Java.
 
-## ☕ Paradigmas de desenvolvimento de software 🔢
+## Paradigmas de desenvolvimento de software
 
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/112900537-065ce480-90ba-11eb-86f7-f9006445876a.png"></div><br \>
 
@@ -59,7 +59,7 @@ Hoje em dia, o desenvolvimento de sistemas se baseia em vários e diferentes par
 - **Lógico**: Voltado ao desenvolvimento de problemas de lógica e usado em sistemas de inteligência computacional.
 - **Orientado a Objetos (OO)**: Define um conjunto de classes para dividir o problema e realiza a interação entre as diferentes classes para também resolver o problema como um todo.
 
-## ☕ Histórico da Linguagem Java ☕
+# ☕ History of Java Language ☕
 <div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/deciduous-tree_1f333.png" height="170" title="Oak, before of Java"><img src="https://cdn.worldvectorlogo.com/logos/java-duke.svg" height="170" title="Duke, the Java Mascot"><img src="https://cdn.worldvectorlogo.com/logos/java-1.svg" height="170"><img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="170"></div>
 
 A tecnologia Java foi desenvolvida na década de 1990, a partir de um projeto pessoal de um funcionário da **Sun Microsystems**. A ideia inicial estava ligada à criação de uma linguagem de programação que pudesse ser utilizada em diferentes sistemas, alterando o paradigma de que uma aplicação só poderia ser desenvolvida para uso em um único ambiente de hardware e sistema operacional, como era bastante comum na época.
@@ -80,7 +80,7 @@ A linguagem Java teve início ao incorporar a tecnologia Java ao navegador de in
 
 A tecnologia Java foi totalmente gratuita por muito tempo, mas recentemente a Oracle, que passou a deter os direitos da linguagem após adquirir a Sun Microsystems, está licenciando o uso para empresas com custos. A empresa deve permitir o licenciamento gratuito somente para desenvolvedores avulsos que criam aplicações pessoais sem custo ou para simples aprendizado.
 
-## ☕ Principais características e vantagens da tecnologia Java 🤩
+## Principais características e vantagens da tecnologia Java
 - Orientada a objetos, com uma grande diversidade de bibliotecas de classes disponível;
 - Independe de plataforma: write once, run everywhere ;
 - Segurança - Mecanismos para sistemas livres de vírus, pacotes para criptografia;
@@ -114,7 +114,7 @@ A plataforma Java é definida apenas em software e possui dois componentes:
 - **Conjunto de bibliotecas que disponibilizam classes comuns**.
 
 
-## ☕ API Java 🌳
+## API Java
 [![.JAR](https://img.shields.io/badge/-App.jar-000000?style=social&logo=Java&logoColor=brown)](#)
 [![.JAR](https://img.shields.io/badge/-App.class-000000?style=social&logo=Java&logoColor=brown)](#)
 
@@ -134,10 +134,10 @@ A tecnologia Java é composta por três plataformas:
 - **J2EE** ou **Java EE (Java Enterprise Edition)**: versão voltada para o desenvolvimento de aplicações corporativas e aplicações web;
 - **J2ME** ou **Java ME (Java Micro Edition)**: versão voltada para o desenvolvimento de aplicações móveis ou embarcadas.
 
-## ☕ Ambiente de desenvolvimento 🖥️
+## Ambiente de desenvolvimento
 Existem os ambientes JDK e JRE para construir e executar uma aplicação Java.
 
-## ☕ Java Development Kit (JDK) 🧰
+## Java Development Kit (JDK)
 Coleção de programas para, dentre outras tarefas, compilar e executar aplicações Java. Este é o kit necessário para o desenvolvedor, pois contém todo o suporte para a criação de aplicações em Java.
 
 Exemplo:
@@ -146,7 +146,7 @@ Exemplo:
 - Java;
 - Outros.
 
-## ☕ Java Runtime Environment (JRE) 🛠️
+## Java Runtime Environment (JRE)
 Kit com todos os programas necessários para executar aplicações Java. Faz parte do JDK, mas pode ser instalado separadamente para execução em máquinas clientes, uma vez que o JDK é voltado para os desenvolvedores. O JRE pode ser instalado separadamente e dá suporte somente a execução de aplicações ou jogos como o Minecraft, por isso é a versão mais indicada para instalação nas máquinas clientes que apenas executarão aplicações, não sendo responsáveis pelo seu desenvolvimento.
 
 ## ☕ Fases de um programa em linguagem Java 🆙
@@ -178,12 +178,12 @@ Existem várias ferramentas para o desenvolvimento de sistemas utilizando a ling
 
 É importante que você já tenha instalado o JDK antes de instalar o seu IDE escolhido (Netbeans ou Eclipse). Assista o vídeo: 
 
-### ♨️ NetBeans 🧊
+### NetBeans
 <div align="center"><a href="https://netbeans.apache.org/download/index.html"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="170" title="Click to install!"></a></div>
 
 Existem dois arquivos diferentes: o primeiro, com o source, contém os códigos fonte no Netbeans e não é o ideal para trabalharmos o desenvolvimento. A versão adequada para nós é a versão bin, que contém todos os códigos já compilados e prontos para a execução e desenvolvimento de projetos e aplicações Java.
 
-### ♨️ Eclipse 🌑
+### Eclipse
 <div align="center"><a href="https://www.eclipse.org/downloads/"><img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" height="170" title="Click to install!"></a></div>
 
 Você não precisa instalar as duas, pois ambas são concorrentes e desempenham as mesmas funcionalidades. A preferência é a critério do programador.
@@ -231,7 +231,7 @@ java app
 ```
 <hr>
 
-<h1 align="center">Cap 02: ☕ Características da linguagem Java 🔍</h1>
+<h1>☕ Características da linguagem Java 🔍</h1>
 
 A linguagem **Java** tem boa parte de suas características herdadas da linguagem **C**. Muitos dos seus operadores, formação de identificadores, comandos de controle de fluxo e várias outras características são compartilhados entre estas duas linguagens.
 
@@ -359,7 +359,7 @@ Palavras reservadas da linguagem Java (não podem ser usadas como identificadore
 
 <blockquote><b>OBS:</b> Todas as palavras reservadas começam por letras minúsculas e são palavras do idioma inglês.</blockquote>
 
-## ☕ Comentários 📝
+## Comentários em Java
 O uso de comentários em Java é semelhante ao usado na linguagem C, mas apenas dois destes tipos são iguais nas duas linguagens, sendo o terceiro tipo somente disponibilizado na linguagem Java.
 
 Vejamos:
@@ -382,10 +382,10 @@ O comentário de documentação se difere do comentário de bloco por possuir um
 
 Neste caso, usamos este tipo de comentário apenas para descrever avisos e informações das classes, de forma a realizar a documentação do sistema ainda durante sua fase de criação. Isto permite que o desenvolvedor descreva todo a documentação no próprio projeto, facilitando a descrição e a manutenção do sistema. Assim, ao terminar um projeto ou realizar algum tipo de modificação, basta gerar novamente a documentação do sistema que tudo estará atualizado.
 
-## ☕ Tipos de dados 🔣🔢
+## Tipos de dados 
 A linguagem Java possui nove tipos de dados básicos, sendo oito deles primitivos e um tipo especial.
 
-### ☕ Primitivos (armazenam apenas valores) 🔢
+## Primitivos (armazenam apenas valores)
 
 ### Tipo lógico (boolean)
 O tipo lógico só permite dois estados, verdadeiro (<code>true</code>) ou falso (<code>false</code>); em Java ainda é permitido o uso de <code>on</code> e <code>off</code>, ou <code>yes</code> e <code>no</code>. 
@@ -487,7 +487,7 @@ São dois diferentes tipos de valores reais, sendo um de precisão simples (<cod
   </tr>
 </table>    
 
-## ☕ Tipo especial 🔣
+## Tipo especial
 ### Tipo texto (String)
 O tipo texto (<code>String</code>) não é um tipo primitivo, mas um tipo especial. Na verdade, o tipo String é uma classe e por isso começa com letra maiúscula, ao contrário dos tipos primitivos, que sempre começam por minúsculas. Este tipo de dado armazena um conjunto de caracteres, formando palavras ou frases de tamanhos variados. Como classe, veremos mais tarde que elementos do tipo String possuem métodos que podem realizar ações específicas sobre o seu conteúdo. 
 
