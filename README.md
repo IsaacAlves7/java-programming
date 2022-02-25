@@ -12,15 +12,9 @@
 - Good domains in English;
 - Programming logic;
 
-<blockquote>⚠️ <b>Warning:</b> It's very important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in Java development, if you want to learn about HTML5, CSS3 or Java Frameworks i recommend to access another repositories, click on links bellow!</blockquote><br \>
+<blockquote>⚠️ <b>Warning:</b> It's very important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in Java development, if you want to learn about HTML5, CSS3 or Java Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
 
-[![Web](https://img.shields.io/badge/-HTML5‍‍and‍‍css3‍‍development-985e15?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/IsaacAlves7/html5-and-css3-development)
-[![Oracle](https://img.shields.io/badge/-OracleDB-985e15?style=for-the-badge&logo=Oracle&logoColor=white)](https://github.com/IsaacAlves7/sql-language)
-[![Spring](https://img.shields.io/badge/-Spring-985e15?style=for-the-badge&logo=Spring&logoColor=white)](https://www.artstation.com/isaacalves7)
-[![Spring Boot](https://img.shields.io/badge/-Spring‍Boot-985e15?style=for-the-badge&logo=Spring-Boot&logoColor=white)](https://www.artstation.com/isaacalves7)
-[![Android](https://img.shields.io/badge/-Android-985e15?style=for-the-badge&logo=Android&logoColor=white)](https://www.artstation.com/isaacalves7)
-[![Hibernate](https://img.shields.io/badge/-Hibernate-985e15?style=for-the-badge&logo=Hibernate&logoColor=white)](https://www.artstation.com/isaacalves7)
-
+<a href="https://github.com/IsaacAlves7/java-programming"><div align="center"><img src="https://sd.keepcalms.com/i/keep-calm-and-code-java-2.png" height="217"/></div></a>
 
 <hr>
 <!--
