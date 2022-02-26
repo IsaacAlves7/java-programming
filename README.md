@@ -17,6 +17,20 @@
 <a href="https://github.com/IsaacAlves7/java-programming"><div align="center"><img src="https://sd.keepcalms.com/i/keep-calm-and-code-java-2.png" height="217"/></div></a>
 
 <hr>
+
+# 🐒 Paradigmas de desenvolvimento de software 🧒
+
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/112900537-065ce480-90ba-11eb-86f7-f9006445876a.png"></div><br \>
+
+Hoje em dia, o desenvolvimento de sistemas se baseia em vários e diferentes paradigmas, tais como os listados a seguir:
+
+- **Imperativo (Procedural)**: Segue sequências de comandos ordenados segundo uma lógica.
+- **Funcional**: Trabalha com a divisão de problemas através de funções, que resolvem separadamente problemas menores e que, ao serem organizados, resolvem o problema como um todo.
+- **Lógico**: Voltado ao desenvolvimento de problemas de lógica e usado em sistemas de inteligência computacional.
+- **Orientado a Objetos (OO)**: Define um conjunto de classes para dividir o problema e realiza a interação entre as diferentes classes para também resolver o problema como um todo.
+
+----
+
 <!--
 https://miro.medium.com/max/1200/1*GCu4cNWIU1ElDbY7d4ycZw.png
 https://refactoring.guru/images/patterns/languages/java.png
@@ -40,18 +54,6 @@ https://arquivo.devmedia.com.br/cursos/imagem/curso_o-que-e-java_2028.png
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-100-pure.svg" height="270"></div><br \>
 
 **Java** é o ambiente computacional, ou plataforma, criada pela empresa estadunidense *Sun Microsystems*, e vendida para a *Oracle* depois de alguns anos. A plataforma permite desenvolver programas utilizando a linguagem de programação Java.
-
-## Paradigmas de desenvolvimento de software
-
-<div align="center"><img src="https://user-images.githubusercontent.com/61624336/112900537-065ce480-90ba-11eb-86f7-f9006445876a.png"></div><br \>
-
-
-Hoje em dia, o desenvolvimento de sistemas se baseia em vários e diferentes paradigmas, tais como os listados a seguir:
-
-- **Imperativo (Procedural)**: Segue sequências de comandos ordenados segundo uma lógica.
-- **Funcional**: Trabalha com a divisão de problemas através de funções, que resolvem separadamente problemas menores e que, ao serem organizados, resolvem o problema como um todo.
-- **Lógico**: Voltado ao desenvolvimento de problemas de lógica e usado em sistemas de inteligência computacional.
-- **Orientado a Objetos (OO)**: Define um conjunto de classes para dividir o problema e realiza a interação entre as diferentes classes para também resolver o problema como um todo.
 
 # ☕ History of Java Language ☕
 <div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/deciduous-tree_1f333.png" height="170" title="Oak, before of Java"><img src="https://cdn.worldvectorlogo.com/logos/java-duke.svg" height="170" title="Duke, the Java Mascot"><img src="https://cdn.worldvectorlogo.com/logos/java-1.svg" height="170"><img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="170"></div><br \>
