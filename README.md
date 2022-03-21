@@ -1,3 +1,5 @@
+<a href="https://github.com/IsaacAlves7/java-programming"><img src="https://training.infnet.edu.br/wp-content/uploads/sites/18/2019/02/desenvolvedor-java.jpg"/></a>
+
 # <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" height="37"></a> It's a repository of Java language programming ☕
 <!--
 [![.JAR](https://img.shields.io/badge/-script.jar-000000?style=social&logo=Java&logoColor=brown)](#)
@@ -5,8 +7,6 @@
 [![.JAR](https://img.shields.io/badge/-app.jar-000000?style=social&logo=Android&logoColor=green)](#)
 -->
 <blockquote>I created this repository for my Java Full-Stack Development learning.</blockquote>
-
-<a href="https://github.com/IsaacAlves7/java-programming"><img src="https://training.infnet.edu.br/wp-content/uploads/sites/18/2019/02/desenvolvedor-java.jpg"/></a>
 
 # 🎒 Prerequisites and repositories 📚
 - Good domains in English;
