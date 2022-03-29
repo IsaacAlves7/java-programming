@@ -2482,6 +2482,9 @@ Contador =5
 
 3. Após a criação do 5º objeto, o objeto t5, o atributo do objeto t1, assim como os demais, compartilhavam o mesmo local de memória para buscar o valor do atributo; por isso, todos os objetos encerraram a aplicação retornando o valor 5 para o atributo contador compartilhado (static).
 
+# Primefaces
+<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Pf-logo.png" height="177"></div><br \>
+
 # ☕ Java RoadMap 🗺️
 ![1643485463767](https://user-images.githubusercontent.com/61624336/155857899-572ed5c4-cdb1-4171-9865-b8a8de7f8377.jpg)
 
