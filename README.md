@@ -1,11 +1,16 @@
 <a href="https://github.com/IsaacAlves7/java-programming"><img src="https://training.infnet.edu.br/wp-content/uploads/sites/18/2019/02/desenvolvedor-java.jpg"/></a>
 
 # <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" height="37"></a> It's a repository of Java language programming ☕
-<!--
-[![.JAR](https://img.shields.io/badge/-script.jar-000000?style=social&logo=Java&logoColor=brown)](#)
-[![.JAR](https://img.shields.io/badge/-db.sql-000000?style=social&logo=Oracle&logoColor=red)](#)
-[![.JAR](https://img.shields.io/badge/-app.jar-000000?style=social&logo=Android&logoColor=green)](#)
--->
+
+[![.JAR](https://img.shields.io/badge/-script.jar-000000?style=social&logo=Java&logoColor=D77310)](#)
+[![Oracle](https://img.shields.io/badge/-oci-000000?style=social&logo=Oracle&logoColor=red)](#)
+[![Android](https://img.shields.io/badge/-Android-000000?style=social&logo=Android&logoColor=3DDC84)](#)
+[![Spring](https://img.shields.io/badge/-Spring-000000?style=social&logo=Spring&logoColor=6DB33F)](#)
+[![Spring Boot](https://img.shields.io/badge/-Spring_Boot-000000?style=social&logo=Spring-Boot&logoColor=6DB33F)](#)
+[![Spring Security](https://img.shields.io/badge/-Spring_Security-000000?style=social&logo=Spring-Security&logoColor=6DB33F)](#)
+[![Hibernate](https://img.shields.io/badge/-Hibernate-000000?style=social&logo=Hibernate&logoColor=59666C)](#)
+
+
 <blockquote>I created this repository for my Java Full-Stack Development learning.</blockquote>
 
 # 🎒 Prerequisites and repositories 📚
