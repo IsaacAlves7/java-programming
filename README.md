@@ -5,6 +5,7 @@
 [![.JAVA](https://img.shields.io/badge/-script.java-000000?style=social&logo=Java&logoColor=D77310)](#)
 [![.JAR](https://img.shields.io/badge/-script.jar-000000?style=social&logo=Java&logoColor=D51007)](#)
 [![.class](https://img.shields.io/badge/-script.class-000000?style=social&logo=Java&logoColor=007396)](#)
+[![XML](https://img.shields.io/badge/-XML-000000?style=social&logo=Xamarin&logoColor=gray)](#)
 [![Oracle](https://img.shields.io/badge/-oci-000000?style=social&logo=Oracle&logoColor=red)](#)
 [![Android](https://img.shields.io/badge/-Android-000000?style=social&logo=Android&logoColor=3DDC84)](#)
 [![Spring](https://img.shields.io/badge/-Spring-000000?style=social&logo=Spring&logoColor=6DB33F)](#)
