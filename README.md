@@ -9,7 +9,7 @@
 [![Spring Boot](https://img.shields.io/badge/-Spring_Boot-000000?style=social&logo=Spring-Boot&logoColor=6DB33F)](#)
 [![Spring Security](https://img.shields.io/badge/-Spring_Security-000000?style=social&logo=Spring-Security&logoColor=6DB33F)](#)
 [![Hibernate](https://img.shields.io/badge/-Hibernate-000000?style=social&logo=Hibernate&logoColor=59666C)](#)
-
+[![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=social&logo=Kotlin&logoColor=7F52FF)](#)
 
 <blockquote>I created this repository for my Java Full-Stack Development learning.</blockquote>
 
