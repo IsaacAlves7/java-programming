@@ -2,7 +2,7 @@
 
 # <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" height="37"></a> It's a repository of Java language programming ☕
 
-[![.JAVA](https://img.shields.io/badge/-script.java-000000?style=social&logo=Java&logoColor=D77310)](#)
+[![.JAVA](https://img.shields.io/badge/-script.java-000000?style=social&logo=Java&logoColor=DD6620)](#)
 [![.JAR](https://img.shields.io/badge/-script.jar-000000?style=social&logo=Java&logoColor=D51007)](#)
 [![.class](https://img.shields.io/badge/-script.class-000000?style=social&logo=Java&logoColor=007396)](#)
 [![XML](https://img.shields.io/badge/-XML-000000?style=social&logo=Xamarin&logoColor=gray)](#)
