@@ -26,7 +26,7 @@
 
 <hr>
 
-# 🐒 Paradigmas de desenvolvimento de software 🧒
+# 🐒 Paradigmas de desenvolvimento de software
 
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/112900537-065ce480-90ba-11eb-86f7-f9006445876a.png"></div><br \>
 
@@ -57,13 +57,13 @@ https://i.ytimg.com/vi/304GR-8f9c8/maxresdefault.jpg
 https://arquivo.devmedia.com.br/cursos/imagem/curso_o-que-e-java_2028.png
 -->
 
-<h1>☕ Tecnologia Java ♨️</h1>
+<h1>♨️ Tecnologia Java</h1>
 
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-100-pure.svg" height="270"></div><br \>
 
 **Java** é o ambiente computacional, ou plataforma, criada pela empresa estadunidense *Sun Microsystems*, e vendida para a *Oracle* depois de alguns anos. A plataforma permite desenvolver programas utilizando a linguagem de programação Java.
 
-# ☕ History of Java Language ☕
+# ☕ History of Java Language
 <div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/deciduous-tree_1f333.png" height="170" title="Oak, before of Java"><img src="https://cdn.worldvectorlogo.com/logos/java-duke.svg" height="170" title="Duke, the Java Mascot"><img src="https://cdn.worldvectorlogo.com/logos/java-1.svg" height="170"><img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="170"></div><br \>
 
 A tecnologia **Java** foi desenvolvida na década de 1990, a partir de um projeto pessoal de um funcionário da **Sun Microsystems**. A ideia inicial estava ligada à criação de uma linguagem de programação que pudesse ser utilizada em diferentes sistemas, alterando o paradigma de que uma aplicação só poderia ser desenvolvida para uso em um único ambiente de hardware e sistema operacional, como era bastante comum na época.
@@ -107,7 +107,7 @@ A tecnologia Java foi totalmente gratuita por muito tempo, mas recentemente a Or
 - Mais rápida que linguagens de script, porém mais lenta que as linguagens compiladas puras;
 - Hoje, os problemas de desempenho são resolvidos com compilação just-in-time.
 
-# ☕ Plataforma Java 🚧
+# 🚧 Plataforma Java
 <div align="center"><img src="https://www.intexsoft.com/images/intexsoft/blog/JVM/jvm1.png"></div>
 
 De forma geral, entendemos que plataforma (ambiente de execução) é composta por hardware + software básico (sistema operacional).
@@ -116,7 +116,6 @@ A plataforma Java é definida apenas em software e possui dois componentes:
 
 - **Máquina Virtual Java** (JVM - Java Virtual Machine);
 - **Conjunto de bibliotecas que disponibilizam classes comuns**.
-
 
 ## API Java
 [![.JAR](https://img.shields.io/badge/-App.jar-000000?style=social&logo=Java&logoColor=brown)](#)
@@ -175,7 +174,7 @@ Você pode usar qualquer tipo de ambiente, se preferir um editor de texto como u
 
 <hr>
 
-# ☕ Ambiente de programação ♨️
+# ☕ Ambiente de programação
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="170">&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" height="170"></div><br \>
 
 Existem várias ferramentas para o desenvolvimento de sistemas utilizando a linguagem Java, mas os desenvolvedores têm preferência pelos IDEs **Netbeans** e **Eclipse**. Ambos são gratuitos e podem ser adquiridos pela internet através de download.
@@ -235,7 +234,7 @@ java app
 ```
 <hr>
 
-<h1>☕ Características da linguagem Java 🔍</h1>
+<h1>🔍 Características da linguagem Java</h1>
 
 A linguagem **Java** tem boa parte de suas características herdadas da linguagem **C**. Muitos dos seus operadores, formação de identificadores, comandos de controle de fluxo e várias outras características são compartilhados entre estas duas linguagens.
 
