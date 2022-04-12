@@ -27,24 +27,6 @@ Hoje em dia, o desenvolvimento de sistemas se baseia em vários e diferentes par
 
 ----
 
-<!--
-https://miro.medium.com/max/1200/1*GCu4cNWIU1ElDbY7d4ycZw.png
-https://refactoring.guru/images/patterns/languages/java.png
-https://cdn.worldvectorlogo.com/logos/java-1.svg
-https://cdn.worldvectorlogo.com/logos/java.svg
-https://cdn.worldvectorlogo.com/logos/java-duke.svg
-https://cdn.worldvectorlogo.com/logos/java-3.svg
-https://www.educamundo.com.br/uploads/blog_posts/featured_images/java.png
-https://blog.neomind.com.br/wp-content/uploads/2019/04/java-pago-e-agora.jpg
-https://www.3way.com.br/wp-content/uploads/2017/08/programacao-java.jpg
-https://cursosciatec.com.br/home/wp-content/uploads/2018/11/banner-java-pronto1.png
-https://www.luiztools.com.br/wp-content/uploads/2017/04/Java-1-Introduction.png
-https://us.123rf.com/450wm/kchung/kchung1812/kchung181200070/126832975-stock-vector-coffee-woodcut-style-illustration-on-kraft-paper-banner.jpg?ver=6
-https://arquivo.devmedia.com.br/cursos/imagem/curso_preparando-o-ambiente-para-programar-em-java_2117.jpg
-https://i.ytimg.com/vi/304GR-8f9c8/maxresdefault.jpg
-https://arquivo.devmedia.com.br/cursos/imagem/curso_o-que-e-java_2028.png
--->
-
 <h1>♨️ Tecnologia Java</h1>
 
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-100-pure.svg" height="270"></div><br \>
@@ -182,45 +164,6 @@ Você não precisa instalar as duas, pois ambas são concorrentes e desempenham 
 A linguagem Java possui uma base de construção semelhante à linguagem C e, por isso, boa parte de sua estrutura e sintaxe se assemelha a ela. Desta forma, programadores com conhecimento nesta linguagem tem grande facilidade com a sintaxe da linguagem Java. Outra importante semelhança está nas estruturas de controle de fluxo, que são construídas da mesma forma em ambas as linguagens.
 
 <blockquote>Cuidado com as diferenças de versões no sistema operacional: se instalar o Java para 64 bits, você deverá usar um IDE (Netbeans ou Eclipse) de 64 bits. O mesmo para a versão de 32 bits: tanto o Java quanto o IDE deverão ser para 32 bits.</blockquote>
-
-## Criando o primeiro projeto com o NetBeans
-![img02](https://user-images.githubusercontent.com/61624336/112783447-ba606000-9025-11eb-99c1-9849bac132dd.jpg)
-![img03](https://user-images.githubusercontent.com/61624336/112783450-bc2a2380-9025-11eb-9ad8-b3425b12416e.jpg)
-![img04](https://user-images.githubusercontent.com/61624336/112783457-bd5b5080-9025-11eb-9ed8-7834c9429c27.jpg)
-![img05](https://user-images.githubusercontent.com/61624336/112783460-be8c7d80-9025-11eb-9d0e-38d8ce22f537.jpg)
-![img06](https://user-images.githubusercontent.com/61624336/112783560-f7c4ed80-9025-11eb-9aa5-db63dc209059.jpg)
-
-O projeto **Exemplo** foi criado e automaticamente teremos uma **classe inicial** para execução da aplicação.
-
-![img07](https://user-images.githubusercontent.com/61624336/112783806-89ccf600-9026-11eb-9a35-7d2d9b04774e.jpg)
-
-O ambiente está pronto para digitarmos o código da aplicação: preencha o código conforme o exemplo a seguir.
-
-![img08](https://user-images.githubusercontent.com/61624336/112783867-ac5f0f00-9026-11eb-824b-76e8d7f981c5.jpg)
-
-### Código completo
-
-![img09](https://user-images.githubusercontent.com/61624336/112783960-dca6ad80-9026-11eb-8f34-d32ee5ec1380.jpg)
-
-Após o código estar pronto e sem erros, podemos executar a aplicação clicando sobre o “arquivo da classe” com o botão direito, e em seguida clicar sobre a opção **Run file**.
-
-![img10](https://user-images.githubusercontent.com/61624336/112784797-e7624200-9028-11eb-8739-7c214e90e4f0.jpg)
-
-A aplicação executará na parte inferior do Netbeans:
-
-![img11](https://user-images.githubusercontent.com/61624336/112784856-03fe7a00-9029-11eb-93f7-7da23c1e5735.jpg)
-
-## Acessando o Java pelo terminal
-Crie um programa em java e execute os seguintes comandos para abri-lo.
-
-![image](https://user-images.githubusercontent.com/61624336/113492455-d47ac200-94ad-11eb-99a2-946ea9250590.png)
-![VirtualBox_Hadoop_ubuntu_SN_07_02_2017_03_37_06](https://user-images.githubusercontent.com/61624336/113488537-2d8a2c00-9495-11eb-9c21-876304e8d4cf.png)
-
-```
-javac app.java
-java app
-```
-<hr>
 
 <h1>🔍 Características da linguagem Java</h1>
 
