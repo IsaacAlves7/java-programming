@@ -2,18 +2,6 @@
 
 # <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" height="37"></a> It's a repository of Java language programming ☕
 
-[![.JAVA](https://img.shields.io/badge/-script.java-000000?style=social&logo=Java&logoColor=DD6620)](#)
-[![.JAR](https://img.shields.io/badge/-script.jar-000000?style=social&logo=Java&logoColor=D51007)](#)
-[![.class](https://img.shields.io/badge/-script.class-000000?style=social&logo=Java&logoColor=007396)](#)
-[![XML](https://img.shields.io/badge/-XML-000000?style=social&logo=Xamarin&logoColor=gray)](#)
-[![Oracle](https://img.shields.io/badge/-oci-000000?style=social&logo=Oracle&logoColor=red)](#)
-[![Android](https://img.shields.io/badge/-Android-000000?style=social&logo=Android&logoColor=3DDC84)](#)
-[![Spring](https://img.shields.io/badge/-Spring-000000?style=social&logo=Spring&logoColor=6DB33F)](#)
-[![Spring Boot](https://img.shields.io/badge/-Spring_Boot-000000?style=social&logo=Spring-Boot&logoColor=6DB33F)](#)
-[![Spring Security](https://img.shields.io/badge/-Spring_Security-000000?style=social&logo=Spring-Security&logoColor=6DB33F)](#)
-[![Hibernate](https://img.shields.io/badge/-Hibernate-000000?style=social&logo=Hibernate&logoColor=59666C)](#)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=social&logo=Kotlin&logoColor=7F52FF)](#)
-
 <blockquote>I created this repository for my Java Full-Stack Development learning.</blockquote>
 
 # 🎒 Prerequisites and repositories 📚
