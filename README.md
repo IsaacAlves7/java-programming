@@ -168,7 +168,7 @@ A linguagem Java possui uma base de construção semelhante à linguagem C e, po
 ---
 
 # Primefaces
-<div align="center"><img src="https://github.com/IsaacAlves7/java-programming/blob/master/java/Java%20OOP%20(Apps)/_presskit_primefaces-logo.svg"></div><br \>
+<div align="center"><img src="https://github.com/IsaacAlves7/java-programming/blob/master/java/Java%20OOP%20(Apps)/_presskit_primefaces-logo.svg" height="177"></div><br \>
 
 # 🗺️ Java RoadMap
 ![1643485463767](https://user-images.githubusercontent.com/61624336/155857899-572ed5c4-cdb1-4171-9865-b8a8de7f8377.jpg)
