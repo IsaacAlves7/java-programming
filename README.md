@@ -4,7 +4,7 @@
 
 <blockquote>I created this repository for my Java Full-Stack Development learning.</blockquote>
 
-# 🎒 Prerequisites and repositories 📚
+## Prerequisites and repositories
 - Good domains in English;
 - Programming logic;
 
