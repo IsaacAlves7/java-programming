@@ -12,8 +12,6 @@
 
 <a href="https://github.com/IsaacAlves7/java-programming"><div align="center"><img src="https://sd.keepcalms.com/i/keep-calm-and-code-java-2.png" height="217"/></div></a>
 
-<hr>
-
 # 🐒 Paradigmas de desenvolvimento de software
 
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/112900537-065ce480-90ba-11eb-86f7-f9006445876a.png"></div><br \>
