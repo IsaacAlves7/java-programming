@@ -138,9 +138,9 @@ Para o desenvolvimento de aplicações em Java é comum o uso de ferramentas IDE
 
 [![.JAR](https://img.shields.io/badge/-App.java-000000?style=social&logo=Java&logoColor=brown)](#)
 
-Você pode usar qualquer tipo de ambiente, se preferir um editor de texto como um bloco de notas ou um VSCode você precisa usar a extensão **.java**.
+Você pode usar qualquer tipo de ambiente, se preferir um editor de texto como um bloco de notas ou um VSCode você precisa usar a extensão `.java`.
 
-<hr>
+---
 
 # ☕ Ambiente de programação
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="170">&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" height="170"></div><br \>
@@ -165,7 +165,7 @@ A linguagem Java possui uma base de construção semelhante à linguagem C e, po
 
 ---
 
-# Primefaces
+# 🤖 Primefaces
 <div align="center"><img src="https://github.com/IsaacAlves7/java-programming/blob/master/java/Java%20OOP%20(Apps)/_presskit_primefaces-logo.svg" height="177"></div><br \>
 
 # 🗺️ Java RoadMap
