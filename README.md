@@ -1,8 +1,7 @@
 <a href="https://github.com/IsaacAlves7/java-programming"><img src="https://training.infnet.edu.br/wp-content/uploads/sites/18/2019/02/desenvolvedor-java.jpg"/></a>
 
-# <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" height="37"></a> It's a repository of Java language programming ☕
-
-<blockquote>I created this repository for my Java Full-Stack Development learning.</blockquote>
+# <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" height="31"></a> It's a repository of Java language programming ☕
+> I created this repository for my Java Full-Stack Development learning.
 
 ## Prerequisites and repositories
 - Good domains in English;
