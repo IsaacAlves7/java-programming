@@ -3,12 +3,6 @@
 # <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" height="31"></a> It's a repository of Java language programming ☕
 > I created this repository for my Java Full-Stack Development learning.
 
-## Prerequisites and repositories
-- Good domains in English;
-- Programming logic;
-
-<blockquote>⚠️ <b>Warning:</b> It's very important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in Java development, if you want to learn about HTML5, CSS3 or Java Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
-
 <a href="https://github.com/IsaacAlves7/java-programming"><div align="center"><img src="https://sd.keepcalms.com/i/keep-calm-and-code-java-2.png" height="217"/></div></a>
 
 # 🐒 Paradigmas de desenvolvimento de software
