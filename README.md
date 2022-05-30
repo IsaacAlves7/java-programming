@@ -110,6 +110,8 @@ Exemplo:
 - Outros.
 
 ## Java Runtime Environment (JRE)
+<img src="https://user-images.githubusercontent.com/61624336/171005805-d123b7c1-89e6-492c-9d03-3dcafb40142e.png" align="right" height="177">
+
 Kit com todos os programas necessários para executar aplicações Java. Faz parte do JDK, mas pode ser instalado separadamente para execução em máquinas clientes, uma vez que o JDK é voltado para os desenvolvedores. O JRE pode ser instalado separadamente e dá suporte somente a execução de aplicações ou jogos como o Minecraft, por isso é a versão mais indicada para instalação nas máquinas clientes que apenas executarão aplicações, não sendo responsáveis pelo seu desenvolvimento.
 
 ## Fases de um programa em linguagem Java
