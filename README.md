@@ -5,6 +5,8 @@
 
 <a href="https://github.com/IsaacAlves7/java-programming"><div align="center"><img src="https://sd.keepcalms.com/i/keep-calm-and-code-java-2.png" height="217"/></div></a>
 
+![duke_badge](https://user-images.githubusercontent.com/61624336/183478203-20b992ae-b018-448a-bd56-e2fae9c5f7ae.svg)
+
 # 🐒 Paradigmas de desenvolvimento de software
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/112900537-065ce480-90ba-11eb-86f7-f9006445876a.png"></div>
 
