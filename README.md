@@ -156,7 +156,7 @@ A linguagem Java possui uma base de construção semelhante à linguagem C e, po
 <blockquote>Cuidado com as diferenças de versões no sistema operacional: se instalar o Java para 64 bits, você deverá usar um IDE (Netbeans ou Eclipse) de 64 bits. O mesmo para a versão de 32 bits: tanto o Java quanto o IDE deverão ser para 32 bits.</blockquote>
 
 # 🤖 Primefaces
-<div align="center"><img src="https://github.com/IsaacAlves7/java-programming/blob/master/java/Java%20OOP%20(Apps)/_presskit_primefaces-logo.svg" height="177"></div><br \>
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/192927385-5a585bf9-2cac-4344-89b4-f0d194cac6b5.svg" height="177"></div><br \>
 
 # 🥛 Kotlin
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" height="177"></div><br \>
