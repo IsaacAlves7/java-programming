@@ -12,7 +12,7 @@ public class Main {
     B = leitor.nextInt();
     PROD = A * B; // implemente o código que representa a multiplicação.
 
-    System.out.println("PROD = " +  );
+    System.out.println("PROD = " + PROD);
     leitor.close();
   }
 }
