@@ -160,7 +160,3 @@ A linguagem Java possui uma base de construção semelhante à linguagem C e, po
 
 # 🗺️ Java RoadMap
 ![1643485463767](https://user-images.githubusercontent.com/61624336/155857899-572ed5c4-cdb1-4171-9865-b8a8de7f8377.jpg)
-
-## Autor
-| [<img src="https://avatars.githubusercontent.com/u/61624336?v=4" width="110"><br><sub>@IsaacAlves7</sub>](https://github.com/IsaacAlves7) |
-| :---: |
