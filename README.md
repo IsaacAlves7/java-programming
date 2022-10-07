@@ -7,7 +7,7 @@
 
 <!-- ![duke_badge](https://user-images.githubusercontent.com/61624336/183478203-20b992ae-b018-448a-bd56-e2fae9c5f7ae.svg) -->
 
-# 🐒 Paradigmas de desenvolvimento de software
+# 🐒 Linguagem de programação
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/112900537-065ce480-90ba-11eb-86f7-f9006445876a.png"></div>
 
 Hoje em dia, o desenvolvimento de sistemas se baseia em vários e diferentes paradigmas, tais como os listados a seguir:
