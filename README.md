@@ -67,7 +67,7 @@ A tecnologia Java foi totalmente gratuita por muito tempo, mas recentemente a Or
 - Mais rápida que linguagens de script, porém mais lenta que as linguagens compiladas puras;
 - Hoje, os problemas de desempenho são resolvidos com compilação just-in-time.
 
-# 🏗️ Plataforma Java
+# 🏗️ Sistema de implementação do Java
 <div align="center"><img src="https://luizgustavoss.files.wordpress.com/2009/02/api_jse.png" height="377"></div><br />
 
 De forma geral, entendemos que plataforma (ambiente de execução) é composta por hardware + software básico (sistema operacional).
