@@ -1,8 +1,7 @@
 <a href="https://github.com/IsaacAlves7/java-programming"><img src="https://training.infnet.edu.br/wp-content/uploads/sites/18/2019/02/desenvolvedor-java.jpg"/></a>
 
 # <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" height="31"></a> It's a repository of Java language ☕
-> I created this repository for my Java Full-Stack Development learning.
-
+> ☕
 <a href="https://github.com/IsaacAlves7/java-programming"><div align="center"><img src="https://sd.keepcalms.com/i/keep-calm-and-code-java-2.png" height="217"/></div></a>
 
 <!-- ![duke_badge](https://user-images.githubusercontent.com/61624336/183478203-20b992ae-b018-448a-bd56-e2fae9c5f7ae.svg) -->
