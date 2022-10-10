@@ -2,7 +2,7 @@
 
 # <a href="#"><img src="https://cdn.worldvectorlogo.com/logos/java-14.svg" height="31"></a> It's a repository of Java language ☕
 
-> ☕ **Preparação**: Para este conteúdo, o aluno deverá dispor de um computador com acesso à internet, um web browser com suporte a HTML 5 (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari, Opera etc.), um editor de texto ou IDE (VSCode etc.) e o software mais recente do JDK instalado na sua máquina local.
+> ☕ **Preparação**: Para este conteúdo, o aluno deverá dispor de um computador com acesso à internet, um web browser com suporte a HTML 5 (Google Chrome, Mozilla Firefox, Microsoft Edge, Safari, Opera etc.), um editor de texto ou IDE (VSCode etc.) e o software JDK, com a versão mais recente, instalado na sua máquina local.
 
 <a href="https://github.com/IsaacAlves7/java-programming"><div align="center"><img src="https://sd.keepcalms.com/i/keep-calm-and-code-java-2.png" height="217"/></div></a>
 
