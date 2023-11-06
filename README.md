@@ -240,7 +240,7 @@ A tecnologia Java foi totalmente gratuita por muito tempo, mas recentemente a Or
 - Hoje, os problemas de desempenho são resolvidos com compilação just-in-time.
 
 ## Sistema de implementação do Java
-<img src="https://luizgustavoss.files.wordpress.com/2009/02/api_jse.png" height="177" align="right">
+<img src="https://luizgustavoss.files.wordpress.com/2009/02/api_jse.png" height="277" align="right">
 
 De forma geral, entendemos que plataforma (ambiente de execução) é composta por hardware + software básico (sistema operacional).
 
