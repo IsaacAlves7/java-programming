@@ -240,7 +240,7 @@ A tecnologia Java foi totalmente gratuita por muito tempo, mas recentemente a Or
 - Hoje, os problemas de desempenho são resolvidos com compilação just-in-time.
 
 ## Sistema de implementação do Java
-<img src="https://luizgustavoss.files.wordpress.com/2009/02/api_jse.png" height="77" align="right">
+<img src="https://luizgustavoss.files.wordpress.com/2009/02/api_jse.png" height="177" align="right">
 
 De forma geral, entendemos que plataforma (ambiente de execução) é composta por hardware + software básico (sistema operacional).
 
@@ -250,7 +250,7 @@ A plataforma Java é definida apenas em software e possui dois componentes:
 - **Conjunto de bibliotecas que disponibilizam classes comuns**.
 
 ## API Java
-<div align="center"><img src="https://user-images.githubusercontent.com/61624336/113073382-5e214b80-919f-11eb-8141-93ea67a402dc.png" height="377"></div>
+<img src="https://user-images.githubusercontent.com/61624336/113073382-5e214b80-919f-11eb-8141-93ea67a402dc.png" height="177" align="right">
 
 "Diferentemente das linguagens convencionais, que são compiladas para código nativo, a linguagem Java é compilada para "bytecode" (gerando o <code>.class</code> ou <code>.jar</code>), que é executado por uma máquina virtual Java (JVM - Java Virtual Machine)."
 
