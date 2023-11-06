@@ -187,14 +187,10 @@ Esse código intermediário não é específico para uma plataforma, possibilita
 
 <blockquote>Duas importantes linguagens implementaram essa solução, com diferentes formas usando máquinas virtuais: <b>Python</b> e <b>Java</b>.</blockquote>
 
-<h1>☕ Tecnologia Java</h1>
-
-<div align="center"><img src="https://cdn.worldvectorlogo.com/logos/java-100-pure.svg" height="270"></div><br \>
+# ☕ The History of Java language
+<img src="https://cdn.worldvectorlogo.com/logos/java-100-pure.svg" height="77" align="right">
 
 **Java** é o ambiente computacional, ou plataforma, criada pela empresa estadunidense *Sun Microsystems*, e vendida para a *Oracle* depois de alguns anos. A plataforma permite desenvolver programas utilizando a linguagem de programação Java.
-
-# ☕ History of Java Language
-<div align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/deciduous-tree_1f333.png" height="170" title="Oak, before of Java"><img src="https://cdn.worldvectorlogo.com/logos/java-duke.svg" height="170" title="Duke, the Java Mascot"><img src="https://cdn.worldvectorlogo.com/logos/java-1.svg" height="170"><img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="170"></div><br \>
 
 A tecnologia **Java** foi desenvolvida na década de 1990, a partir de um projeto pessoal de um funcionário da **Sun Microsystems**. A ideia inicial estava ligada à criação de uma linguagem de programação que pudesse ser utilizada em diferentes sistemas, alterando o paradigma de que uma aplicação só poderia ser desenvolvida para uso em um único ambiente de hardware e sistema operacional, como era bastante comum na época.
 
@@ -202,11 +198,15 @@ As grandes empresas desenvolviam suas aplicações voltadas para seu ambiente de
 
 A linguagem Java rompeu este paradigma e passou a permitir que uma aplicação desenvolvida em um ambiente - hardware + software (SO) - possa ser executada em outro sem necessidade de qualquer outro procedimento. A Sun Microsystems, ao tomar conhecimento desta ideia, deu total apoio ao seu desenvolvimento e criou um grupo com 13 membros, liderado por James Gosling, que passaram a trabalhar exclusivamente neste projeto. A equipe foi batizada de “Green Team” e o grupo passou a trabalhar em um conjunto de escritórios fora das dependências físicas da Sun, e sem qualquer tipo de comunicação com a matriz, durante 18 meses para a concretização desta ideia.
 
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="77" align="right">
+
 Com a tecnologia Java, as aplicações passaram a ser portáveis de um sistema para o outro, sem nenhuma necessidade de alteração. Por isso, afirmamos que a portabilidade é uma das mais importantes características da linguagem Java.
 
 Ainda naquela época, o grupo já havia antecipado uma nova onda na computação, na convergência entre dispositivos controlados digitalmente e computadores. Hoje em dia, percebemos bem isso quando analisamos um smartphone, um dispositivo digital que possui inúmeras funções de computadores; entre elas, podemos destacar a execução de aplicativos. Inicialmente, a linguagem foi batizada de **Oak**, pois o grupo tinha como vista da janela do escritório *um carvalho*. Posteriormente, a linguagem foi rebatizada como **Java**, em função do *gosto do grupo pelo tipo de café*. Por isso, temos como ícone da linguagem uma xícara de café com sua fumaça característica.
 
 A linguagem é muito poderosa para o desenvolvimento de aplicações, seja para o desenvolvimento de aplicações menos sofisticadas ou para uso em dispositivos menos complexos que computadores, conhecidos como dispositivos inteligentes, tais como cafeteiras, micro-ondas, geladeiras e uma gama de outros dispositivos que possam ser controlados por software. A linguagem ainda é muito eficiente no desenvolvimento de sistemas de entretenimento doméstico, dando suporte a streaming de vídeo e televisão digital, que ainda não era tão desenvolvida na época.
+
+<img src="https://cdn.worldvectorlogo.com/logos/java-duke.svg" height="77" title="Duke, the Java Mascot" align="right">
 
 A tecnologia Java permite ainda o desenvolvimento de todos os tipos de aplicações, indo do mais simples controle de um eletrodoméstico, passando por aplicações domésticas, comerciais, de automação, até o desenvolvimento de aplicações mais complexas, com comunicação de dados e aplicações para supercomputadores.
 
@@ -215,6 +215,8 @@ A linguagem Java teve início ao incorporar a tecnologia Java ao navegador de in
 A tecnologia Java foi totalmente gratuita por muito tempo, mas recentemente a Oracle, que passou a deter os direitos da linguagem após adquirir a Sun Microsystems, está licenciando o uso para empresas com custos. A empresa deve permitir o licenciamento gratuito somente para desenvolvedores avulsos que criam aplicações pessoais sem custo ou para simples aprendizado.
 
 ## Principais características e vantagens da tecnologia Java
+<img src="https://cdn.worldvectorlogo.com/logos/java-1.svg" height="77" align="right">
+
 - Orientada a objetos, com uma grande diversidade de bibliotecas de classes disponível;
 - Independe de plataforma: write once, run everywhere ;
 - Segurança - Mecanismos para sistemas livres de vírus, pacotes para criptografia;
@@ -237,8 +239,8 @@ A tecnologia Java foi totalmente gratuita por muito tempo, mas recentemente a Or
 - Mais rápida que linguagens de script, porém mais lenta que as linguagens compiladas puras;
 - Hoje, os problemas de desempenho são resolvidos com compilação just-in-time.
 
-# 🏗️ Sistema de implementação do Java
-<div align="center"><img src="https://luizgustavoss.files.wordpress.com/2009/02/api_jse.png" height="377"></div><br />
+## Sistema de implementação do Java
+<img src="https://luizgustavoss.files.wordpress.com/2009/02/api_jse.png" height="77" align="right">
 
 De forma geral, entendemos que plataforma (ambiente de execução) é composta por hardware + software básico (sistema operacional).
 
