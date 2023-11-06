@@ -321,7 +321,23 @@ A linguagem Java possui uma base de construção semelhante à linguagem C e, po
 <blockquote>Cuidado com as diferenças de versões no sistema operacional: se instalar o Java para 64 bits, você deverá usar um IDE (Netbeans ou Eclipse) de 64 bits. O mesmo para a versão de 32 bits: tanto o Java quanto o IDE deverão ser para 32 bits.</blockquote>
 
 # 🤖 Primefaces
-<div align="center"><img src="https://user-images.githubusercontent.com/61624336/192927385-5a585bf9-2cac-4344-89b4-f0d194cac6b5.svg" height="177"></div><br \>
+<img src="https://user-images.githubusercontent.com/61624336/192927385-5a585bf9-2cac-4344-89b4-f0d194cac6b5.svg" height="77" align="right">
+
+O **PrimeFaces** é uma biblioteca de componentes de interface de usuário (UI) de código aberto que é usada no desenvolvimento de aplicativos web Java Enterprise Edition (Java EE). Ela fornece uma ampla variedade de componentes de interface de usuário ricos e predefinidos que podem ser facilmente incorporados em aplicativos web Java, permitindo aos desenvolvedores criar interfaces de usuário atraentes e funcionais de maneira eficiente.
+
+Alguns dos principais recursos e componentes fornecidos pelo PrimeFaces incluem:
+
+- Componentes de interface de usuário: Botões, tabelas, árvores, menus, gráficos, calendários e muitos outros componentes prontos para uso, que podem ser personalizados e estilizados de acordo com as necessidades do aplicativo.
+
+- Ajax e atualizações dinâmicas: O PrimeFaces facilita a criação de aplicativos web interativos, permitindo a atualização de partes específicas da página sem a necessidade de recarregar a página inteira, graças ao uso do Ajax.
+
+- Temas e estilos: O PrimeFaces oferece suporte a temas personalizáveis que permitem aos desenvolvedores escolher entre várias opções de aparência para seus aplicativos.
+
+- Integração com o Java EE: O PrimeFaces é especialmente projetado para ser usado em conjunto com tecnologias Java EE, como JavaServer Faces (JSF), e funciona bem com servidores de aplicativos Java EE, como o Apache Tomcat, o WildFly (anteriormente conhecido como JBoss) e o Oracle WebLogic.
+
+- Comunidade ativa: O projeto PrimeFaces possui uma comunidade ativa de desenvolvedores e uma documentação abrangente, o que facilita o aprendizado e a resolução de problemas.
+
+O PrimeFaces é uma opção popular para o desenvolvimento de aplicativos web Java que desejam fornecer interfaces de usuário ricas e interativas. Ele é amplamente usado em várias indústrias e fornece uma base sólida para a criação de aplicativos web empresariais.
 
 # 🥛 Kotlin
 <div align="center"><img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" height="177"></div><br \>
