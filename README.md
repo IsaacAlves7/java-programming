@@ -312,7 +312,7 @@ Existem várias ferramentas para o desenvolvimento de sistemas utilizando a ling
 Existem dois arquivos diferentes: o primeiro, com o source, contém os códigos fonte no Netbeans e não é o ideal para trabalharmos o desenvolvimento. A versão adequada para nós é a versão bin, que contém todos os códigos já compilados e prontos para a execução e desenvolvimento de projetos e aplicações Java.
 
 ## Eclipse
-<div align="center"><a href="https://www.eclipse.org/downloads/"><img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" height="170" title="Click to install!"></a></div>
+<a href="https://www.eclipse.org/downloads/"><img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" height="77" align="right"></a>
 
 Você não precisa instalar as duas, pois ambas são concorrentes e desempenham as mesmas funcionalidades. A preferência é a critério do programador.
 
