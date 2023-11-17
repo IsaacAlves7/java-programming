@@ -2504,7 +2504,7 @@ Embora, os recursos de tratamento de exceção não seja a única maneira de lid
 
 - A separação de erro do código destinada ao tratamento de erros da execução do software, isso melhora a organização e contribui para facilitar a resolução de problemas.
 
-- propagar o erro para cima na pilha de chamadas, entregando o objeto da exceção
+- propagar o erro para cima na pilha de chamadas, entregando o objeto da exceção diretamente ao método que tem interesse na sua ocorrência, tradicionalmente o código do erro teria que ser propagado método a método no código. 
 
 > Para melhor absorção do conhecimento, recomenda-se o uso de computador com o Java Development Kit (JDK) e um IDE (Integrated Development Environment) instalados.
 
@@ -2513,6 +2513,10 @@ A documentação oficial da linguagem Java explica que o termo exceção é uma 
 A definição de exceção em software apresentada por Java não é específica da linguagem. Sempre que um evento anormal causa a interrupção no fluxo normal das instruções de um software, há uma exceção. Porém, nem todas as linguagens oferecem mecanismos para lidar com tais problemas. Outras oferecem mecanismos menos sofisticados, como a linguagem C++.
 
 A linguagem Java foi concebida com o intuito de permitir o desenvolvimento de programas seguros. Assim, não é de se surpreender que disponibilize um recurso especificamente projetado para permitir o tratamento de exceções de software. Esse será o objeto de nosso estudo, que buscará lançar as bases para que o futuro profissional de programação seja capaz de explorar os recursos da linguagem Java e produzir softwares de qualidade.
+
+<img src="https://github.com/IsaacAlves7/java/assets/61624336/3d5fd598-88cb-4253-b50f-01388952d6f1" align="right" height="177">
+
+Hierarquia de exceções: 
 
 <hr>
 
