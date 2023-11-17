@@ -2504,6 +2504,8 @@ Embora, os recursos de tratamento de exceção não seja a única maneira de lid
 
 - A separação de erro do código destinada ao tratamento de erros da execução do software, isso melhora a organização e contribui para facilitar a resolução de problemas.
 
+- propagar o erro para cima na pilha de chamadas, entregando o objeto da exceção
+
 > Para melhor absorção do conhecimento, recomenda-se o uso de computador com o Java Development Kit (JDK) e um IDE (Integrated Development Environment) instalados.
 
 A documentação oficial da linguagem Java explica que o termo exceção é uma abreviatura para a frase **evento excepcional** e o define como “um evento, o qual ocorre durante a execução de um programa, que interrompe o fluxo normal das instruções do programa” (ORACLE AMERICA INC., 2021).
