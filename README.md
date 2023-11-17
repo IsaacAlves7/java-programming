@@ -2489,179 +2489,23 @@ Contador =5
 
 3. Após a criação do 5º objeto, o objeto t5, o atributo do objeto t1, assim como os demais, compartilhavam o mesmo local de memória para buscar o valor do atributo; por isso, todos os objetos encerraram a aplicação retornando o valor 5 para o atributo contador compartilhado (static).
 
-# Primefaces
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Pf-logo.png" height="157"></div><br \>
+# ☕ Implementação de tratamento de exceções em java
+O tratamento de exceções é um importante recurso que permite criar programas tolerantes a falhas. Trata-se de um mecanismo que permite resolver ou ao menos lidar com exceções, muitas vezes evitando que a execução do software seja interrompida, e ela está presente na maioria das linguagens de programação. A linguagem Java se baseou mna linguagem C++ para o tratamento de exceções.
 
-# ☕ Java RoadMap 🗺️
-![1643485463767](https://user-images.githubusercontent.com/61624336/155857899-572ed5c4-cdb1-4171-9865-b8a8de7f8377.jpg)
+> Uma **exceção** é uma condição causada por um erro em tempo de execução que interrompe o fluxo normal de software.
 
+Para melhor absorção do conhecimento, recomenda-se o uso de computador com o Java Development Kit (JDK) e um IDE (Integrated Development Environment) instalados.
 
+> Exceções em Java: Abordagem de maneira prática dos tipos de exceções e da classe Exception. Sinalização, lançamento, relançamento e tratamento de exceções.
 
+A documentação oficial da linguagem Java explica que o termo exceção é uma abreviatura para a frase **evento excepcional** e o define como “um evento, o qual ocorre durante a execução de um programa, que interrompe o fluxo normal das instruções do programa” (ORACLE AMERICA INC., 2021).
 
+A definição de exceção em software apresentada por Java não é específica da linguagem. Sempre que um evento anormal causa a interrupção no fluxo normal das instruções de um software, há uma exceção. Porém, nem todas as linguagens oferecem mecanismos para lidar com tais problemas. Outras oferecem mecanismos menos sofisticados, como a linguagem C++.
 
+A linguagem Java foi concebida com o intuito de permitir o desenvolvimento de programas seguros. Assim, não é de se surpreender que disponibilize um recurso especificamente projetado para permitir o tratamento de exceções de software. Esse será o objeto de nosso estudo, que buscará lançar as bases para que o futuro profissional de programação seja capaz de explorar os recursos da linguagem Java e produzir softwares de qualidade.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Os tipos de exceções e como criar novas exceções em Java. 
 
 <hr>
+
 <div align="left"><a href="https://github.com/IsaacAlves7/java-programming"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="47"></a></div>
