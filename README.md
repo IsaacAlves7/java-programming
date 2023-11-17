@@ -2492,9 +2492,11 @@ Contador =5
 # ☕ Tratamento de exceções em java
 O **tratamento de exceções** é um importante recurso que permite criar programas tolerantes a falhas. Trata-se de um mecanismo que permite resolver ou ao menos lidar com exceções, muitas vezes evitando que a execução do software seja interrompida, e ela está presente na maioria das linguagens de programação. A linguagem Java se baseou mna linguagem C++ para o tratamento de exceções.
 
-Uma **exceção** é uma condição causada por um erro em tempo de execução que interrompe o fluxo normal de software. Não se trata de um desvio normal para um fluxo alternativo, mas sim previsto ao tempo de execução, ou seja, a exceção leva ao estado desejado. E, esse erro pode ter muitas causas como receber valor `0` ou uso indevido de um array. Quando uma exceção é criada no Java é criado um objeto chamado de `Exception object` que contém informações sobre o erro, seu tipo e o estado do programa quando o erro ocorreu.
+Uma **exceção** é uma condição causada por um erro em tempo de execução que interrompe o fluxo normal de software. Não se trata de um desvio normal para um fluxo alternativo, mas sim previsto ao tempo de execução, ou seja, a exceção leva ao estado desejado. E, esse erro pode ter muitas causas como receber valor `0` ou uso indevido de um array. 
 
-Para melhor absorção do conhecimento, recomenda-se o uso de computador com o Java Development Kit (JDK) e um IDE (Integrated Development Environment) instalados.
+Quando uma exceção é criada no Java é criado um objeto chamado de `Exception object` que contém informações sobre o erro, seu tipo e o estado do programa quando o erro ocorreu. Após ser criado esse objeto é entregue para o sistema de execução da máquina virtual Java. E todo esse processo é chamado de lançamento de exceção. Uma vez que a exceção é lançada para o método, o sistema de execução na máquina virtual Java procura na pilha de chamadas "`call stack`" por um método que contém o código para tratar essa exceção. O bloco de código que tem por finalidade tratar essa exceção é chamado de `Exception handler` (tratador de exceções) e quando ele está rodando é verificado se o tipo de objeto é o mesmo do tratador de excessão pode tratar, se for, ele é considerado adequado e a exceção é passada.
+
+> Para melhor absorção do conhecimento, recomenda-se o uso de computador com o Java Development Kit (JDK) e um IDE (Integrated Development Environment) instalados.
 
 > Exceções em Java: Abordagem de maneira prática dos tipos de exceções e da classe Exception. Sinalização, lançamento, relançamento e tratamento de exceções.
 
