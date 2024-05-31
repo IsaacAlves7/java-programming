@@ -289,3 +289,11 @@ Injeção de dependência é um padrão de desenvolvimento com a finalidade de m
 - **Session**: Um bean será criado para a sessão de usuário na Web.
 
 - **Global**: Ou Application Scope cria um bean para o ciclo de vida do contexto da aplicação.
+
+O **Autowired** é uma anotação (indicação) onde deverá ocorrer uma injeção automática de dependência.
+
+- `byName`: É buscado um método `set` que corresponde ao nome do Bean.
+
+- `byType`: É considerado o tipo da classe para inclusão do Bean.
+
+- `byConstrutor`: Usamos o construtor para incluir a dependência.
