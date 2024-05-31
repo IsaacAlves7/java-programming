@@ -248,9 +248,11 @@ Ecossistema Kotlin:
 # Spring
 <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" align="right" height="77">
 
-O **Spring** é um framework open source desenvolvido para a plataforma Java baseado nos padrões de projetos inversão de controle e injeção de dependência. Sua estrutura é composta por módulos afins de reduzir a complexidade no desenvolvimento aplicações simples ou corporativa.
+O **Spring** é um framework open source desenvolvido para a plataforma Java baseado nos padrões de projetos inversão de controle e injeção de dependência. Sua estrutura é composta por módulos afins de reduzir a complexidade no desenvolvimento aplicações simples ou corporativa. 
 
 <img src="https://github.com/IsaacAlves7/java/assets/61624336/95e714b2-1761-4b70-aef5-fe5af7f0ab57" align="right" height="177">
+
+O Spring Framework fornece infraestrutura abrangente para desenvolver aplicações Java robustas e escaláveis. Ele facilita a inversão de controle (IoC) e a injeção de dependências (DI), além de oferecer suporte para desenvolvimento de aplicativos web, segurança, transações, persistência de dados, entre outros. Spring é conhecido por sua modularidade e capacidade de integrar facilmente com outros frameworks e tecnologias.
 
 > Olhando um pouco a história, há muito, mas muito tempo atrás, o Java EE era realmente muito complicado e nem era necessário entrar numa discussão, usar o Spring era um caminho mais simples e mais fácil de evoluir. Aí chegou a versão 5 do Java EE e a discussão voltou a ficar um pouco mais quente.
 
@@ -264,7 +266,10 @@ Inversão de Controle (Inversion of Control ou IoC) é um princípio de design d
 
 ![image](https://github.com/IsaacAlves7/java/assets/61624336/210a65fc-4385-46dc-a22c-2726d9e0db4a)
 
+<img src="https://github.com/IsaacAlves7/java/assets/61624336/e8fdf254-56ac-4331-a550-e6a1a554fffc" align="right" height="177">
+
 Injeção de dependência é um padrão de desenvolvimento com a finalidade de manter baixo o nível de acoplamento entre módulos de um sistema. 
 
-![image](https://github.com/IsaacAlves7/java/assets/61624336/e8fdf254-56ac-4331-a550-e6a1a554fffc)
+- Beans: Objeto que é instanciado (criado), montado e gerenciado por um container através do princípio da inversão de controle.
 
+- Scopes: Controle da existência de nossos objetos Components da aplicação.
