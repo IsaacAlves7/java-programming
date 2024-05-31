@@ -272,9 +272,9 @@ Inversão de Controle (Inversion of Control ou IoC) é um princípio de design d
 
 Injeção de dependência é um padrão de desenvolvimento com a finalidade de manter baixo o nível de acoplamento entre módulos de um sistema. 
 
-- **Beans**: Objeto que é instanciado (criado), montado e gerenciado por um container através do princípio da inversão de controle.
+**Beans** é o objeto que é instanciado (criado), montado e gerenciado por um container através do princípio da inversão de controle.
 
-- **Scopes**: Controle da existência de nossos objetos Components da aplicação.
+**Scopes** é o controle da existência de nossos objetos Components da aplicação.
 
 - **Singleton**: O container do Spring IoC define apenas uma instância do objeto.
 
