@@ -262,9 +262,11 @@ Inversão de Controle (Inversion of Control ou IoC) é um princípio de design d
 
 **Sem IoC**: Em nosso desenvolvimento éramos responsáveis pela instanciação e gestão dos objetos da aplicação.
 
+<img src="https://github.com/IsaacAlves7/java/assets/61624336/210a65fc-4385-46dc-a22c-2726d9e0db4a" align="right" height="177">
+
 **Com IoC**: Agora um container cuida de todo este trabalho de criação e controle dos objetos da aplicação denominados de **Component**.
 
-![image](https://github.com/IsaacAlves7/java/assets/61624336/210a65fc-4385-46dc-a22c-2726d9e0db4a)
+> **Não confunda!** Os **Design patterns** (Padrões de design) são soluções reutilizáveis para problemas comuns de design de software, enquanto **design de software** é o processo de definir a arquitetura, componentes e interfaces de um sistema para atender a requisitos específicos. No contexto de IoC, o design de software aplica o princípio de Inversão de Controle para criar arquiteturas desacopladas, e padrões como Dependency Injection e Service Locator implementam esse princípio para gerenciar dependências de forma eficiente.
 
 <img src="https://github.com/IsaacAlves7/java/assets/61624336/e8fdf254-56ac-4331-a550-e6a1a554fffc" align="right" height="177">
 
