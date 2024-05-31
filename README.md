@@ -251,5 +251,4 @@ O **Spring** é um framework open source desenvolvido para a plataforma Java bas
 
 > Olhando um pouco a história, há muito, mas muito tempo atrás, o Java EE era realmente muito complicado e nem era necessário entrar numa discussão, usar o Spring era um caminho mais simples e mais fácil de evoluir. Aí chegou a versão 5 do Java EE e a discussão voltou a ficar um pouco mais quente.
 
-
-
+Inversão de Controle (Inversion of Control ou IoC), em design patterns, trata-se do redirecionamento do fluxo de execução de um código retirando parcialmente o controle sobre ele e delegando-o para um container. O principal propósito é minimizar o acoplamento do código.
