@@ -264,3 +264,7 @@ Inversão de Controle (Inversion of Control ou IoC) é um princípio de design d
 
 ![image](https://github.com/IsaacAlves7/java/assets/61624336/210a65fc-4385-46dc-a22c-2726d9e0db4a)
 
+Injeção de dependência é um padrão de desenvolvimento com a finalidade de manter baixo o nível de acoplamento entre módulos de um sistema. 
+
+![image](https://github.com/IsaacAlves7/java/assets/61624336/e8fdf254-56ac-4331-a550-e6a1a554fffc)
+
