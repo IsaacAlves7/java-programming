@@ -245,7 +245,7 @@ Ecossistema Kotlin:
 4. **Kotlin Multiplatform**:
    - Permite compartilhar código comum entre diferentes plataformas (JVM, JavaScript, iOS, etc.), facilitando o desenvolvimento de aplicativos multiplataforma.
 
-# Spring
+# 🍃 Spring
 <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" align="right" height="77">
 
 O **Spring** é um framework open source desenvolvido para a plataforma Java baseado nos padrões de projetos inversão de controle e injeção de dependência. Sua estrutura é composta por módulos afins de reduzir a complexidade no desenvolvimento aplicações simples ou corporativa. 
@@ -256,11 +256,11 @@ O Spring Framework fornece infraestrutura abrangente para desenvolver aplicaçõ
 
 > Olhando um pouco a história, há muito, mas muito tempo atrás, o Java EE era realmente muito complicado e nem era necessário entrar numa discussão, usar o Spring era um caminho mais simples e mais fácil de evoluir. Aí chegou a versão 5 do Java EE e a discussão voltou a ficar um pouco mais quente.
 
+<img src="https://github.com/IsaacAlves7/java/assets/61624336/7f1f4cdf-9e29-44c9-b78a-f12f5603b36c" align="right" height="177">
+
 Inversão de Controle (Inversion of Control ou IoC) é um princípio de design de software e trata-se do redirecionamento do fluxo de execução de um código retirando parcialmente o controle sobre ele e delegando-o para um container. O principal propósito é minimizar o acoplamento do código.
 
 **Sem IoC**: Em nosso desenvolvimento éramos responsáveis pela instanciação e gestão dos objetos da aplicação.
-
-![image](https://github.com/IsaacAlves7/java/assets/61624336/7f1f4cdf-9e29-44c9-b78a-f12f5603b36c)
 
 **Com IoC**: Agora um container cuida de todo este trabalho de criação e controle dos objetos da aplicação denominados de **Component**.
 
