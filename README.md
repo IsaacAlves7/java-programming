@@ -82,16 +82,18 @@ API Java:
 
 "Diferentemente das linguagens convencionais, que são compiladas para código nativo, a linguagem Java é compilada para "bytecode" (gerando o <code>.class</code> ou <code>.jar</code>), que é executado por uma máquina virtual Java (JVM - Java Virtual Machine)."
 
-<div align="center"><img src="https://user-images.githubusercontent.com/61624336/112760358-0b903580-8fcd-11eb-9e08-46f78186e835.png" height="170"><img src="https://user-images.githubusercontent.com/61624336/112760365-164aca80-8fcd-11eb-9d83-4b7ee0043b5f.jpg" height="170"></div>
+<img src="https://user-images.githubusercontent.com/61624336/112760358-0b903580-8fcd-11eb-9e08-46f78186e835.png" height="77" align="right">
 
 O modelo inicial era interpretado. Já o atual trocou a etapa do interpretador por uma 2ª compilação (compilador JIT, isto é, just-in-time).
 
 A tecnologia Java é composta por três plataformas:
 
-<img src="https://cdn.worldvectorlogo.com/logos/jee-2.svg" height="177" align="right">
+<img src="https://cdn.worldvectorlogo.com/logos/jee-2.svg" height="77" align="right">
 
 - **J2SE** ou **Java SE (Java Standard Edition)**: base da plataforma, inclui o ambiente de execução e as bibliotecas comuns;
+  
 - **J2EE** ou **Java EE (Java Enterprise Edition)**: versão voltada para o desenvolvimento de aplicações corporativas e aplicações web;
+  
 - **J2ME** ou **Java ME (Java Micro Edition)**: versão voltada para o desenvolvimento de aplicações móveis ou embarcadas.
 
 ## Ambiente de desenvolvimento
