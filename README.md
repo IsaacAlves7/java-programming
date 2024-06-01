@@ -302,4 +302,6 @@ O **Autowired** é uma anotação (indicação) onde deverá ocorrer uma injeç�
 
 Enquanto que o Spring Framework é baseado no padrão de injeção de dependências, o **Springboot** foca na configuração automática. O Spring Boot é um framework Java de código aberto usado para programar aplicativos autônomos baseados em Spring de nível de produção com o mínimo de esforço. O Spring Boot é uma extensão de convenção sobre configuração para a plataforma Spring Java destinada a ajudar a minimizar as preocupações de configuração ao criar aplicações baseadas no Spring. A maior parte do aplicativo pode ser pré-configurada usando a "visão opinativa" da equipe Spring da melhor configuração e uso da plataforma Spring e bibliotecas de terceiros.
 
+<img src="https://github.com/IsaacAlves7/java/assets/61624336/2a5b8942-1fc7-4c42-82e3-ba9d68d7d10f" align="right" height="177">
+
 Dado que a maior parte das configurações necessárias para o início de um projeto são sempre as mesmas, por que não iniciar um projeto com todas estas configurações já definidas?
