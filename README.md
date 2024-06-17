@@ -96,11 +96,18 @@ A tecnologia Java é composta por três plataformas:
   
 - **J2ME** ou **Java ME (Java Micro Edition)**: versão voltada para o desenvolvimento de aplicações móveis ou embarcadas.
 
+A sigla JSE pode referir-se a diferentes tecnologias dependendo do contexto, mas comumente tem dois significados principais:
+
+1. **Java Standard Edition (Java SE)**: Este é um conjunto de especificações e tecnologias fornecidas pela Oracle para o desenvolvimento de aplicativos Java. O Java SE inclui a linguagem de programação Java, a Máquina Virtual Java (JVM) e bibliotecas padrão para criar aplicações de desktop e servidor.
+
+2. **JavaScript Engine**: Este é um motor que executa o código JavaScript, comumente usado em navegadores web para executar scripts em páginas web. Exemplos de motores JavaScript incluem o V8 do Google Chrome, o SpiderMonkey do Mozilla Firefox e o Chakra do Microsoft Edge.
+
+Portanto, a sigla JSE pode se referir tanto ao Java Standard Edition, relacionado à linguagem de programação Java, quanto a um motor JavaScript, relacionado ao JavaScript. O significado exato depende do contexto em que a sigla é utilizada.
+
 ## Ambiente de desenvolvimento
 Existem os ambientes JDK e JRE para construir e executar uma aplicação Java.
 
-## Java Development Kit (JDK)
-Coleção de programas para, dentre outras tarefas, compilar e executar aplicações Java. Este é o kit necessário para o desenvolvedor, pois contém todo o suporte para a criação de aplicações em Java.
+Java Development Kit (JDK) é uma coleção de programas para, dentre outras tarefas, compilar e executar aplicações Java. Este é o kit necessário para o desenvolvedor, pois contém todo o suporte para a criação de aplicações em Java.
 
 Exemplo:
 - Javac (compilador Java);
